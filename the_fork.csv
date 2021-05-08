@@ -1,0 +1,2238 @@
+nombre,cocina,direccion,rating,num_opiniones,precio
+Vi i Tòfona,MEDITERRÁNEO,"Avinguda de la Riera de Cassoles, 56, 08012, Barcelona",9.3,3008,15
+Hofmann,MEDITERRÁNEO,"Carrer de la Granada del Penedès, 14, 08006, Barcelona",9.6,450,70
+TunaTeca Balfegó,AUTOR,"Avinguda Diagonal, 439, 08036, Barcelona",9.7,542,75
+Vi Negre,MEDITERRÁNEO,"Carrer de les Guilleries, 17, 08012, Barcelona",9.1,5445,30
+Can Pineda,CATALÁN,"Carrer de Sant Joan de Malta, 55, 08018, Barcelona",9.5,425,50
+Osmosis,MEDITERRÁNEO,"Carrer d'Aribau, 100, 08036, Barcelona",9.3,2255,55
+Boraz,MEDITERRÁNEO,"Carrer de Muntaner, 124, 08036, Barcelona",9.7,99,34
+Picasso,MEDITERRÁNEO,"Carrer de Mallorca, 422, 08013, Barcelona",9.0,33,22
+Musiú,ITALIANO,"Carrer de Pau Claris, 112, 08009, Barcelona",9.4,1024,12
+Fonda España by Martín Berasategui - Hotel España,CATALÁN,"C/ de Sant Pau, 9, 08001, Barcelona",9.6,2012,49
+Shanti,INDIO,"C/ Agustina Saragossa, 3-5, 08017, Barcelona",9.6,2171,17
+Manairó,MEDITERRÁNEO,"C/ Diputació, 424, 08013, Barcelona",9.3,1156,60
+Tram Tram,CATALÁN,"C/ Major de Sarrià, 121, 08017, Barcelona",9.3,307,60
+Don Asador,ARGENTINO,"Carrer del Comte d'Urgell, 111, 08011, Barcelona",9.3,314,20
+Papadam Indian Authentic,INDIO,"Ronda de Sant Pau, 11, 08015, Barcelona",9.5,1570,20
+Out of India,INDIO,"Carrer de Mallorca , enfrente Expo hotel , cerca de Sants estación., 08014, Barcelona",9.5,1140,25
+jhon&davis,AMERICANO,"Carrer de Buenaventura Muñoz, 12, 08018, Barcelona",8.9,121,15
+Windsor,CATALÁN,"Carrer de Còrsega, 286, 08008, Barcelona",9.2,1117,44
+Meraviglioso,ITALIANO,"C/ Valencia, 28, 08015, Barcelona",9.6,328,22
+Equilibri Bcn,MEDITERRÁNEO,"Carrer de Sardenya, 404, 08025, Barcelona",9.4,331,47
+Nectari by Jordi Esteve,MEDITERRÁNEO,"C/ Valencia, 28, 08015, Barcelona",9.4,685,70
+Tasty Q,MEDITERRÁNEO,"Carrer d'Aribau, 131, 08036, Barcelona",8.8,180,25
+Mi Burrito y Yo,YUMS,"Carrer del Pas de l'Ensenyança, 2, 08002, Barcelona",8.8,160,25
+Taverna Hofmann,MEDITERRÁNEO,"Carrer de Girona, 145, 08037, Barcelona",9.1,1127,30
+Le Romane,Welcome,"Carrer de Muntaner, 103, 08036, Barcelona",9.5,1010,20
+Caelis,MEDITERRÁNEO,"Via Laietana, 49 (Hotel Ohla Barcelona), 08003, Barcelona",9.5,1018,75
+El Calafate,ARGENTINO,"C/ París, 145, 08036, Barcelona",9.3,2375,32
+Delhi Darbar,INDIO,"Passatge de Josep Llovera, 11, 08021, Barcelona",9.3,2731,20
+La cocina de la parejita siciliana,€,"Carrer del Rector Triadó, 20, 08014, Barcelona",9.4,90,20
+Loft Brunch,YUMS,"Carrer de l'Hospital, 82, 08001, Barcelona",8.5,53,20
+Tandoori Nights,INDIO,"Carrer de les Carretes, 44, 08001, Barcelona",9.3,397,20
+Oria de Martín Berasategui,MEDITERRÁNEO,"Passeig de Gràcia, 75, 08008, Barcelona",9.6,1406,60
+Biocenter,VEGETARIANO,"C/ Pintor Fortuny, 25, 08001, Barcelona",9.3,1903,19
+Alba Granados,MEDITERRÁNEO,"Carrer d'Enric Granados, 34, 08008, Barcelona",9.3,115,40
+"La Distributrice ""Real and Healthy Food""",MEDITERRÁNEO,"Carrer del Comte d'Urgell, 130, 08011, Barcelona",9.5,215,15
+Tapas Bar Xerta by Fran López - Hotel Ohla Eixample 5*,MEDITERRÁNEO,"Carrer de Còrsega, 289, 08008, Barcelona",8.9,186,50
+Txirimiri,VASCO,"C/ Princesa, 11, 08003, Barcelona",9.3,153,21
+Magnaroma,Welcome,"Carrer de Còrsega, 47, 08029, Barcelona",9.0,280,15
+Cata Born by Catacroquet,MEDITERRÁNEO,"Carrer de la Pescateria, 6, 08003, Barcelona",8.5,33,24
+Dune Taperia,MEDITERRÁNEO,"Carrer de Sicília, 111, 08013, Barcelona",8.2,34,20
+Bao´s,CHINO,"Carrer de la Independència, 258, 08026, Barcelona",9.3,431,14
+Braserito de Muntaner,ARGENTINO,"Carrer de Muntaner, 560, 08022, Barcelona",9.3,176,25
+Gala,MEDITERRÁNEO,"Carrer de Joan Torras, 26, 08030, Barcelona",9.2,344,15
+Koh-i-Noor India Barcelona,INDIO,"Carrer del Marquès de Campo Sagrado,3, 08015, Barcelona",9.2,1065,20
+Shanghai Stories,CHINO,"Carrer d'Aribau, 73, 08036, Barcelona",9.3,486,20
+Cal Robert,MERCADO,"Carrer de Requesens, 7, 08001, Barcelona",9.3,366,18
+Falafelgi,LIBANÉS,"Carrer de Sardenya, 310, 08013, Barcelona",9.3,185,20
+Assunta Barcelona,ITALIANO,"Carrer de Provença, 300, 08008, Barcelona",9.4,637,50
+Tapes Barcelona,MEDITERRÁNEO,"C/ Ample, 46, 08002, Barcelona",9.2,277,16
+Tapes Jardí,MEDITERRÁNEO,"Carrer de la Marina, 59, 08005, Barcelona",8.7,38,20
+Masaya,LIBANÉS,"Carrer de Pau Claris, 128, 08009, Barcelona",9.3,442,20
+Little Andaman,INDIO,"Carrer de Muntaner, 182, 08036, Barcelona",9.6,205,27
+Pizza i més,€,"Plaça de Maragall, 13, 08027, Barcelona",8.9,135,20
+Fan Dim Sum,CHINO,"Carrer de Laforja, 128, 08021, Barcelona",9.1,383,20
+Single Fin Barcelona,FUSIÓN,"Carrer de Sicília, 294, 08013, Barcelona",9.1,223,15
+Il Ristorante della Nonna Dora,ITALIANO,"Carrer Gran de Sant Andreu, 154, 08030, Barcelona",9.1,347,20
+D' Street Poke & Bowls,FUSIÓN,"Carrer de Sabino Arana, 36, 08028, Barcelona",9.0,234,10
+Reial Istanbul Grill,TURCO,"Carrer del Vidre, 5, 08002, Barcelona",9.3,10,18
+Miyazaki Sushi,JAPONÉS,"Carrer de València, 11, 08015, Barcelona",8.9,324,15
+La Marimba,MEDITERRÁNEO,"Carrer de Pau Claris, 128, 08009, Barcelona",9.1,29,20
+Gandhi,INDIO,"Carrer de Balmes, 21, 08007, Barcelona",9.2,186,17
+Calabrasa,CATALÁN,"Passeig del Born, 27, 08003, Barcelona",9.0,1122,30
+Greek Aribau,GRIEGO,"Carrer d'Aribau, 50, 08011, Barcelona",9.4,36,20
+Corte & Brasa,ARGENTINO,"Carrer del Comandant Benítez, 20, 08028, Barcelona",9.1,189,22
+Pizzeria Gondola Barcelona,YUMS,"Plaça de Tirant lo Blanc, 2, 08005, Barcelona",9.3,40,20
+Indian curry house,INDIO,"Carrer de Muntaner, 443 - 445, 08021, Barcelona",9.4,29,18
+Buenissimo Burger,MEDITERRÁNEO,"Carrer de Peracamps, 7, 08001, Barcelona",9.6,22,15
+Milano Cocktail Bar,MEDITERRÁNEO,"Ronda de la Universitat, 35, 08007, Barcelona",9.7,221,14
+Mano Rota,MEDITERRÁNEO,"Carrer de la Creu dels Molers, 4, 08004, Barcelona",9.4,917,50
+The Alchemix,FUSIÓN,"Carrer de València, 212, 08011, Barcelona",9.7,600,75
+De Cupé,PERUANO,"Avinguda Meridiana, 211, 08027, Barcelona",9.6,1830,25
+Brusi 47 Gourmet,CREATIVO,"Carrer de Brusi, 47, 08006, Barcelona",9.3,52,35
+Tastem,MEDITERRÁNEO,"Carrer de Provença, 88, 08029, Barcelona",9.2,501,25
+Gallo Nero,ITALIANO,"Carrer de Jaume I, 3, 08002, Barcelona",9.3,292,15
+The Burger Maker Halal Barcelona,INTERNACIONAL,"Via Laietana, 12, 08003, Barcelona",8.8,69,15
+Gallo Nero,ITALIANO,"Carrer de Jaume I, 3, 08002, Barcelona",9.3,292,15
+The Burger Maker Halal Barcelona,INTERNACIONAL,"Via Laietana, 12, 08003, Barcelona",8.8,69,15
+Lounge Marrakech,MARROQUÍ,"Carrer de Béjar, 87, 08014, Barcelona",8.9,605,15
+El 90 Restaurante Bar,MEDITERRÁNEO,"Carrer del Consell de Cent, 90, 08015, Barcelona",9.0,328,20
+Ruta 6 Brewery,AMERICANO,"Carrer de París, 176, 08036, Barcelona",9.3,72,25
+"Urània II, boat restaurant",MEDITERRÁNEO,"Moll de Mestral, 08005, Barcelona",9.8,20,30
+Maurizio 2.0,€,"Carrer de Muntaner, 208, 08036, Barcelona",9.2,288,24
+Addis Abeba,ETÍOPE,"Vallespir, 44, 08014, Barcelona",9.4,60,20
+Sentore Ristorante Pizzeria Italiana,ITALIANO,"Avinguda Diagonal, 423, 08036, Barcelona",9.2,364,30
+El xiringo,ARROCERÍA,"Carrer de Sant Carles, 23, 08003, Barcelona",9.5,1112,30
+Tequila Cantina mexicana,MEXICANO,"Carrer de Bilbao, 13, 08005, Barcelona",9.0,370,15
+El Mexicano de Barcelona,MEXICANO,"C/ Villarroel, 233, 08036, Barcelona",9.2,3688,18
+Bembi,INDIO,"C/ Consell de Cent, 377, 08009, Barcelona",9.5,5018,23
+Via Napoli Restaurant and Pizzeria,ITALIANO,"Carrer de Nàpols, 256, 08025, Barcelona",9.1,133,35
+Crosmas Casanova,MEDITERRÁNEO,"Carrer de Casanova, 158, 08036, Barcelona",9.0,329,20
+Blai stop,MEDITERRÁNEO,"Carrer de Blai, 6, 08004, Barcelona",9.1,48,10
+A Pluma - Gran de Gràcia,MEDITERRÁNEO,"Carrer Gran de Gràcia, 7, 08012, Barcelona",9.6,47,25
+Blanc by Carme Ruscalleda - Mandarin Oriental,MEDITERRÁNEO,"Passeig de Gràcia, 38-40, 08007, Barcelona",9.3,931,50
+Foc i oli,CATALÁN,"Carrer de París, 177, 08036, Barcelona",9.4,191,22
+Indian Herbs,INDIO,"Carrer de Còrsega, 421, 08037, Barcelona",9.4,8,20
+Royal Nepal,Welcome,"Carrer de Nàpols, 255, 08025, Barcelona",9.1,635,20
+Chilangos,MEXICANO,"Carrer Nou de la Rambla, 95, 08001, Barcelona",9.1,2905,15
+El Racó d'en Cesc,CATALÁN,"C/ Diputación, 201, 08011, Barcelona",9.7,777,48
+Vinogrado,MEDITERRÁNEO,"Carrer de Benet Mateu, 59, 08034, Barcelona",9.7,479,40
+RESTAURANT LA FERRERIA DES DE 1987,MEDITERRÁNEO,"Carrer de Neptú, 4, 08006, Barcelona",9.5,1473,45
+Hummus Barcelona,VEGETARIANO,"Carrer de València, 227, 08007, Barcelona",8.9,1387,17
+Mantura Tapes asiatiques i Vins,€,"Carrer de l'Encarnació, 38, Barcelona, Spain, 08024, Barcelona",8.6,1287,18
+"Cal Trapella, Cuina de Mercat",MEDITERRÁNEO,"Carrer de Francisco Giner, 22, 08012, Barcelona",9.2,606,22
+La casa milagrosa,FUSIÓN,"Carrer de Floridablanca, 88, 08015, Barcelona",8.9,45,20
+Solric Pizza & Grill,MEDITERRÁNEO,"Carrer de Tarragona, 177, 08014, Barcelona",8.8,76,15
+Tango Grill,ARGENTINO,"Passeig de Garcia Fària, 31, 08005, Barcelona",9.0,1212,25
+Tequila Cantina Mexicana - Aragó,MEXICANO,"Carrer d'Aragó, 527, 08026, Barcelona",8.9,1162,15
+Santa Rita Experience,MEDITERRÁNEO,"Carrer de Veneçuela, 16, 08019, Barcelona",9.6,65,70
+Roma,MEDITERRÁNEO,"C/ Alfons XII, 39, 08006, Barcelona",9.3,934,31
+Chakrumi,MEDITERRÁNEO,"Carrer de Béjar, 66, 08014, Barcelona",9.6,9,23
+A'rogueira,MEDITERRÁNEO,"C. de Rocafort, 106, 08015, Barcelona",9.0,88,20
+La monda molleteria,ESPAÑOL,"Passatge de Josep Llovera, 1, 08021, Barcelona",9.4,8,16
+Vinarium,ITALIANO,"Carrer de Feliu Casanova, 24, 08028, Barcelona",9.3,17,13
+Te la comiste,VENEZOLANO,"Gran Via de les Corts Catalanes, 944, 08018, Barcelona",8.9,141,18
+Locanda Del Vulture,MEDITERRÁNEO,"Carrer de Fluvià, 94, 08019, Barcellona",9.1,171,25
+Viet Kitchen,VIETNAMITA,"Carrer d'Aribau, 137, 08036, Barcelona",9.4,549,15
+Les Mil i Una Nits,ÁRABE,"Carrer del Rosselló, 354, 08025, Barcelona",8.9,380,18
+Crêperie Les 3 Pommes,CREPERÍA,"Carrer Aragó, 150, 08011, Barcelona",9.6,381,12
+Can Boneta,CATALÁN,"Carrer de Balmes, 139, 08008, Barcelona",9.7,175,28
+El Rey del Bacalao,PORTUGUÉS,"Carrer de Sicília, 394, 08025, Barcelona",9.2,544,25
+Gran Viana,MEDITERRÁNEO,"Carrer dels Escudellers, 24, 08002, Barcelona",9.5,522,29
+Negresco,MEDITERRÁNEO,"Carrer de Roger de Llúria, 16-18, 08010, Barcelona",9.5,759,30
+Un chingo de sabor,MEXICANO,"Carrer de Provença, 357, 08037, Barcelona",9.1,63,17
+O'Toxo Tres Hermanos,MEDITERRÁNEO,"Carrer del Carme, 08001, Barcelona",9.1,154,20
+Galileo,ITALIANO,"Carrer d'Aribau, 152, 08036, Barcelona",9.7,89,25
+EdeNova,MEDITERRÁNEO,"Carrer del Rosselló, 209, 08008, Barcelona",8.8,82,20
+Babula Bar 1937,MEDITERRÁNEO,"Carrer de Pau Claris, 139, 08009, Barcelona",9.6,429,35
+Obama,INGLÉS,"Gran Via de les Corts Catalanes, 603, 08007, Barcelona",8.6,1383,20
+Las Corts,MERCADO,"Carrer del Pintor Tapiró, 45, 08028, Barcelona",9.5,164,32
+Ryu Ramen,JAPONÉS,"Carrer de Sancho de Ávila, 178, 08018, Barcelona",9.6,1577,15
+El Bierzo a Tope,CASTELLANO,"Carrer de la Diputació, 159, 08011, Barcelona",9.5,294,21
+Orvay,MEDITERRÁNEO,"Passeig del Born, 4, 08003, Barcelona",9.5,996,25
+Caradura,EUROPEO,"Carrer de Marià Cubí, 179, 08021, Barcelona",8.9,79,32
+2Y Restaurante Macrobiótico y Vegano,VEGETARIANO,"Passatge de Batlló, 4, 08036, Barcelona",9.6,425,11
+Inmortales Trattoria,Welcome,"C/ Marc Aureli, 27, 08006, Barcelona",8.7,1148,25
+Picasso,MEDITERRÁNEO,"Carrer de Mallorca, 422, 08013, Barcelona",9.0,33,22
+Tosca del carme,ESPAÑOL,"Carrer del Carme, 40, 08001, Barcelona",9.1,13,15
+Pizzería Alson,€,"Carrer de Tamarit, 82, 08004, Barcelona",8.8,276,15
+Ootoyasushi,ASIÁTICO,"Carrer de l'Ajuntament, 1, 08030, Barcelona",8.8,1343,15
+Solo Pizza,Welcome,"Carrer d'Enric Granados, 108, 08008, Barcelona",9.6,1067,25
+Metric Market,MEDITERRÁNEO,"Avinguda Diagonal, 505, 08029, Barcelona",8.9,1637,25
+Konkai Sushi,JAPONÉS,"Carrer de Roger de Flor, 222, 08013, Barcelona",8.8,588,16
+Segons Mercat - Aribau,MEDITERRÁNEO,"Carrer d'Aribau, 3 Bis, 08011, Barcelona",8.6,1905,20
+El Martinet,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 552, 08011, Barcelona",9.5,5085,25
+Can Saia,MEDITERRÁNEO,"Carrer del Bruc, 157, 08037, Barcelona",9.3,339,35
+La Plassohla,MARISQUERÍA,"Vía Laietana, 49, 08003, Barcelona",8.9,804,30
+La Palmera,MEDITERRÁNEO,"C/ Enric Granados, 57, 08008, Barcelona",9.5,651,33
+Matsuya,JAPONÉS,"Carrer del Dr. Ibáñez, 12, 08014, Barcelona",8.6,139,18
+Notariat,€,"Carrer del Pintor Fortuny, 22, 08001, Barcelona",8.7,80,15
+Can Reixes,MEDITERRÁNEO,"Plaça Reial, 12, 08002, Barcelona",0.0,0,30
+Barcino,MEDITERRÁNEO,"Rambla de Catalunya, 13, Barcelona, Spain, 08007, Barcelona",8.7,685,25
+2Y Restaurante Macrobiótico y Vegano,VEGETARIANO,"Passatge de Batlló, 4, 08036, Barcelona",9.6,425,11
+Casa Jordi,CATALÁN,"Pasaje Marimón, 18, 08021, Barcelona",9.5,665,30
+Meatpacking Barcelona,AMERICANO,"Carrer d'Atenes, 42, 08006, Barcelona",0.0,3,20
+Komai Sushi Bar & Restaurant,JAPONÉS,"Avinguda Diagonal, 40, 08019, Barcelona",8.9,25,15
+Picasso,MEDITERRÁNEO,"Carrer de Mallorca, 422, 08013, Barcelona",9.0,33,22
+Tosca del carme,ESPAÑOL,"Carrer del Carme, 40, 08001, Barcelona",9.1,13,15
+Melic del Gòtic,MEDITERRÁNEO,"Carrer de Montsió, 7, 08002, Barcelona",9.0,23,20
+La Vietnamita - Born,ASIÁTICO,"Carrer del Comerç, 17, 08003, Barcelona",8.8,67,18
+Sintonia,MEDITERRÁNEO,"Carrer del Rosselló, 249, 08008, Barcelona",9.4,269,35
+Pizzería Alson,€,"Carrer de Tamarit, 82, 08004, Barcelona",8.8,276,15
+Ootoyasushi,ASIÁTICO,"Carrer de l'Ajuntament, 1, 08030, Barcelona",8.8,1343,15
+Musiú,ITALIANO,"Carrer de Pau Claris, 112, 08009, Barcelona",9.4,1024,12
+Món Việt,VIETNAMITA,"Carrer de Sepúlveda, 94, 08015, Barcelona",9.3,968,17
+El Refugi,MEDITERRÁNEO,"Carrer de Rogent, 18, 08026, Barcelona",9.7,34,30
+Metric Market,MEDITERRÁNEO,"Avinguda Diagonal, 505, 08029, Barcelona",8.9,1637,25
+Segons Mercat - Aribau,MEDITERRÁNEO,"Carrer d'Aribau, 3 Bis, 08011, Barcelona",8.6,1905,20
+El Martinet,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 552, 08011, Barcelona",9.5,5085,25
+Can Saia,MEDITERRÁNEO,"Carrer del Bruc, 157, 08037, Barcelona",9.3,339,35
+La Palmera,MEDITERRÁNEO,"C/ Enric Granados, 57, 08008, Barcelona",9.5,651,33
+El Modernista,CATALÁN,"Passeig de Garcia Fària, 29, 08005, Barcelona",8.4,313,25
+Tapa Tapa - Maremagnum,MEDITERRÁNEO,"Moll d'Espanya, 5, 08039, Barcelona",8.7,75,11
+Notariat,€,"Carrer del Pintor Fortuny, 22, 08001, Barcelona",8.7,80,15
+Ostaia Cucina Italiana,ITALIANO,"Carrer d'Aribau, 58, 08011, Barcelona",9.5,813,20
+Makekosa - Pizzería Gourmet,ITALIANO,"Carrer de Floridablanca, 102, 08015, Barcelona",9.5,437,27
+SAGARDI BCN Centre,VASCO,"Carrer de Muntaner, 70-72, 08011, Barcelona",9.6,291,40
+Can Cargol,MEDITERRÁNEO,"Calle Valencia, 324, 08009, Barcelona",8.7,441,20
+Negronix Bar,INTERNACIONAL,"Carrer de Trinxant, 125, 08041, Barcelona",9.0,48,20
+Restaurante Sushi taller,JAPONÉS,"Carrer de Bigai, 4, 08022, Barcelona",8.9,96,15
+Adil tandoori restaurante,INDIO,"Carrer de l'Est, 9, 08001, Barcelona",9.1,37,15
+KoHaku,ASIÁTICO,"Carrer d'Alfons XII, 34, 08006, Barcelona",8.9,355,60
+Saó BCN,MEDITERRÁNEO,"Carrer de Cesare Cantú, 2, 08023, Barcelona",9.7,216,25
+Cafè Godot,MEDITERRÁNEO,"Carrer de Sant Domènec, 19, 08012, Barcelona",9.5,271,30
+La Cuina de Laietana,MEDITERRÁNEO,"Via Laietana, 71, 08003, Barcelona",9.2,390,25
+Cierzo,MEDITERRÁNEO,"Carrer de Bailèn, 56, 08009, Barcelona",9.6,698,20
+La Estrella,MEDITERRÁNEO,"Carrer d'Ocata, 6, bj, 08003, Barcelona",9.6,689,20
+Don Asador,ARGENTINO,"Carrer del Comte d'Urgell, 111, 08011, Barcelona",9.3,314,25
+MexGal,FUSIÓN,"Av. Francesc Ferrer i Guàrdia, 13, 08038, Barcelona",9.4,89,35
+Tocca Ristorante,€,"Moll de Gregal, 19, 08005, Barcelona",9.0,3,15
+Bar petit tibetano,ASIÁTICO,"Carrer del Bruc, 121, 08037, Barcelona",8.7,26,18
+La Chelinda - Enric Granados,MEXICANO,"Carrer d'Enric Granados, 9, 08007, Barcelona",8.5,185,15
+BioXoco,€,"Carrer de la Indústria, 252, 08026, Barcelona",8.8,36,14
+Gornishki,MEDITERRÁNEO,"Avinguda Diagonal, 608, 08021, Barcelona",8.8,13,15
+Little India,INDIO,"Carrer del Consell de Cent, 313, 08007, Barcelona",8.7,89,30
+Bronzo Bar e Cucina - Eixample,ITALIANO,"Carrer de Còrsega, 307, 08008, Barcelona",9.5,670,20
+La Terraza Miró,ESPAÑOL,"Carrer de Tarragona, 129, 08014, Barcelona",9.5,2523,30
+El Salón,MEDITERRÁNEO,"C/ Hostal D'en Sol, 6, 08002, Barcelona",9.4,977,25
+La boca agua,MEDITERRÁNEO,"Carrer del Roser, 34, 08004, Barcelona",9.3,36,30
+Casa Xica,ASIÁTICO,"Carrer de la França Xica, 20, 08004, Barcelona",9.4,161,36
+Cibulet,FUSIÓN,"Carrer de Francisco Giner, 54, 08012, Barcelona",9.7,1039,"[15, 15, 60, 25, 30, 25, 20, 20, 25, 35, 15, 18, 15, 14, 15, 30, 20, 30, 25, 30, 36]"
+La Barra del Gourmet,MEDITERRÁNEO,"Carrer de la Diputació, 164, 08011, Barcelona",9.3,160,55
+Pura Brasa - Rambla Catalunya,ASADOR,"C/ Rambla Cataluña, 13, 08007, Barcelona",8.8,248,16
+Lluis de les Moles,CATALÁN,"C/ de les Moles, 25, 08002, Barcelona",9.4,486,25
+Antigua,MEDITERRÁNEO,"Carrer de Marià Cubí, 59, 08006, Barcelona",9.4,24267,30
+Bivio,MEDITERRÁNEO,"Passeig de Joan de Borbó, 60, 08003, Barcelona",8.6,214,24
+Papadam Indian Authentic,INDIO,"Ronda de Sant Pau, 11, 08015, Barcelona",9.5,1570,20
+Internacional,MEXICANO,"Carrer de la Jonquera, 26, 08005, Barcelona",8.6,887,20
+Out of India,INDIO,"Carrer de Mallorca , enfrente Expo hotel , cerca de Sants estación., 08014, Barcelona",9.5,1140,25
+Rooftop Garden - El Palace Barcelona,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 668 (Planta 7), 08010, Barcelona",9.4,354,45
+Yoi Yoi Gion,JAPONÉS,"Avinguda Diagonal, 383, 08008, Barcelona",9.4,861,15
+Quixote,MEDITERRÁNEO,"C/ Consell de Cent, 314, 08007, Barcelona",8.6,3057,20
+Can Solé,MEDITERRÁNEO,"Carrer de Sant Carles, 4, 08003, Barcelona",9.4,574,60
+Medio o Pinto,VENEZOLANO,"Carrer de Calvet, 27, 08021, Barcelona",9.3,332,25
+Central Barcelona,MEDITERRÁNEO,"Carrer d'Aribau, 86, 08036, Barcelona",9.3,38,15
+Bam Bam Doner,TURCO,"Ronda de la Universitat, 16, 08007, Barcelona",9.3,5,12
+Vegan Food Heaven,€,"Av. d'Icària, 178, 08005, Barcelona",9.3,8,15
+Tabú,JAPONÉS,"Carrer del Bruc, 46, 08010, Barcelona",8.9,17,25
+L' Origen,MEDITERRÁNEO,"Carrer d'Aribau, 100, 08036, Barcelona",8.9,40,25
+Conesa Beer Barcelona,CATALÁN,"Carrer de Casanova, 62, 08011, Barcelona",9.0,104,15
+El cafe d'en Victor,MEDITERRÁNEO,"Carrer de la Tapineria, 12, 08002, Barcelona",8.8,78,25
+Stix SushiBar,JAPONÉS,"Carrer de València, 189, 08011, Barcelona",8.3,8,20
+Can Pizza - Poble Nou,ITALIANO,"Rambla del Poblenou, 127, 08018, Barcelona",9.6,62,18
+El 9 Porró,MEDITERRÁNEO,"Dr. Trueta 225, 08005, Barcelona",8.5,40,15
+蜀乐香 - SLX Sichuan Hot Pot,CHINO,"Gran Via de les Corts Catalanes, 692, 08010, Barcelona",9.7,60,25
+Mimo's Born,MEDITERRÁNEO,"Plaça de Jacint Reventós, 08003, Barcelona",9.5,161,25
+Greco's of Brooklyn,ITALIANO,"Carrer de Mallorca, 308, 08037, Barcelona",9.5,175,15
+La Maroteca - Peix Salvatge,MARISQUERÍA,"Carrer d'Aribau, 37, 08011, Barcelona",9.5,141,60
+Las Cazuelitas Mexicanas,MEXICANO,"Carrer de la Granada del Penedès, 19, 08006, Barcelona",9.3,214,17
+Meraviglioso,ITALIANO,"C/ Valencia, 28, 08015, Barcelona",9.6,328,22
+Jardín de Chen,CHINO,"Carrer de Villarroel, 6, Barcelona, Spain, 08011, Barcelona",9.6,34,19
+Karakala,LIBANÉS,"C/ Torrent de la Olla, 136, 08012, Barcelona",9.4,749,18
+Funicular,MEDITERRÁNEO,"C/ Vallhonrat, 28, 08004, Barcelona",9.5,129,20
+La Tere Gastrobar,MEDITERRÁNEO,"Calle Riego 25 Bajos, 08014, Barcelona",9.5,1637,20
+Oporto,PORTUGUÉS,"Carrer de Sardenya, 296, Local 1, 08013, Barcelona",9.5,614,25
+Napa,AMERICANO,"C/ Aribau, 151, 08036, Barcelona",9.5,638,50
+La Taverna del Clínic,MEDITERRÁNEO,"C/ Rosello, 155, 08036, Barcelona",9.1,474,16
+Tapería Ordesa,ESPAÑOL,"Gran Via de les Corts Catalanes, 522, 08011, Barcelona",8.7,1267,30
+Bilou,CATALÁN,"Carrer de Pau Claris, 85, 08010, Barcelona",9.4,97,18
+Fukuoka Sushi & Grill,JAPONÉS,"Carrer de Milà i Fontanals, 60, 08012, Barcelona",9.4,1199,11
+Tapa Tapa - C.C. Arenas,MEDITERRÁNEO,"Carrer de Llança, 15, 08015, Barcelona",8.4,77,15
+Junca,ESPAÑOL,"Passeig de la Verneda, 123, 08020, Barcelona",8.3,18,15
+Antic Villarroel,MEDITERRÁNEO,"Carrer de Villarroel, 182, 08036, Barcelona",9.4,93,35
+Cocorocó Sazón Peruana,PERUANO,"Carrer de Muntaner, 83C local 1, 08011, Barcelona",9.3,250,17
+Brera Restaurant Gnocchi Bar,ITALIANO,"Carrer de l'Àliga, 25, 08014, Barcelona",9.4,504,30
+sensEspina,MEDITERRÁNEO,"Carrer de París, 209, 08008, Barcelona",9.4,141,20
+El Kiosko - Barcelona,MEDITERRÁNEO,"Av. de Josep Tarradellas, 153, 08029, Barcelona",9.1,994,18
+Catalunya,ESPAÑOL,"Carrer d'Avinyó, 42, 08002, Barcelona",8.0,188,20
+El Clot,MEDITERRÁNEO,"Carrer de Aragó, 600, 08018, Barcelona",8.5,669,13
+Anauco Sagrada Familia,AMERICANO,"Carrer de València, 428, 08013, Barcelona",9.3,1024,22
+Souvenir,RUSO,"Carrer de València, 232, 08007, Barcelona",9.3,834,"[19, 18, 20, 20, 25, 50, 16, 30, 18, 11, 15, 15, 35, 17, 30, 20, 18, 20, 13, 22]"
+Bombay spicy,INDIO,"Carrer de Sant Pau, 16-18, 08001, Barcelona",9.6,49,20
+Terraza Restaurante Catedral 1951,MEDITERRÁNEO,"Avenida Catedral, 7, 08002, Barcelona",9.5,150,30
+Askadinya,ÁRABE,"Carrer de Verdi, 28, 08012, Barcelona",9.4,232,18
+Pan Asia,JAPONÉS,"Carrer de Brusi, 37, 08006, Barcelona",8.4,271,18
+B Lounge - Hotel Barceló Raval,MEDITERRÁNEO,"Rambla del Raval, 17-21, 08001, Barcelona",0.0,0,26
+La lola de las arenas,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 373, 08015, Barcelona",8.6,165,20
+Le Divan,FUSIÓN,"Carrer de Guillem Tell, 10, 08006, Barcelona",9.0,39,18
+Suculent,MEDITERRÁNEO,"Rambla del Raval, 45, 08001, Barcelona",9.5,301,45
+Da Antonio,ITALIANO,"Carrer de Vallmajor, 33, 08021, Barcelona",8.7,17,25
+Restaurant Smith,MEDITERRÁNEO,"Carrer dels Cortada, 32, 08035, Barcelona",8.7,18,20
+Tasty Q,MEDITERRÁNEO,"Carrer d'Aribau, 131, 08036, Barcelona",8.8,180,25
+Lokal,ESPAÑOL,"Carrer del Bruc, 118, 08009, Barcelona",9.5,629,20
+Arábica,LIBANÉS,"Carrer de Viladomat, 213, 08029, Barcelona",9.3,3948,15
+Al Jaima de Abou Khalil,LIBANÉS,"Carrer de València, 218, 08011, Barcelona",9.6,279,20
+Pococlaro gastrobar,CATALÁN,"Carrer de Juan de Garay, 11, 08041, Barcelona",8.1,8,23
+Tataki Ramen,ASIÁTICO,"Travessera de les Corts, 11, 08014, Barcelona",8.4,31,15
+Grill restaurant,ASADOR,"Carrer de la Freneria, 5, 08002, Barcelona",9.1,1134,25
+La parrilla gourmet,TURCO,"Gran Via de les Corts Catalanes, 274, 08004, Barcelona",8.3,23,20
+Hiraya,JAPONÉS,"Carrer d'Ausiàs Marc, 127, 08013, Barcelona",9.4,112,20
+Tucco Real Food Eixample,ITALIANO,"Carrer del Consell de Cent, 247, 08011, Barcelona",9.4,156,12
+Lolo mes que vins,MEDITERRÁNEO,"Carrer de Riego, 18, 08014, Barcelona",9.1,282,20
+VABOWL -Pionero en cocina al VAPOR-,ASIÁTICO,"Diputación, 139 Local, 08011, Barcelona",9.4,228,13
+LAVICOCA · Bar de Vins,MEDITERRÁNEO,"Carrer Hostafrancs de Sió, 18, 08014, Barcelona",9.3,460,20
+CLARIUS RESTAURANT,MEDITERRÁNEO,"Carrer de Sepúlveda, 159, 08011, Barcelona",9.4,186,20
+Il Pomo d'Oro,ITALIANO,"Carrer del Rosselló, 239, 08008, Barcelona",9.1,2272,17
+Pasa Tapas,MEDITERRÁNEO,"Carrer del Dr. Aiguader, 6, 08003, Barcelona",8.5,77,18
+Tutu - Vietnamese Cuisine,VIETNAMITA,"Carrer del Clot, 31, 08018, Barcelona",9.1,222,15
+Pulpería Can Lampazas - Buenos Aires,GALLEGO,"Carrer de Buenos Aires, 2, 08029, Barcelona",9.4,2448,30
+Level,MEDITERRÁNEO,"Carrer del Rosselló, 206, 08008, Barcelona",8.5,58,15
+Little Corea,COREANO,"Carrer de Villarroel, 107, 08011, Barcelona",9.3,363,20
+El Chato,VASCO,"Gran Via de Les Corts Catalanes, 697, 08013, Barcelona",9.1,629,24
+Da Paolo,ITALIANO,"Avenida Madrid, 73, 08028, Barcelona",9.4,208,25
+Maison Carne,€,"Carrer de Mallorca, 204, 08036, Barcelona",9.7,265,25
+L'Arròs - Passeig Joan de Borbó,MEDITERRÁNEO,"Passeig Don Joan Borbó Comte Barcelona, 12, 08003, Barcelona",8.8,516,25
+Le Romane,Welcome,"Carrer de Muntaner, 103, 08036, Barcelona",9.5,1010,20
+La Triunfal,MEDITERRÁNEO,"Passeig de Sant Joan, 4, 08010, Barcelona",8.6,932,25
+Ekubo,AUTOR,"Carrer Comte d'Urgell, 108, 08011, Barcelona",9.4,425,40
+Kibotaberna,JAPONÉS,"Carrer de Sant Eusebi, 38, 08006, Barcelona",9.4,457,40
+ApriBocca,€,"Plaça de Sant Bernat Calbó, 6, 08005, Barcelona",9.5,1240,15
+SAGARDI BCN Gòtic,VASCO,"Carrer de l'Argenteria, 62, 08003, Barcelona",9.4,380,45
+Taquerías Tamarindo,MEXICANO,"Carrer d´Aragó, 236, 08007, Barcelona",9.5,252,15
+El Rebost de Sant Antoni,MEDITERRÁNEO,"Carrer del Comte d'Urgell, 19, 08011, Barcelona",9.5,1227,25
+Ají,JAPONÉS,"Carrer de la Marina, 19, 08005, Barcelona",9.4,1118,35
+Bimba's,ITALIANO,"Carrer de Flos i Calcat, 18, 08034, Barcelona",8.9,7084,25
+Vía Margutta,Welcome,"C/ Fonollar, 2, 08003, Barcelona",9.2,2130,22
+Foz,MEDITERRÁNEO,"C/ Diputació, 174, 08011, Barcelona",9.2,805,25
+Agüita wine,Welcome,"Carrer de la Volta d'en Colomines, 2, 08003, Barcelona",9.4,34,17
+Quinoa Aragó Vegetarià,VEGETARIANO,"Carrer d'Aragó, 209, 08011, Barcelona",9.0,1040,80
+Speakeasy,ESPAÑOL,"C/ Aribau, 162, 08036, Barcelona",9.3,353,25
+Montesquiu,ESPAÑOL,"C/ Mandri, 56, 08022, Barcelona",9.0,919,"[20, 24, 25, 25, 25, 20, 25, 40, 40, 15, 45, 15, 25, 35, 25, 22, 25, 17, 80, 25]"
+Ventuno Bar,MEDITERRÁNEO,"Carrer de l'Or, 21, 08012, Barcelona",9.6,934,15
+La Tata,MEDITERRÁNEO,"Carrer de Calàbria, 69, 08015, Barcelona",9.4,6091,40
+Jerusalem,ÁRABE,"Carrer de l'Escar, 14, 08039, Barcelona",8.6,46,20
+Ukai - Manuel Girona,JAPONÉS,"Passeig de Manuel Girona, 42, 08034, Barcelona",8.5,26,20
+Kenji sushi & bar,JAPONÉS,"Carrer de Sepúlveda, 3, 08015, Barcelona",8.3,8,15
+Terra Galega,GALLEGO,"Carrer de Sants, 238, 08028, Barcelona",8.5,16,26
+Kiltro Restobar,FUSIÓN,"Carrer del Montseny, 13, 08012, Barcelona",9.5,417,20
+Verdi Dinou,MEDITERRÁNEO,"Carrer de Verdi, 19, 08012, Barcelona",9.7,58,20
+Podonamu,COREANO,"Carrer de València, 164, 08011, Barcelona",9.4,65,15
+El Deliciós - Comida Etíope,ETÍOPE,"Carrer de Alegre de Dalt, 6, 08024, Barcelona",8.6,422,15
+La Bacardina,CATALÁN,"Carrer de Santa Amàlia, 38, 08031, Barcelona",8.6,516,18
+Ramen Dou,JAPONÉS,"Carrer Comtal, 11, 08002, Barcelona",9.4,9,15
+Especiarium Bar,MEDITERRÁNEO,"Carrer de la Princesa, 29, 08003, Barcelona",8.1,12,15
+JOY JAPONES BUFFET,JAPONÉS,"C. d'Aragó, 193, 08011, Barcelona",9.0,681,15
+Pasta market express,ITALIANO,"Carrer d'Europa, 34, 08028, Barcelona",9.4,48,9
+Ramen Kuma,JAPONÉS,"Carrer de Sardenya, 178, 08013, Barcelona",8.3,490,15
+Tapa Tapa - Passeig de Gracia,MEDITERRÁNEO,"Passeig de Gràcia, 44, 08007, Barcelona",8.3,168,11
+Lascar 74,MARISQUERÍA,"Carrer del Roser, 74, 08004, Barcelona",9.3,655,17
+Mesón Jesus,MEDITERRÁNEO,"Carrer dels Cecs de la Boqueria, 4, 08002, Barcelona",0.0,0,20
+SantaBel,MEDITERRÁNEO,"Carrer de París, 67, 08029, Barcelona",9.0,2365,30
+Margherita,ITALIANO,"C/ Rosselló, 253, 08008, Barcelona",9.2,632,22
+Indochine Ly Leap,AUTOR,"C/ Muntaner, 82, 08011, Barcelona",8.8,2926,50
+Txalaparta,VASCO,"C/ Sants 146 - 152, 08028, Barcelona",9.0,219,27
+Can Pizza - Sagrada Família,INSIDER,"Passatge de Simó, 21, 08025, Barcelona",9.5,1089,18
+San Pedrito,MEXICANO,"Carrer de la Fusina, 6, 08003, Barcelona",9.5,619,20
+"Lasun, Gastronomía Nepalí",ASIÁTICO,"Carrer d'Aragó, 397, 08013, Barcelona",9.4,659,14
+Madame,ASIÁTICO,"Carrer d'En Robador, 22, 08001, Barcelona",9.4,744,20
+Tapa Tapa - Glòries,MEDITERRÁNEO,"Plaça de les Glòries Catalanes, 10, 08013, Barcelona",8.5,108,11
+Asian ways Gotico,ASIÁTICO,"Carrer de Julià Portet, 6, 08002, Barcelona",9.4,1808,15
+La Republica del Taco,MEXICANO,"Carrer de Sant Quintí, 30, 08026, Barcelona",9.4,80,15
+Il Mercante Di Venezia,ITALIANO,"Carrer de Josep Anselm Clavé, 11, 08002, Barcelona",9.4,1912,24
+SpaccaNapoli BCN,ITALIANO,"Carrer del Rec Comtal, 6, 08003, Barcelona",9.6,905,15
+Pancomido,MEDITERRÁNEO,"Carrer del Dr. Fleming, 23, 08017, Barcelona",9.2,133,20
+Buon Appetito,€,"Av. del Marquès de l'Argentera, 19, 08003, Barcelona",9.3,576,15
+Pelai by Eboca Restaurant,CATALÁN,"Carrer de Pelai, 28, 08001, Barcelona",9.1,180,18
+Coure,MEDITERRÁNEO,"Passatge de Marimon, 20, 08021, Barcelona",9.3,278,65
+Mako,JAPONÉS,"Carrer del Consell de Cent, 255, 08011, Barcelona",9.3,1732,25
+L'aliança Les Corts,GALLEGO,"Carrer de Nicaragua, 140, 08029, Barcelona",7.9,18,25
+#Más Que México,MEXICANO,"Carrer Font de Canyelles 8, 08016, Barcelona",9.6,28,18
+Espai Quera,CATALÁN,"Carrer de Petritxol, 2, 08002, Barcelona",0.0,12,20
+El plato rico,MEDITERRÁNEO,"Carrer de Sant Antoni Maria Claret, 151, 08025, Barcelona",6.5,4,15
+Tragaldabas Restaurante,MEDITERRÁNEO,"Carrer de Mallorca, 96, 08029, Barcelona",9.4,60,35
+Tapa Tapa Xiringuito,MEDITERRÁNEO,"Carrer de Pontevedra, 56, 08003, Barcelona",8.1,63,11
+Vinateria rosaluna,ESPAÑOL,"Carrer de Floridablanca, 5, 08015, Barcelona",9.0,272,15
+The Fresh Poke- Travessera,JAPONÉS,"Travessera de Gràcia, 90, 08006, Barcelona",9.2,289,14
+Magnaroma,Welcome,"Carrer de Còrsega, 47, 08029, Barcelona",9.0,280,15
+Guayoyo,Welcome,"Plaça del Camp, 2, 08022, Barcelona",8.1,39,15
+Agust,ESPAÑOL,"Carrer del Parlament, 54, Barcelona, Spain, 08015, Barcelona",8.7,2155,45
+Buenos Aires Grill Eixample,ARGENTINO,"C/ València, 189, 08011, Barcelona",9.2,2269,27
+Rakumi,JAPONÉS,"Carrer Ample, 50, 08002, Barcelona",8.3,713,20
+Esthvan,MARISQUERÍA,"C/ Palència, 45 - esquina C/Honduras, 08027, Barcelona",9.3,179,34
+Obe Restaurant,ITALIANO,"Plaza de Santa Catalina, 1, 08003, Barcelona",9.5,351,25
+Cata Born by Catacroquet,MEDITERRÁNEO,"Carrer de la Pescateria, 6, 08003, Barcelona",8.5,33,24
+Entre Catas,ESPAÑOL,"Carrer de Huelva, 47, 08020, Barcelona",9.4,104,25
+La Adelita Botanero,MEXICANO,"Carrer de Muntaner, 100, 08036, Barcelona",9.1,2834,20
+Diegos Bar Restaurant,ESPAÑOL,"Avinguda Meridiana, 127, 08026, Barcelona",9.4,277,20
+Rincón del Norte,GALLEGO,"Carrer de Joan Güell, 107, 08028, Barcelona",8.2,1099,19
+Antic Bocoi del Gotic,CATALÁN,"Baixada de Viladecols, 3, 08002, Barcelona",9.3,761,20
+Transilvania,ESTE,"Carrer de Provença, 99, 08029 Barcelona, Spain, 08029, Barcelona",9.2,566,20
+L'Osteria del Contadino,ITALIANO,"C/ Saragossa, 123, 08006, Barcelona",9.3,294,29
+Can Fusté,MEDITERRÁNEO,"Gran Via de Carles III, 50-52, 08028, Barcelona",9.1,193,50
+Italian Ocean,ITALIANO,"Carrer de la Jonquera, 4, 08005, Barcelona",8.2,21,15
+Roma,€,"C. de Mallorca, 12, 08014, Barcelona",7.8,24,20
+Buena morena,MEXICANO,"Carrer d'Aragó, 122, 08015, Barcelona",9.4,656,20
+Restaurant Gaudeix,MEDITERRÁNEO,"Avinguda de Gaudí, 52, 08025, Barcelona",7.8,27,17
+INKA BURG,MEDITERRÁNEO,"Avinguda de la República Argentina, 17, 08023, Barcelona",9.3,46,15
+Open Bar,MEDITERRÁNEO,"Carrer de Roger de Llúria, 155, 08037, Barcelona",0.0,0,15
+Japon Jamon Arenas,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 390, 08015, Barcelona",7.5,11,14
+Kibera Senses,JAPONÉS,"Plaça del Sortidor, 18, 08004, Barcelona",9.1,355,20
+TENDIEZ - Hotel Pullman Barcelona Skipper,MEDITERRÁNEO,"Av. del Litoral, 10, 08005, Barcelona",9.6,1100,39
+Akashi Gallery,JAPONÉS,"Carrer del Rosselló, 197, 08036, Barcelona",9.1,302,25
+La Barra de Carles Abellan,MEDITERRÁNEO,"Plaça de la Rosa del Vents, 1 - Final Passeig de Joan de Borbó, 08039, Barcelona",9.6,515,60
+La Llotja - El Nacional BCN,MEDITERRÁNEO,"Passeig de Gràcia, 24 Bis, 08007, Barcelona",9.2,102,40
+Pulpería Can Lampazas,GALLEGO,"Av. del Paraŀlel, 159, 08004, Barcelona",9.2,4628,30
+La Garriga,CATALÁN,"C/ Mallorca, 272, 08037, Barcelona",9.1,178,28
+Un Capítol de Vietnam,VIETNAMITA,"Carrer de Nàpols, 266, 08025, Barcelona",8.9,1027,20
+MonDoré,MEDITERRÁNEO,"C/ Floridablanca, 3, 08015, Barcelona",8.9,520,23
+Rossini,Welcome,"Plaça Reial, 13, 08002, Barcelona",9.1,302,25
+Nakashita,JAPONÉS,"C/ Rec Comtal, 15, 08003, Barcelona",8.9,1062,33
+Fucsia,MEDITERRÁNEO,"C/ Laforja, 134, 08021, Barcelona",7.5,2211,19
+Ándele París,MEXICANO,"Carrer de París, 147, 08036, Barcelona",9.4,914,24
+La Terraza del Claris - Hotel Claris,MEDITERRÁNEO,"C/ Pau Claris, 150, 08009, Barcelona",9.4,2237,55
+9 Reinas - Barcelona,ARGENTINO,"Carrer de València, 267, 08007, Barcelona",9.4,1964,44
+Gandhi Executive Food,INDIO,"C/ del Comte Borrell, 160, 08015, Barcelona",9.2,186,20
+Gastrobar Pipa,MEDITERRÁNEO,"Carrer de Llull, 159, 08005, Barcelona",9.0,230,20
+Zafra,MEDITERRÁNEO,"Carrer de Girona, 84, 08009, Barcelona",7.8,104,23
+Arrosseria Xàtiva Sant Antoni,ARROCERÍA,"Carrer de Muntaner, 6, 08011, Barcelona",9.0,336,30
+Marina - Hotel Arts Barcelona,MEDITERRÁNEO,"Carrer de la Marina, 19, 08005, Barcelona",8.9,27,30
+Vaho,ASIÁTICO,"Plaça de la Sagrada Família, 21, 08013, Barcelona",8.4,341,14
+La Turuleca,PERUANO,"Carrer d'Arizala, 5, 08028, Barcelona",9.0,1397,25
+Les Finestres de Llúria by Eboca Restaurant,CATALÁN,"Carrer de Roger de Llúria, 60, 08009, Barcelona",9.0,222,20
+"Sagués ""Il Ristorante""",INSIDER,"C/ Sagués, 25, 08021, Barcelona",9.2,8952,30
+Brasería Piras,CATALÁN,"C/ Montseny, 10, 08012, Barcelona",9.1,1086,15
+Avenir restaurant,CATALÁN,"Carrer de l'Avenir, 72, 08021, Barcelona",9.7,15,35
+Brunch & Bakery,AMERICANO,"Carrer de Déu i Mata 50/52, 08029, Barcelona",9.3,147,15
+Café Pendiente Brunch & Drinks,MEDITERRÁNEO,"Carrer del Rosselló, 152, 08036, Barcelona",9.3,220,16
+Audaz,MEDITERRÁNEO,"Ronda de Sant Pere, 12, 08010, Barcelona",7.9,66,25
+Otra - Cosa Taberna,MEDITERRÁNEO,"Carrer Gran de Sant Andreu, 45, 08030, Barcelona",9.2,125,30
+La Conservera,MEDITERRÁNEO,"Avenir 44, 08021, Barcelona",9.1,33,20
+Merquén,LATINO,"Carrer del Rector Triadó, 72, 08014, Barcelona",9.2,134,25
+Churruca 5,MEDITERRÁNEO,"Carrer de l'Almirall Churruca, 5, 08003, Barcelona",9.8,77,15
+La Gambeta,ARROCERÍA,"Carrer de la Fusina, 3, 08003, Barcelona",9.3,4296,30
+Biocenter,VEGETARIANO,"C/ Pintor Fortuny, 25, 08001, Barcelona",9.2,1904,19
+Ipar-Txoko,VASCO,"C/ Mozart, 22, 08012, Barcelona",9.1,222,31
+Thai Barcelona | Royal Cuisine,TAILANDÉS,"Carrer de la Diputació, 273, 08007, Barcelona",8.9,2509,27
+Sumac & Mambo,MEDITERRÁNEO,"Carrer d'Enric Granados, 30, 08007, Barcelona",9.1,23,30
+PALO VERDE,MEDITERRÁNEO,"Carrer de Còrsega, 232, 08036, Barcelona",9.5,101,30
+Tucco Real Food Born,ITALIANO,"Carrer del Consolat de Mar, 23, 08003, Barcelona",9.5,121,12
+Bocca di Bonifacio - Ausiàs Marc,ITALIANO,"Carrer d'Ausiàs Marc, 43, 08010, Barcelona",9.2,419,20
+Mariscco - Córcega,MARISQUERÍA,"Carrer de Còrsega, 272, 08008, Barcelona",9.2,282,30
+Bistrot del Mercado,MEDITERRÁNEO,"Carrer de Balboa, 16, 08003, Barcelona",8.3,572,25
+Castell de Xativa,ARROCERÍA,"Carrer de València, 360, Barcelona, Spain, 08009, Barcelona",9.2,424,28
+Iôsif,MEDITERRÁNEO,"Carrer de Margarit, 27, 08004, Barcelona",8.0,5,20
+San Miguel,ESPAÑOL,"Carrer del Pas de l'Ensenyança, 2, 08002, Barcelona",9.0,740,25
+La Lolita,MEDITERRÁNEO,"Rambla de Catalunya, 27, 08007, Barcelona",9.0,2036,25
+Citrus,MEDITERRÁNEO,"Passeig de Gràcia, 44 (1ª planta), 08007, Barcelona",9.2,706,25
+Bo de Boqueria,MEDITERRÁNEO,"Carrer Petxina, 5, 08001, Barcelona",8.8,416,25
+Meluka,JAPONÉS,"Carrer de la Creu Coberta, 33, 08014, Barcelona",0.0,0,20
+Tiflis Restaurant,YUMS,"C. del Consell de Cent, 487, Barcelona, Spain, 08013, Barcelona",0.0,0,20
+Una mica d'Oli,YUMS,"Carrer d'Alfons XII, 94, 08006, Barcelona",0.0,0,15
+Leblon Restaurant,MEDITERRÁNEO,"Carrer d'Angel Guimerà, 14, 08017, Barcelona",0.0,0,25
+Bocata Factory,MEDITERRÁNEO,"Carrer d'Alfons XII, 77, 08006, Barcelona",0.0,0,15
+El Felino,ITALIANO,"Carrer de la Marina, 269, 08025, Barcelona",8.5,75,15
+La Paella de Su,MEDITERRÁNEO,"Avinguda Diagonal, 436, 08037, Barcelona",9.1,94,30
+Fan Dim Sum,CHINO,"Carrer de Laforja, 128, 08021, Barcelona",9.1,383,20
+Il Ristorante della Nonna Dora,ITALIANO,"Carrer Gran de Sant Andreu, 154, 08030, Barcelona",9.1,347,20
+All you eat is love,VEGETARIANO,"Carrer de la Marina, 52, 08005, Barcelona",9.3,66,18
+Acqua&Farina,ITALIANO,"Carrer de la Maquinista, 52, 08003, Barcelona",9.0,276,20
+Kurz & Gut - Gaudí,FRANCÉS,"Av. de Gaudí, 5, 08025, Barcelona",9.1,70,17
+Gouthier Bar de Ostras,MEDITERRÁNEO,"Carrer de Mañé i Flaquer, 8, 08017, Barcelona",9.0,293,25
+Taberna Los Olivares,MEDITERRÁNEO,"Carrer de les Corts, 7, 08028, Barcelona",9.1,45,25
+CocoVail Beer Hall,INTERNACIONAL,"Carrer d'Aragó, 284, 08009, Barcelona",9.3,332,20
+Mayura,INDIO,"C/ Girona, 57, 08009, Barcelona",9.4,2294,25
+Giorgio Barcelona,ITALIANO,"Carrer d'Ausiàs Marc, 3, 08010, Barcelona",9.3,87,20
+Mechitasour,PERUANO,"Carrer de Sant Joan de Malta, 48, 08018, Barcelona",9.4,69,35
+La Tagliatella - Travessera de Gracia,€,"Travessera de Gracia, 87, 08021, Barcelona",9.2,483,18
+La Carassa,CATALÁN,"C/ Brosolí, 1, 08003, Barcelona",9.2,237,41
+La Lubina,ARROCERÍA,"C/ Viladomat, 257, 08029, Barcelona",9.2,351,30
+Calabrasa,CATALÁN,"Passeig del Born, 27, 08003, Barcelona",9.0,1122,30
+Tacos 16,MEXICANO,"Carrer de Manuel de Falla, 16, 08034, Barcelona",0.0,0,15
+DERA,INDIO,"Carrer de Salvà, 10, 08004, Barcelona",9.7,10,15
+Corte & Brasa,ARGENTINO,"Carrer del Comandant Benítez, 20, 08028, Barcelona",9.1,189,22
+Timesburg Les Corts,AMERICANO,"Carrer de Nicaragua, 137, 08029, Barcelona",9.0,12,13
+Timesburg Sant Pau,AMERICANO,"Carrer del Rosselló, 520, 08026, Barcelona",8.9,17,12
+La Piazzetta GranVia,ITALIANO,"Gran Via de les Corts Catalanes, 566, 08018, Barcelona",9.2,45,20
+Noodle rice,ASIÁTICO,"Gran Via de les Corts Catalanes, 298, 08004, Barcelona",9.4,18,15
+Entre Tapes - Manso,MEDITERRÁNEO,"Carrer de Calàbria, 23, 08015, Barcelona",9.4,21,15
+La Tagliatella - Ronda Universitat,ITALIANO,"Ronda de la Universitat, 31, 08007, Barcelona",9.0,245,18
+Milo Grill,ARGENTINO,"C/ Balmes, 127, 08008, Barcelona",8.8,7344,25
+Casa Fernández,ESPAÑOL,"C/ Santaló, 46, 08021, Barcelona",9.3,286,30
+Jaizkibel,VASCO,"C/ Sicilia, 180, 08013, Barcelona",8.8,148,29
+CentOnze - Hotel Le Méridien,MEDITERRÁNEO,"La Rambla, 111, 08002, Barcelona",0.0,0,28
+Lilo cafe,VEGETARIANO,"Carrer de la Diputació, 443, 08013, Barcelona",9.4,138,15
+Eroica Caffè Barcelona,ITALIANO,"Carrer del Consell de Cent, 350, 08009, Barcelona",9.4,93,30
+De Cupé,PERUANO,"Avinguda Meridiana, 211, 08027, Barcelona",9.6,1830,25
+Restaurant Balmes 159,MEDITERRÁNEO,"Carrer de Balmes, 159, 08008, Barcelona",0.0,0,25
+Luna de Istanbul,INDIO,"Carrer Gran de Gràcia, 160, 08012, Barcelona",0.0,0,20
+Oassis Natural Cooking,€,"Passeig de Gràcia, 24, 08007, Barcelona",9.1,368,15
+Kuletos,MEDITERRÁNEO,"Carrer del Dr. Trueta nº 220, 08005, Barcelona",9.1,181,24
+Can Cortada,MEDITERRÁNEO,"Av. de l'Estatut de Catalunya, s/n, 08035, Barcelona",9.1,443,40
+OH BO,MEDITERRÁNEO,"Carrer del Dr. Fleming, 15, 08017, Barcelona",9.1,813,25
+Bocca Di Bonifacio - Sardenya,ITALIANO,"Carrer de Sardenya, 360, 08025, Barcelona",9.1,335,15
+Zarautz,VASCO,"C/ Elisi, 13, 08014, Barcelona",9.1,525,29
+La Venta,CATALÁN,"Plaça del Doctor Andreu, Barcelona, Spain, 08035, Barcelona",9.1,570,40
+Brusi 47 Gourmet,CREATIVO,"Carrer de Brusi, 47, 08006, Barcelona",9.3,52,35
+Ottantotto,€,"Passatge d'Utset, 2, 08013, Barcelona",9.5,360,18
+Tastem,MEDITERRÁNEO,"Carrer de Provença, 88, 08029, Barcelona",9.2,501,25
+Impression Lounge,MEDITERRÁNEO,"Carrer de Blai, 46, 08004, Barcelona",8.8,13,20
+El Rincón - Grill Restaurant,ASADOR,"Carrer del Carme, 28, 08001, Barcelona",8.8,189,25
+Sweet Terraza,YUMS,"Moll d'Espanya, 08039, Barcelona",8.8,12,25
+El 90 Restaurante Bar,MEDITERRÁNEO,"Carrer del Consell de Cent, 90, 08015, Barcelona",9.0,328,20
+Arabia,ÁRABE,"Carrer dels Escudellers, 25, 08002, Barcelona",9.2,769,25
+El Atril,ESPAÑOL,"C/Carders, 23, 08003, Barcelona",9.0,810,25
+Albé Barcelona,MEDITERRÁNEO,"C. de Mallorca, 196, 08036, Barcelona",9.7,182,25
+Rooftop Ohla Barcelona,INTERNACIONAL,"Via Laietana, 49, 08003, Barcelona",8.1,17,50
+Llamber,MEDITERRÁNEO,"Carrer de la Fusina, 5, 08003, Barcelona",9.2,93,35
+Miu japonés,JAPONÉS,"Carrer de València, 249, 08007, Barcelona",9.1,400,24
+Tipo Tapa,MEDITERRÁNEO,"Carrer de Rogent, 21, 08026, Barcelona",9.2,103,20
+La Vespa,ITALIANO,"Carrer del Torrent de l'Olla, 99, 08012, Barcelona",9.1,336,13
+Sher-E-Punjab,INDIO,"C/ Méxic, 17, 08004, Barcelona",7.4,279,13
+El Nou Ramonet,MEDITERRÁNEO,"Carrer de Carbonell, 5, 08003, Barcelona",9.1,708,35
+El All i Oli,CATALÁN,"C/ Alella,3, 08016, Barcelona",9.1,624,24
+Balmes,MARISQUERÍA,"C/ Balmes, 413, 08022, Barcelona",9.1,314,40
+"Urània II, boat restaurant",MEDITERRÁNEO,"Moll de Mestral, 08005, Barcelona",9.8,20,30
+Addis Abeba,ETÍOPE,"Vallespir, 44, 08014, Barcelona",9.4,60,20
+Sentore Ristorante Pizzeria Italiana,ITALIANO,"Avinguda Diagonal, 423, 08036, Barcelona",9.2,364,30
+Rangoli,INDIO,"Passeig Joan de Borbó, 78, 08039, Barcelona",9.6,2461,21
+El Mexicano de Barcelona,MEXICANO,"C/ Villarroel, 233, 08036, Barcelona",9.2,3688,18
+Mizuki,JAPONÉS,"Carrer del Cometa, 3, 08002, Barcelona",9.0,307,20
+Cabo Bar,MEDITERRÁNEO,"Carrer de la Marina, 124, 08013, Barcelona",9.0,64,25
+Via Napoli Restaurant and Pizzeria,ITALIANO,"Carrer de Nàpols, 256, 08025, Barcelona",9.1,133,35
+Blai stop,MEDITERRÁNEO,"Carrer de Blai, 6, 08004, Barcelona",9.1,48,10
+Casamaki,JAPONÉS,"Carrer d'Europa, 15, 08028, Barcelona",8.9,114,13
+Quillo Bar,MEDITERRÁNEO,"Carrer del Rec Comtal, 2, 08003, Barcelona",8.9,120,25
+Braseria - El Nacional BCN,ASADOR,"Passeig de Gràcia, 24 Bis, 08007, Barcelona",8.9,104,40
+Memorias de China,CHINO,"Carrer de Lincoln, 17, 08006, Barcelona",8.9,807,30
+Las Mañanitas,MEXICANO,"Gran Via de les Corts Catalanes, 715, 08013, Barcelona",8.9,174,20
+Pepito,MEDITERRÁNEO,"Passatge de Domingo, 3, 08007, Barcelona",9.4,4220,30
+Can Culleretes,CATALÁN,"C/ Quintana, 5, 08002, Barcelona",8.9,1858,27
+Rincón de Galicia,ASADOR,"C/ Portal Nou, 61, 08003, Barcelona",8.9,10,23
+Barnabier,MEDITERRÁNEO,"Carrer de la Marina, 16, Local 3 (Entrada por Passeig Marítimo), 08005, Barcelona",8.7,84,29
+Vulcanus Pizza,Yums,"Carrer d'Entença, 64, 08015, Barcelona",9.3,830,18
+Season,MEDITERRÁNEO,"Carrer d'Aribau, 125, 08036, Barcelona",9.3,229,29
+Senyor Fabra,MEDITERRÁNEO,"Rambla de Fabra i Puig, 51, 08030, Barcelona",9.3,238,18
+Oishii Ramen Street - Ronda de Sant Pere,JAPONÉS,"Ronda de Sant Pere, 26, 08010, Barcelona",9.2,822,20
+B-ONE,MEDITERRÁNEO,"Plaça de Pau Vila, 08039, Barcelona",7.8,121,25
+Meridiana,MEDITERRÁNEO,"Avinguda Meridiana, 305, 08027, Barcelona",7.8,109,14
+Ikibana Sarrià,FUSIÓN,"Carrer del Dr. Fleming, 11, 08017, Barcelona",9.0,2896,40
+Tapas 2254 Restaurant,AUTOR,"C/ Consell de Cent, 335, 08007, Barcelona",9.0,989,35
+Ikibana Paral·lel,JAPONÉS,"Avinguda Paral·lel, 148, 08015, Barcelona",9.0,2433,40
+La Taberna Gallega de Marcos,GALLEGO,"Port Olimpic, 08005, Barcelona",9.0,620,30
+Arrosseria Xàtiva Gràcia,ARROCERÍA,"C/ del Torrent d'En Vidalet, 26, 08012, Barcelona",8.8,944,30
+Villa Caprice,MEDITERRÁNEO,"Avinguda de Gaudí, 3, 08025, Barcelona",8.9,540,25
+FISH,MEDITERRÁNEO,"Carrer de Balmes, 180, 08006, Barcelona",8.9,201,30
+Brisa Sin Prisa - Poblenou,MEDITERRÁNEO,"Rambla del Poblenou, 59, 08005, Barcelona",8.9,511,23
+Cadaqués Cuina Mediterrània,ARROCERÍA,"Carrer de la Reina Cristina, 6, 08003, Barcelona",9.2,84,45
+4 Makis,JAPONÉS,"Carrer de Muntaner, 193, 08036, Barcelona",9.0,46,33
+Cabo Nou,MEDITERRÁNEO,"C. de Pallars, 243, 08005, Barcelona",9.2,20,25
+Gu restaurante,ASIÁTICO,"Carrer de la Independència, 361, 08026, Barcelona",9.0,33,20
+Grums restaurant,CATALÁN,"Carrer de Palaudàries, 08004, Barcelona",0.0,0,25
+Beirut Barcelona,€,"Travessera de les Corts, 283, 08014, Barcelona",0.0,0,20
+ÁNDELE Santa Fe,MEXICANO,"Carrer de Santa Fe de Nou Mèxic, 6, 08017, Barcelona",9.0,52,20
+New York Burger - Calle Pelayo,AMERICANO,"Calle de Pelayo, 5, 08001, Barcelona",9.0,51,25
+Taj Mahal,INDIO,"Carrer de la Indústria, 166, 08025, Barcelona",7.3,89,16
+The Haissala’s,ITALIANO,"Ronda del General Mitre, 220, 08006, Barcelona",9.3,16,12
+Al Bistró Gastronomico,MEDITERRÁNEO,"Carrer d'Antoni de Capmany, 72, 08014, Barcelona",7.0,37,20
+Racó d'Angel,MEDITERRÁNEO,"Carrer de Folgueroles, 24, 08022, Barcelona",9.6,85,20
+La Tagliatella Muntaner,€,"C/ Muntaner, 359, 08021, Barcelona",8.9,203,18
+Piazze d'Italia,€,"Carrer de Casanova, 94, 08011, Barcelona",8.9,709,29
+Sant Martí,MEDITERRÁNEO,"C/ Pont del Treball Digne 11, 08020, Barcelona",9.7,830,30
+Sindur - Indian Cuisine,INDIO,"Carrer de Còrsega, 211 Bis, 08036, Barcelona",9.4,1772,20
+Xino Mandarino,CHINO,"Carrer de la Diputació, 167, 08011, Barcelona",9.4,19,20
+Good Times Barcelona,MEDITERRÁNEO,"Carrer de Buscarons, 19, 08022, Barcelona",9.4,17,20
+Taps Tapas Bar,ESPAÑOL,"Carrer de la Mare de Déu del Remei, 53, 08004, Barcelona",9.1,205,18
+Kuna Bistro,MEDITERRÁNEO,"Carrer d'Aribau, 254, 08006, Barcelona",9.3,51,20
+Passione Napoletana,Welcome,"Carrer de Villarroel, 247, 08036, Barcelona",9.1,15,15
+Anita Flow,INTERNACIONAL,"C/ Consell de Cent, 413, 08009, Barcelona",9.3,849,15
+Enoteca Paco Pérez - Hotel Arts Barcelona,MEDITERRÁNEO,"Carrer de la Marina, 19-21, 08005, Barcelona",0.0,55,180
+Tomodachi,JAPONÉS,"Travesera de Gracia, 250, 08025, Barcelona",9.1,584,20
+Marcelino16,GALLEGO,"Carrer de la Diputació, 41, 08015, Barcelona",9.2,30,18
+Gilda by Belgious,BELGA,"Carrer Ample, 34, 08002, Barcelona",9.3,1708,24
+Casa Dario,GALLEGO,"C/ Consell de Cent, 256, 08011, Barcelona",9.1,490,49
+El Cangrejo Loco,MARISQUERÍA,"Moll de Gregal, 29, 08005, Barcelona",8.9,968,40
+Pizza a House,ITALIANO,"Carrer del Rector Triadó, 49, 08014, Barcelona",6.4,42,30
+La Forquilla de Fusta,MEDITERRÁNEO,"Carrer de València, 350, 08009, Barcelona",0.0,0,15
+Da Bruno,ITALIANO,"Carrer de les Corts, 16, 08028 Barcelona, 08028, Barcelona",8.2,3,11
+The Fresh Poke Sancho de Avila,JAPONÉS,"Carrer de Sancho de Ávila, 171, 08018, Barcelona",8.8,94,12
+El Roble - Sant Gervasi,MEDITERRÁNEO,"Plaça de Joaquim Folguera, 2, 08022, Barcelona",8.8,149,12
+Tablafina - NH Collection Calderon,MEDITERRÁNEO,"Rambla de Catalunya, 26, 08007, Barcelona",9.0,113,25
+M2 Gluten Free,MEDITERRÁNEO,"Avinguda Diagonal, 505, 08029, Barcelona",8.9,1447,22
+Hummus Barcelona,VEGETARIANO,"Carrer de València, 227, 08007, Barcelona",8.9,1387,17
+Bar Ri - Sarrià,MEDITERRÁNEO,"Plaça de Joaquim Pena, 4, 08017, Barcelona",8.8,253,20
+Gatsby Barcelona,MEDITERRÁNEO,"Carrer de Tuset, 19, 08006, Barcelona",9.2,660,40
+Mian,CHINO,"Carrer de Girona, 49, 08009, Barcelona",8.8,284,15
+Mantura Tapes asiatiques i Vins,€,"Carrer de l'Encarnació, 38, Barcelona, Spain, 08024, Barcelona",8.6,1287,18
+Prado de Flores,Welcome,"Carrer de Santa Anna, 11, 08002, Barcelona",8.5,33,17
+Carrot Café,CREATIVO,"Carrer de Tànger, 22, 08018, Barcelona",8.8,557,13
+Ca La Montse,ARROCERÍA,"C/ Balboa, 14, 08003, Barcelona",8.6,223,30
+Galú,INSIDER,"Carrer del Rosselló, 290, 08037, Barcelona",9.2,1662,20
+Can Fisher,MEDITERRÁNEO,"Av. del Litoral, 64, 08005, Barcelona",9.1,652,40
+KbarcelonA,€,"Carrer de Provença, 426, 08025, Barcelona",0.0,0,25
+Trabucaire,MEDITERRÁNEO,"Carrer de la Marina, 420, 08013, Barcelona",0.0,0,25
+Honkaku II,JAPONÉS,"Carrer de Mallorca, 105, 08029, Barcelona",8.8,730,15
+Tequila Cantina Mexicana - Aragó,MEXICANO,"Carrer d'Aragó, 527, 08026, Barcelona",8.9,1162,15
+Tapas La Bona Sort,MEDITERRÁNEO,"Carrer dels Carders, 12, 08003, Barcelona",9.1,139,20
+Rooftop Terraza Verbena - Monument Hotel,MEDITERRÁNEO,"Passeig de Gràcia, 75, 08008, Barcelona",9.0,20,39
+Mirandoalmar,MEDITERRÁNEO,"C/ Moll d' Espanya, 5 (Segunda planta C.C.Maremagnum), 08039, Barcelona",8.8,10452,24
+Bacaro,ITALIANO,"Calle Jerusalen 6, 08001, Barcelona",9.8,739,35
+El xines Catalunya,CHINO,"Av. de Madrid nº100, 08028, Barcelona",9.8,4,15
+HonestFood Jordi Girona,MEDITERRÁNEO,"Carrer de Jordi Girona, 10, 08034, Barcelona",9.2,5,14
+Braseria Cal Ramon,ASADOR,"Av. de Gaudí, 74, 08025, Barcelona",8.9,70,30
+Ocho Patas,GALLEGO,"Av. de Josep Tarradellas, 11, 08029, Barcelona",8.5,1352,18
+M restaurante japones,JAPONÉS,"Carrer Gran de Gràcia, 180, 08012, Barcelona",9.3,10,20
+Chakrumi,MEDITERRÁNEO,"Carrer de Béjar, 66, 08014, Barcelona",9.6,9,23
+El marinero,MEDITERRÁNEO,"Carrer del Marquès de Campo Sagrado, 12, 08015, Barcelona",7.2,3,25
+Tapazia,MEDITERRÁNEO,"Carrer del Topazi, 18, 08012, Barcelona",9.5,58,18
+Terminal 42,INTERNACIONAL,"Carrer de Lleida, 5, 08004, Barcelona",9.3,108,35
+La monda molleteria,ESPAÑOL,"Passatge de Josep Llovera, 1, 08021, Barcelona",9.4,8,16
+Vinarium,ITALIANO,"Carrer de Feliu Casanova, 24, 08028, Barcelona",9.3,17,13
+Viet Kitchen,VIETNAMITA,"Carrer d'Aribau, 137, 08036, Barcelona",9.4,549,15
+INS Escola d'Hoteleria i Turisme de Barcelona - Restaurant (Menú del Dia),ESPAÑOL,"Carrer del Pintor Alsamora, 3, 08016, Barcelona",9.5,180,11
+La Taula,MEDITERRÁNEO,"Carrer de Sant Màrius, 8, 08022, Barcelona",0.0,97,26
+Crêperie Les 3 Pommes,CREPERÍA,"Carrer Aragó, 150, 08011, Barcelona",9.6,381,12
+Can Boneta,CATALÁN,"Carrer de Balmes, 139, 08008, Barcelona",9.7,175,28
+Ziryab,MEDITERRÁNEO,"Carrer de Grunyí, 5, 08003, Barcelona",9.6,1186,18
+New Himali,INDIO,"Carrer de Còrsega, 416, 08037, Barcelona",9.3,82,15
+Passeig,MEDITERRÁNEO,"Carrer de Còrsega, 300, 08008, Barcelona",9.4,26,22
+Leche de Tigre,PERUANO,"Carrer de Martínez de la Rosa, 10, 08012, Barcelona",9.4,690,25
+Koy Shunka,JAPONÉS,"Carrer d'en Copons, 7, 08002, Barcelona",9.8,200,100
+Parlament Cuina de Barri,MEDITERRÁNEO,"Carrer del Parlament, 26, 08015, Barcelona",8.0,1246,20
+Putxinel·lis,Welcome,"C/ Salou, 23, 08014, Barcelona",9.2,364,20
+Little Viet,VIETNAMITA,"Carrer de Cartagena, 328, 08025, Barcelona",9.1,54,18
+Cocoa,MEDITERRÁNEO,"Carrer de Lepant, 241, 08013, Barcelona",9.1,78,15
+Panko restaurant,PERUANO,"Carrer de Viladomat, 249, 08029, Barcelona",8.9,11,25
+El Pintor,MEDITERRÁNEO,"Carrer de Sant Honorat, 7, 08002, Barcelona",8.9,178,30
+Casa Jaime,MEDITERRÁNEO,"C/ Consell de Cent, 222, 08011, Barcelona",8.7,204,19
+La Mar Bella,ARROCERÍA,"C/ Taulat, 81, 08005, Barcelona",8.7,117,25
+Bodega Joan,MEDITERRÁNEO,"C/ Roselló, 164, 08036, Barcelona",8.9,1600,15
+La Balsa,MEDITERRÁNEO,"Carrer de la Infanta Isabel, 4, 08022, Barcelona",9.1,2178,43
+Roig Robí,CATALÁN,"C/ Séneca, 20, 08006, Barcelona",8.9,329,45
+Il Cuore Di Napoli,ITALIANO,"Carrer de Còrsega, 232, 08036, Barcelona",8.7,74,15
+Colella,MEDITERRÁNEO,"Carrer de Pau Claris, 190, 08037, Barcelona",8.7,862,20
+Can Vador Diputació,MEDITERRÁNEO,"Carrer de la Diputació, 367, 08009, Barcelona",8.7,378,30
+Taberna de Sants,ANDALUZ,"Carrer dels Comtes de Bell-Lloc, 97, 08014, Barcelona",8.5,192,16
+Babula Bar 1937,MEDITERRÁNEO,"Carrer de Pau Claris, 139, 08009, Barcelona",9.6,429,35
+L'Orwell,MEDITERRÁNEO,"Carrer de n'Arai, 1, 08002, Barcelona",8.5,1243,20
+Ryu Ramen,JAPONÉS,"Carrer de Sancho de Ávila, 178, 08018, Barcelona",9.6,1577,15
+Jou's Food Experience,MEDITERRÁNEO,"Carrer de Llull, 226, 08005, Barcelona",8.8,1206,15
+Tokyo Sushi,JAPONÉS,"C/ Condal, 20, 08002, Barcelona",8.8,1096,23
+Lata-Bern@,MEDITERRÁNEO,"Carrer del Torrent de les Flors, 53, 08024, Barcelona",8.8,569,20
+Chihuahua,MEXICANO,"C/ Passeig de Maragall, 107, 08041, Barcelona",8.8,2607,21
+Etapes,MEDITERRÁNEO,"C/ Enrique Granados, 10, 08007, Barcelona",9.4,1065,35
+Sésamo,VEGETARIANO,"C/ Sant Antoni Abat, 52, 08001, Barcelona",9.4,465,19
+Red Fish,MEDITERRÁNEO,"Moll de la Marina, S/N, 08005, Barcelona",9.0,57,35
+Raffaelli,AUTOR,"Carrer de Luis Antúnez, 11, 08006, Barcelona",9.0,512,35
+El Tiet Taver-Teca Taverna Gastronomica,MEDITERRÁNEO,"Carrer de Còrsega, 382, 08037, Barcelona",9.0,253,25
+Anfiteatro,MEDITERRÁNEO,"Parc del Port Olímpic s/n, 08005, Barcelona",8.0,264,25
+Tacos 99,MEXICANO,"Avinguda del Paral·lel, 99, 08004, Barcelona",0.0,4,15
+Hotpot de Sichuan,CHINO,"Plaça de Tetuan, 9, 08010, Barcelona",9.7,49,25
+Les Vinyes de Muntaner,MEDITERRÁNEO,"Muntaner, 173, 08036, Barcelona",9.3,13,25
+Oishii Ramen Street - Pau Claris,JAPONÉS,"Carrer de Pau Claris, 112, 08009, Barcelona",9.0,68,15
+La Cococha,MERCADO,"Casanova 157, 08036, Barcelona",9.3,12,20
+Tast Gastro Bar,MEDITERRÁNEO,"Av. del Paraŀlel, 127, 08004, Barcelona",8.9,225,17
+Nikkei 103,JAPONÉS,"Carrer d'Aribau, 33, 08011, Barcelona",8.6,1309,35
+La Tagliatella Sarria,€,"C/ Doctor Ferrán, 25-27, 08034, Barcelona",8.9,503,18
+La Tagliatella Ausiàs March,€,"C/ Ausiàs March, 7, 08010, Barcelona",8.9,320,18
+Inmortales Trattoria,Welcome,"C/ Marc Aureli, 27, 08006, Barcelona",8.7,1148,25
+Escola de Cuina Terra d'Escudella,MEDITERRÁNEO,"C/ Bofarull, 46, 08027, Barcelona",0.0,425,45
+Guell Away,ESPAÑOL,"Carrer de Larrard, 39, 08024, Barcelona",0.0,0,18
+Ama Sushi,JAPONÉS,"Carrer Nou de la Rambla, 121, 08004, Barcelona",0.0,0,20
+Londres2,MEDITERRÁNEO,"Carrer de Mallorca, 532, 08026, Barcelona",0.0,0,15
+Fractura,MEDITERRÁNEO,"Carrer d'Alexandre Galí, 13, 08027, Barcelona",0.0,0,20
+Spelta Cafe & Restaurante,MEDITERRÁNEO,"Carrer de Maignon, 11, 08024, Barcelona",0.0,0,20
+Piel de Gallina,FUSIÓN,"Carrer de Magalhães, 35, 08004, Barcelona",8.8,15,25
+La Pizza Loca,€,"Carrer de la Creu Coberta, 64, 08014, Barcelona",8.9,4,15
+Divina Stefy,€,"Gran Via de les Corts Catalanes, 351, 08014, Barcelona",8.8,12,17
+Bar Paradis,€,"Carrer de Girona, 161, 08037, Barcelona",0.0,0,12
+Delizie Gastro Cafeteria,ITALIANO,"Plaça del Dr. Letamendi, 30, 08007, Barcelona",0.0,0,15
+Mr.sushi,JAPONÉS,"C. de Mallorca, 540, 08026, Barcelona",9.0,3,18
+Contigo,MEDITERRÁNEO,"Carrer del General Álvarez de Castro, 5, 08003, Barcelona",0.0,0,12
+El Bar,MEDITERRÁNEO,"Carrer de Ribes, 46, 08013, Barcelona",0.0,0,20
+Lokal,MEDITERRÁNEO,"Carrer de la Marina, 19-21, 08005, Barcelona",0.0,0,30
+La Queixalada,CATALÁN,"Calabria, 31, 08015, Barcelona",0.0,0,25
+Sedna,MEDITERRÁNEO,"Paseo de Colon, 5, 08002, Barcelona",8.9,4,25
+Can Cuxart,MEDITERRÁNEO,"Costa i Cuxart, 37, 08016, Barcelona",8.8,26,20
+La Biennal,MEDITERRÁNEO,"Rambla de Poblenou, 76, 08005, Barcelona",8.7,14,20
+La Lonja,MEDITERRÁNEO,"Avenida Josep Tarradellas, 60, 08029, Barcelona",8.9,5,30
+Abba Mía - Barcelona,MEDITERRÁNEO,"Numància, 32, 08029, Barcelona",0.0,0,30
+Casa Patry,MEDITERRÁNEO,"MARE DE DEU DE PORT 305 LOCAL 11 BARCELONA, 08038, Barcelona",0.0,0,22
+Bona Miga,ARGENTINO,"Carrer del Torrent de l'Olla, 35, Local 2, 08012, Barcelona",0.0,0,8
+Danoskar,MEDITERRÁNEO,"Carrer de l'Equador, 47, 08029, Barcelona",8.9,8,12
+Burger grill,€,"Gran Via de les Corts Catalanes, 553, 08011, Barcelona",0.0,0,10
+Baozi,JAPONÉS,"Ronda de Sant Pere, 60, 08010, Barcelona",9.0,7,20
+piccolo,MEDITERRÁNEO,"Carrer de la Indústria, 77, 08025, Barcelona",0.0,0,20
+Contempo by Eboca Restaurant,CATALÁN,"Carrer de Bergara, 9 - Hotel Catalonia Plaza Cataluña, 08002, Barcelona",0.0,0,25
+Matalaranya,CATALÁN,"Carrer del Rosselló, 260, 08037, Barcelona",0.0,0,16
+Vita GastroBar,FUSIÓN,"Carrer de Verdi, 31, 08012, Barcelona",0.0,0,25
+Amalia's Portuguese Flavours,MEDITERRÁNEO,"C/ del Comte d'Urgell, 132, 08011, Barcelona",0.0,0,12
+Calla&Tapa,AUTOR,"C. de Rocafort, 29, 08015, Barcelona",9.0,4,20
+Komai Sushi Bar & Restaurant,JAPONÉS,"Avinguda Diagonal, 40, 08019, Barcelona",8.9,25,15
+Molo 39,Welcome,"Plaça de Pau Vila, 1, 08039, Barcelona",8.8,309,20
+Terrazza Ravello,ITALIANO,"Plaça de Pau Vila, 1, 08003, Barcelona",8.8,429,20
+Macot - Bar a Vins,MEDITERRÁNEO,"Carrer de Violant d'Hongria Reina d'Aragó, 150, 08014, Barcelona",9.4,68,25
+Alo Beirut,LIBANÉS,"Carrer d'Aribau, 90, 08036, Barcelona",9.3,104,20
+Ayres del Sur,ARGENTINO,"Carrer de Casp, 153, 08013, Barcelona",8.8,616,16
+"Moments - Mandarin Oriental, Barcelona",CREATIVO,"Passeig de Gràcia, 38, 08007, Barcelona",9.2,265,150
+El Celler de Sarrià,CASTELLANO,"Carrer de Manuel de Falla, 17, 08034, Barcelona",0.0,0,12
+Flash Flash,MEDITERRÁNEO,"Carrer de la Granada del Penedès, 25, 08006, Barcelona",9.1,132,20
+La Terraza del Pelai,MEDITERRÁNEO,"Carrer de Pelai, 28, 08001, Barcelona",9.5,5,25
+Baldomero,MEDITERRÁNEO,"Passatge de Mercader, 16, 08008, Barcelona",9.5,339,15
+Pepa Tomate - Parlament,MEDITERRÁNEO,"Carrer del Parlament, 35, 08015, Barcelona",8.8,319,18
+Konkai Sushi,JAPONÉS,"Carrer de Roger de Flor, 222, 08013, Barcelona",8.8,588,16
+Takumi,JAPONÉS,"Carrer de Mallorca, 182, 08036, Barcelona",8.8,3036,18
+Kiku Japones,JAPONÉS,"Carrer de Madrazo, 15, 08006, Barcelona",8.8,2017,20
+Quinto Quinta,MEDITERRÁNEO,"Gran Via de Les Corts Catalanes, 373, 08015, Barcelona",9.1,306,30
+La Plassohla,MARISQUERÍA,"Vía Laietana, 49, 08003, Barcelona",8.9,804,30
+Timesburg Sants,AMERICANO,"Carrer del Moianès, 75, 08014, Barcelona",7.6,9,12
+Olivia Garden,MEDITERRÁNEO,"Carrer de la Llacuna, 150, 08018, Barcelona",8.6,243,15
+Only sushi,JAPONÉS,"Carrer de Còrsega, 219, 08036, Barcelona",9.1,105,20
+Matsuya,JAPONÉS,"Carrer del Dr. Ibáñez, 12, 08014, Barcelona",8.6,139,18
+Fishhh!,MARISQUERÍA,"Avinguda Diagonal, 557, 08029, Barcelona",9.4,342,36
+Can Reixes,MEDITERRÁNEO,"Plaça Reial, 12, 08002, Barcelona",0.0,0,30
+Bendita Salsa,FUSIÓN,"Passatge dels Escudellers, 3, 08002, Barcelona",0.0,0,15
+Aquí Quedamos,ITALIANO,"Carrer de Violant d'Hongria Reina d'Aragó, 60, 08028, Barcelona",9.6,227,15
+Thai Zaap,TAILANDÉS,"Carrer de Viladomat, 131, 08015, Barcelona",0.0,355,20
+Café Kafka,MEDITERRÁNEO,"C/ Fusina, 7, 08003, Barcelona",9.8,426,35
+9 Reinas - Gourmet,ARGENTINO,"Carrer de Ganduxer, 28, 08021, Barcelona",9.5,425,27
+Charcutería Valentín,MEDITERRÁNEO,"C/ Diputación, 301, 08009, Barcelona",9.2,967,28
+Dispensa,MEDITERRÁNEO,"Carrer de Campo Florido, 52, 08027, Barcelona",9.1,115,22
+Fauna,MEDITERRÁNEO,"Carrer del Duc, 15, 08002, Barcelona",0.0,0,35
+Obon,MEDITERRÁNEO,"Plaça de Maragall, 13, 08027, Barcelona",0.0,0,15
+El Jardin de Bambu,JAPONÉS,"Carrer del Marquès de Sentmenat, 54, 08029, Barcelona",8.9,24,15
+Narciso,ITALIANO,"Carrer de la Princesa, 9, 08003, Barcelona",0.0,3,20
+Xampú Xampany,MEDITERRÁNEO,"Gran vía de Les Corts Catalanes, 702, 08010, Barcelona",8.9,16,25
+La Taberna del Bierzo,MEDITERRÁNEO,"Loreto 24, 08029, Barcelona",9.1,7,25
+Bodega Genin,MEDITERRÁNEO,"Carrer del Comte Borrell, 306, 08029, Barcelona",9.7,136,20
+Hanabi,JAPONÉS,"Passatge de Lluís Pellicer, 18, 08036, Barcelona",9.3,1717,20
+Xerta de Fran López,CATALÁN,"Carrer de Còrsega, 289, 08008, Barcelona",9.4,689,95
+Ukai Eixample,JAPONÉS,"Carrer de Mallorca, 188, 08036, Barcelona",8.9,4219,30
+La Tagliatella Diagonal,€,"Avenida Diagonal, 431, 08036, Barcelona",8.8,471,18
+L'Ham (planta baixa),MEDITERRÁNEO,"Paseig del Taulat, 243, 08019, Barcelona",9.8,453,15
+Bruc 33 Tapas,MEDITERRÁNEO,"C/ Bruc, 33, 08010, Barcelona",8.9,1776,11
+La Fonda del Port Olímpic,ESPAÑOL,"Moll de Gregal, 7, 08005, Barcelona",8.8,1166,36
+Sabor Trujillano,PERUANO,"Carrer de Felip II, 41, 08027, Barcelona",8.2,3,25
+Ama,PERUANO,"Carrer de Marià Cubí, 199, 08021, Barcelona",8.6,7,25
+Timesburg Sant Cugat,AMERICANO,"Plaça d'Octavià, 4, 08172, Barcelona",7.9,21,12
+Timesburg Sant Joan,AMERICANO,"Passeig de Sant Joan, 47-49, 08009, Barcelona",7.5,11,12
+Market,MEDITERRÁNEO,"Carrer del Comte Borrell, 68, 08015, Barcelona",8.6,80,20
+Muginoya,JAPONÉS,"Carrer del Torrent de l'Olla, 148, 08012, Barcelona",8.6,45,12
+Archimissa Gastrobar,€,"Carrer de Vallhonrat, 19, 08004, Barcelona",8.1,95,20
+Tonkotsu,JAPONÉS,"Carrer de València, 290, 08007, Barcelona",8.6,434,25
+El Noi de Alcoi,ARROCERÍA,"Carrer de Castellnou, 37, 08017, Barcelona",0.0,0,25
+Asagumo,JAPONÉS,"Carrer de Saragossa, 42-44, 08006, Barcelona",9.7,88,25
+Udon Travessera,ASIÁTICO,"Travessera de Gràcia, 30, 08021, Barcelona",8.7,19,18
+Ruta 40,EUROPEO,"Carrer de Nàpols, 314, 08025, Barcelona",0.0,0,25
+Victors Bcn,MEDITERRÁNEO,"Carrer dels Escudellers, 40, 08002, Barcelona",0.0,0,25
+Panchito Vico,MEXICANO,"Carrer de Vico, 28, 08021, Barcelona",9.2,79,18
+MAAI - REAL FOOD,€,"Carrer de Regàs, 30, 08006, Barcelona",9.7,95,15
+Sasá,ITALIANO,"Carrer d' Aribau, 318, 08006, Barcelona",9.7,112,25
+The Terrace - Fairmont Rey Juan Carlos I,MEDITERRÁNEO,"Avinguda Diagonal, 661, 08028, Barcelona",9.1,813,35
+Patito Feo,MEDITERRÁNEO,"Carrer de Casanova, 182, 08036, Barcelona",9.3,36,18
+Xoxo,JAPONÉS,"Carrer de la Riera de Sant Miquel, 69, 08006, Barcelona",9.1,171,35
+Restaurante La Llesca,MEDITERRÁNEO,"Avinguda de Gaudí, 12, 08025, Barcelona",8.8,116,21
+Mussol - Casp,CATALÁN,"Carrer de Casp, 19, 08010, Barcelona",8.7,321,20
+Grill Room - Bar Thonet,MEDITERRÁNEO,"Carrer dels Escudellers, 8, 08002, Barcelona",8.7,87,30
+Fastuc,ITALIANO,"Carrer d'Oliana, 14, 08006, Barcelona",9.4,880,35
+La Terrassa del Duquesa,MEDITERRÁNEO,"Passeig de Colom, 12, 08002, Barcelona",8.8,325,28
+Koi Koi Sushi,JAPONÉS,"Travessera de Gràcia, 320, 08025, Barcelona",8.8,5092,20
+Lomo Alto,ASADOR,"Carrer d'Aragó, 283-285, 08007, Barcelona",8.7,634,65
+Café Turó,INTERNACIONAL,"Carrer del Tenor Viñas, 1, 08021, Barcelona",8.8,155,23
+L'Ombú,MEDITERRÁNEO,"C/ Sardenya, 445, 08025, Barcelona",9.0,3346,21
+Market Grill,MEDITERRÁNEO,"calle numero 29 de la zona franca, 08040, Barcelona",0.0,0,20
+UDON GRAN VIA 2,ASIÁTICO,"Avinguda de la Granvia de l’Hospitalet, 75, 08908, Barcelona",9.3,32,18
+Txapela - Plaça Catalunya,VASCO,"Plaça de Catalunya, 8, 08002, Barcelona",8.4,36,10
+Matsuri Mehman Khana,INTERNACIONAL,"Plaça del Regomir, 1 (local 2), 08002, Barcelona",8.9,119,26
+Mussol - C.C. Arenas,CATALÁN,"Gran Via de les Corts Catalanes, 373, 08015, Barcelona",8.5,163,20
+Tribo Sushi & Cocktails,JAPONÉS,"Carrer d'Enric Granados, 48, 08008, Barcelona",9.3,627,45
+Miss Sushi Aribau,JAPONÉS,"Carrer d'Aribau, 39, 08011, Barcelona",8.9,1202,20
+Bistrot Levante,MEDITERRÁNEO,"Placeta de Manuel Ribé, 1, 08002, Barcelona",9.5,293,25
+Elbasha,EGIPCIO,"Passeig de Colom, 22, 08002, Barcelona",0.0,0,20
+Arume,GALLEGO,"Carrer d'en Botella, 11, 08001, Barcelona",9.4,2489,35
+Jamón Jamón - Europa,MEDITERRÁNEO,"Carrer d'Europa, 23, 08028, Barcelona",8.1,109,13
+Txokoa - Barcelona,MEDITERRÁNEO,"Carrer de Déu i Mata, 146, 08029, Barcelona",0.0,95,25
+Cinco Jotas - Barcelona,ESPAÑOL,"Rambla de Catalunya, 91, 08008, Barcelona",8.6,417,25
+Las Delicias de Francia,FRANCÉS,"Carrer de Muntaner, 443, Barcelona, Spain, 08021, Barcelona",8.5,241,34
+Nogal Casa de Comidas,MEDITERRÁNEO,"Carrer de la Diputació, 412, 08013, Barcelona",8.1,671,20
+Mammamia,INSIDER,"Carrer de Pallars, 230, 08005, Barcelona",9.4,574,37
+Cal Marius 449,ESPAÑOL,"Carrer de Mallorca, 449, 08013, Barcelona",9.1,24,15
+El Pi,JAPONÉS,"Av. de Madrid, 95, 08028, Barcelona",8.6,463,15
+"Restaurante Tobogán ""La Gallega de Plaza Real""",ESPAÑOL,"Plaça Reial, 10, 08002, Barcelona",8.8,6,18
+La Calaca,MEXICANO,"Carrer del Concili de Trento, 90, 08018, Barcelona",8.8,40,15
+Pizzeria Eden Barcelona,€,"Carrer de Provença, 332, 08037, Barcelona",8.8,20,17
+Viet Thai,VIETNAMITA,"Carrer de la Diputació, 140, 08015, Barcelona",8.7,192,18
+Ca Meua,ESPAÑOL,"Carrer de Mallorca, 77, 08029, Barcelona",8.7,116,20
+Popeye,MEDITERRÁNEO,"Carrer del Taquígraf Martí, 32, 08028, Barcelona",9.3,925,30
+Hawker 45,ASIÁTICO,"Carrer de Casp, 45, 08010, Barcelona",8.3,15,20
+Klevito's,MEDITERRÁNEO,"Carrer de Badajoz, 115, 08018, Barcelona",8.6,31,16
+Bodega Joan 140,MEDITERRÁNEO,"C/ d'Entença, 140, 08015, Barcelona",8.2,9,18
+Ciurana,MEDITERRÁNEO,"Can Bruixa, 45, 08028, Barcelona",8.4,27,25
+Lima Limón,PERUANO,"Roselló, 361, 08025, Barcelona",8.2,3,25
+New franvic,€,"Passeig de Santa Coloma, 33, 08030, Barcelona",0.0,0,15
+Baby Jalebi,INDIO,"Gran Via de les Corts Catalanes, 452, 08015, Barcelona",8.5,75,20
+MAKES TAPERIA,MEDITERRÁNEO,"Av. de Madrid, 160, 08002, Barcelona",9.7,49,15
+Las Planchitas,MEXICANO,"Carrer d'Enric Granados, nº 26, 08008, Barcelona",9.5,156,15
+Ramen-Ya Ajisen,JAPONÉS,"Carrer del Marquès de Sentmenat, 20, 08014, Barcelona",9.5,134,14
+Gent del Barri,MEDITERRÁNEO,"Carrer de Rogent, 25, 08026, Barcelona",8.6,167,20
+B.24 - Fairmont Rey Juan Carlos I,FUSIÓN,"Av. Diagonal, 661, 08028, Barcelona",9.0,562,35
+Ocho Bcn,ARGENTINO,"C/ Tamarit, 109, 08015, Barcelona",9.4,653,20
+Mamy Ildy,€,"C/ Floridablanca, 148, 08011, Barcelona",9.4,371,14
+Estel de Gràcia,MEDITERRÁNEO,"Carrer de Còrsega, 337, 08037, Barcelona",9.5,286,24
+Soluna,GASTRONÓMICO,"Carrer de Casanova, 157, 08036, Barcelona",9.6,149,48
+Vivo Tapas Restaurant Coctelería,MEDITERRÁNEO,"Carrer del Rosselló, 255, 08008, Barcelona",8.8,579,22
+Kibuka Poblenou,JAPONÉS,"Carrer de Llull, 155, 08005, Barcelona",0.0,4,25
+Chongqing Liuyishou Hotpot,CHINO,"Carrer del Consell de Cent, 303, 08007, Barcelona",9.6,130,25
+Boca Oreja,INTERNACIONAL,"Carrer de Blai, 28, 08004, Barcelona",9.2,228,27
+Kurai by Eboca Restaurant,JAPONÉS,"Carrer de Tarragona, 99 ( Plaza Espanya), 08014, Barcelona",8.6,1214,30
+Casa Delfín,CATALÁN,"Passeig del Born, 36, 08003, Barcelona",8.6,682,25
+Mucho Cielo y Mucho Mar,YUMS,"Carrer de Salou, 12, 08014, Barcelona",0.0,0,20
+Mussol - C.C. Glòries,CATALÁN,"Avinguda Diagonal, 208, 08018, Barcelona",8.4,265,20
+Kane Room,MEDITERRÁNEO,"Plaça Reial, 11, 08002, Barcelona",0.0,0,25
+Pandan,ASIÁTICO,"Travessera de Gràcia, 8, 08021, Barcelona",0.0,0,15
+The Fresh Poke,€,"Avinguda Diagonal, 357, 08037, Barcelona",9.3,424,12
+Casa do Açaí Brunch & Coffee,INTERNACIONAL,"Av. de Roma, 43, 08029, Barcelona",9.0,402,15
+Petit Ramblero,ARROCERÍA,"Carrer dels Banys Nous, 8, 08002, Barcelona",9.0,260,30
+La Gormanda,MEDITERRÁNEO,"Carrer d'Aribau, 160, 08036, Barcelona",9.3,332,40
+Avinyó 10,MEDITERRÁNEO,"Carrer Avinyó, 10, 08002, Barcelona",8.7,521,20
+Bollywood,INDIO,"Avinguda Drassanes, 27-29, 08001, Barcelona",8.5,117,20
+Ceviche103,INSIDER,"Carrer de Londres, 103, 08036, Barcelona",9.1,3302,35
+Lagman Restaurant,MEDITERRÁNEO,"Carrer del Taquígraf Garriga, 66, 08029, Barcelona",9.7,347,40
+Louro,GALLEGO,"Rambla dels Caputxins, 37, 08002, Barcelona",9.6,1207,30
+Brunch & Munch,INTERNACIONAL,"Carrer de Londres, 54, 08036, Barcelona",9.1,28,15
+Maro Azul,MEXICANO,"Carrer de Roger de Flor, 218, 08013, Barcelona",9.5,348,35
+Lilith & Sons,MEDITERRÁNEO,"Carrer d'En Fontrodona, 23, 08004, Barcelona",9.2,108,15
+El Petit Firo,MEDITERRÁNEO,"Avinguda de Gaudí, 81-83, 08025, Barcelona",8.6,133,18
+Gu,ASIÁTICO,"Carrer de Laforja, 70, 08006, Barcelona",8.0,10,20
+Cuba de Janeiro,MEDITERRÁNEO,"Av. de Mistral, 33, 08015, Barcelona",0.0,0,20
+Shuyu Hot Pot,CHINO,"Carrer de Muntaner, 174, 08036, Barcelona",8.5,4,20
+Capricho Gallego,GALLEGO,"Plaça d'Isop, 8, 08035, Barcelona",7.0,3,20
+Ilnamiki,MEXICANO,"Carrer del Comte d'Urgell, 22, 08011, Barcelona",8.5,77,21
+La Colosal Tapas & Cocktails,MEDITERRÁNEO,"Rambla de Catalunya, 23, 08007, Barcelona",8.2,64,24
+TOYODO,JAPONÉS,"Carrer de Nicaragua, 122, 08029, Barcelona",9.1,626,14
+Thai Café,TAILANDÉS,"Travessera de Gràcia, 62, 08006, Barcelona",8.6,290,18
+AmoVino,INTERNACIONAL,"Carrer d'Aribau 30, 08011, Barcelona",9.5,51,20
+Fukamura,JAPONÉS,"Carrer de Còrsega, 479, 08025, Barcelona",9.3,1278,25
+Los Caracoles,MEDITERRÁNEO,"Carrer dels Escudellers, 14, 08002, Barcelona",9.1,935,35
+La Tagliatella - Som Multiespai BCN,€,"Avinguda de Rio de Janeiro, 42, 08016, Barcelona",0.0,0,18
+Accés,MEDITERRÁNEO,"C/ Aribau, 55, 08011, Barcelona",9.7,873,40
+El Chato,VASCO,"Gran Via de Les Corts Catalanes, 697, 08013, Barcelona",9.1,629,24
+Ekaterina Restaurant,RUSO,"Carrer del Comte Borrell, 129, 08015, Barcelona",9.6,484,12
+O'Rincón da Terra,GALLEGO,"Carrer dels Comtes de Bell-Lloc, 51, 08014, Barcelona",7.8,14,25
+La Botiga - C.C. Arenas,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 373, 08015, Barcelona",8.4,65,20
+Port Vela,MEDITERRÁNEO,"Passeig de Joan de Borbó, 103 (Local 7/8 Puerto Marina Vela), 08039, Barcelona",8.9,923,25
+Grand Beirut,LIBANÉS,"Carrer de Josep Anselm Clavé, 9, 08002, Barcelona",8.6,200,15
+Krampus,CREPERÍA,"Carrer de Saragossa, 89, 08006, Barcelona",9.5,250,18
+Ferrum,MEDITERRÁNEO,"C/ Córcega, 400, 08037, Barcelona",9.2,423,22
+Amsterdam Burgers&Beers,AMERICANO,"C/ d'Aragó, 305, 08009, Barcelona",9.1,4,12
+La Esquina Brunch&Coffee,INTERNACIONAL,"Carrer de Bergara, 4, 08002, Barcelona",9.2,44,15
+BarCeloneta Sangria Bar,€,"Carrer de Sevilla, 70, 08003, Barcelona",0.0,0,20
+Patara Bar,MEDITERRÁNEO,"Carrer del Consell de Cent, 190, 08011, Barcelona",8.2,43,15
+Barna rules bar,ARGENTINO,"Carrer de Piquer, 41, 08004, Barcelona",8.3,46,15
+La cratera,MEDITERRÁNEO,"Carrer de Villarroel, 247, 08036, Barcelona",8.4,287,25
+Cubix,ITALIANO,"Carrer de Marià Cubí, 203, 08021, Barcelona",8.2,396,20
+Taberna Volapie,ANDALUZ,"Carrer d'Enric Granados, 77, 08008, Barcelona",7.6,78,15
+Raó,MEDITERRÁNEO,"Carrer de les Sitges, 3, 08001, Barcelona",9.7,898,35
+La Chula Cervecería Mexicana,MEXICANO,"Carrer del Rosselló, 483, 08025, Barcelona",0.0,0,16
+Kurz & Gut - Muntaner,EUROPEO,"Carrer de Muntaner, 248, 08021, Barcelona",8.0,52,15
+Terrat by Gastón Acurio,AUTOR,"Passeig de Gràcia, 38, 08007, Barcelona",9.1,136,50
+Pappapomodoro,€,"Carrer de Josep Pla, 19, 08019, Barcelona",8.2,223,15
+La Tagliatella L'illa Diagonal,€,"C/ Deu i Mata, 08014, Barcelona",8.3,508,18
+Bun Sichi,JAPONÉS,"Passatge Lluís Pellicer, 20, 08036, Barcelona",9.0,2229,15
+Margarita Blue,MEXICANO,"C/ Josep Anselm Clavé, 6, 08002, Barcelona",9.6,245,17
+Xavier Pellicer,MEDITERRÁNEO,"Carrer de Provença, 310, 08037, Barcelona",9.3,406,55
+El Provisional,MEDITERRÁNEO,"Carrer de Balmes, 66 local 1, 08007, Barcelona",9.4,257,25
+Hunan,JAPONÉS,"Carrer de l'Avenir, 74, 08021, Barcelona",8.7,478,14
+Viana,ESPAÑOL,"Carrer dels Escudellers, 24, 08002, Barcelona",9.5,190,25
+Madame Tapa,ESPAÑOL,"Carrer de Sant Antoni Maria Claret, 157, 08025, Barcelona",9.3,128,18
+Osteria da Rudy,Welcome,"Carrer de Muntaner, 113, 08036, Barcelona",9.5,108,20
+Támara,MEDITERRÁNEO,"Carrer Muntaner, 178, 08036, Barcelona",8.0,265,12
+Made in Sud Trattoria,ITALIANO,"Carrer Nou de la Rambla, 24, 08001, Barcelona",0.0,0,15
+Gust pollos & Tacos,EUROPEO,"Passeig de Valldaura, 160, 08042, Barcelona",9.2,20,10
+Masa Madre,ÁRABE,"Carrer de la Diputació, 301, 08009, Barcelona",9.4,8,15
+La Fitora,MEDITERRÁNEO,"Moll de Gregal, 19, 08005, Barcelona",5.9,4,35
+Il Posto de Gràcia,€,"Ramón y Cajal, 114, 08024, Barcelona",0.0,0,20
+Marisquería del Port,MEDITERRÁNEO,"Passeig de Joan de Borbó, 67, 08003, Barcelona",0.0,0,30
+Bon Marisc,MEDITERRÁNEO,"Passeig de Joan de Borbó, 3, 08003, Barcelona",0.0,0,30
+La Cuina,MEDITERRÁNEO,"Carrer de Buenos Aires, 16, 08029, Barcelona",0.0,0,12
+Kingsman,MEDITERRÁNEO,"Carrer del Bruc, 20, 08010, Barcelona",8.3,50,40
+Cellarer Wine Bar,MEDITERRÁNEO,"Carrer de Mallorca, 211, 08008, Barcelona",9.3,73,28
+Tasajo,ASADOR,"Carrer del Torrent de l'Olla, 111, 08012, Barcelona",7.8,25,12
+Dr. Zhang,AUTOR,"Carrer de Sepúlveda, 137, 08011, Barcelona",9.2,215,18
+Virona 4,INTERNACIONAL,"Carrer del Concili de Trento, 48, 08018, Barcelona",6.5,16,15
+Restaurant Volubilis,MARROQUÍ,"Carrer de Tamarit, 151, 08015, Barcelona",9.0,142,22
+Jef Coffee & Pizza,€,"Carrer de Sant Antoni Maria Claret, 131, 08025, Barcelona",0.0,0,15
+La Soperí,MEDITERRÁNEO,"Carrer del Rosselló, 197, Bajos 2, 08036, Barcelona",9.2,985,25
+INS Escola d'Hoteleria i Turisme de Barcelona - Restaurant Pedagògic (Menú Degustació),ESPAÑOL,"Carrer del Pintor Alsamora, 3, 08016, Barcelona",9.5,131,25
+Cera 23,MEDITERRÁNEO,"Carrer de la Cera, 23, 08001, Barcelona",9.6,1557,30
+Di Como,ITALIANO,"Carrer de Muntaner, 231, 08021, Barcelona",9.6,401,29
+Lamun Cuina Thai,TAILANDÉS,"Carrer de Viladomat, 73, 08015, Barcelona",9.2,889,30
+El Racó - Rambla,€,"Rambla de Catalunya, 25, 08007, Barcelona",9.2,506,30
+Chulapio Cocktails & Crepes,FRANCÉS,"Carrer d'En Botella, 2, 08001, Barcelona",9.3,88,20
+Gorria,VASCO,"Carrer de la Diputació, 421, 08013, Barcelona",9.7,236,70
+Zona d'Ombra Enoteca,MEDITERRÁNEO,"C/ Salomó Ben Aderet, 12, 08002, Barcelona",8.0,54,15
+Polka Bar,ESTE,"Carrer de Cabestany, 7, 08014, Barcelona",9.6,251,18
+La Vermuterie,MEDITERRÁNEO,"Carrer de Londres, 103, 08036, Barcelona",8.7,1645,22
+La Broqueta,MEDITERRÁNEO,"Rambla del Poblenou, 101, 08005, Barcelona",0.0,0,16
+CIVICO 46,ITALIANO,"Carrer de Manso, 46, 08015, Barcelona",9.1,52,25
+Tulsi Vegan Restaurant,€,"C. del Consell de Cent, 279, 08011, Barcelona",9.2,41,18
+Bronzo Bar e Cucina - Born,ITALIANO,"Carrer del Rec, 60, 08003, Barcelona",9.5,88,25
+Sesenta Cuarenta,MEDITERRÁNEO,"Plaça d'Osca, 8, 08014, Barcelona",9.2,38,20
+Avocado - Universitat,LATINO,"Carrer de Muntaner, 32, 08011, Barcelona",9.4,220,15
+Platerets,MEDITERRÁNEO,"Carrer de Milà i Fontanals, 29, 08012, Barcelona",9.1,521,25
+Can Vador L'Illa Diagonal,MEDITERRÁNEO,"Carrer de Déu i Mata, 69, 08029, Barcelona",9.1,461,30
+El Racó - Urquinaona,€,"Plaça d'Urquinaona, 7, 08010, Barcelona",9.3,348,18
+Ovante,AMERICANO,"Passeig de Fabra i Puig, 95, 08016, Barcelona",9.4,230,18
+Les Truites,MEDITERRÁNEO,"Carrer d'Arimon, 22, 08022, Barcelona",9.3,915,20
+Chéri,CATALÁN,"Carrer d'Enric Granados, 122, Barcelona, Spain, 08008, Barcelona",8.8,5370,35
+The Wild Rover – Irish Sports Bar,INTERNACIONAL,"Carrer de Santa Mònica, 2, 08001, Barcelona",8.2,8,20
+Siamo Buona Pizza,Welcome,"Carrer del Comte Borrell, 163, 08015, Barcelona",8.2,83,20
+Matsuri Sushi Bar,JAPONÉS,"Plaça del Regomir, 1 (local 1), 08002, Barcelona",8.6,51,30
+Ay Caramba!,MEXICANO,"Carrer de Santaló, 85, 08021, Barcelona",7.5,20,25
+Burgertime,AMERICANO,"Carrer de Casanova, 9, 08011, Barcelona",9.3,112,7
+Las Brasas del Tío Manolo,MEDITERRÁNEO,"Carrer de Veneçuela, 59, 08019, Barcelona",8.0,72,18
+Piazza Grande,ITALIANO,"Plaça de Julio González, 10, 08005, Barcelona",0.0,45,15
+El Celler del Nou Priorat,MEDITERRÁNEO,"Carrer del Vallespir, 08014, Barcelona",9.3,168,20
+Last Monkey,ASIÁTICO,"Carrer del Comte Borrell, 70, 08015, Barcelona",9.2,390,20
+Jamón y Vino,MEDITERRÁNEO,"Carrer de Sardenya, 310, 08013, Barcelona",8.8,370,20
+Salamanca,MARISQUERÍA,"C/ Almirante Cervera, 34, 08003, Barcelona",9.6,651,65
+Casa Amàlia 1950,MEDITERRÁNEO,"Passatge del Mercat, 4, 08009, Barcelona",9.5,557,30
+Pau Claris 190,MEDITERRÁNEO,"Pau Claris 190, 08037, Barcelona",9.5,854,40
+Lato Café,LATINO,"Carrer del Bruc, 118, 08009, Barcelona",9.5,83,15
+Cheers,AMERICANO,"Carrer de la Boqueria, 15, 08002, Barcelona",3.3,3,20
+Daijiro Soba,JAPONÉS,"Carrer de Francisco Giner, 6, 08012, Barcelona",0.0,10,35
+Barlovento,ESPAÑOL,"Rambla del Poblenou, 21, 08005, Barcelona",8.4,188,20
+Els Tres Porquets,MEDITERRÁNEO,"Rambla del Poblenou, 165, 08018, Barcelona",9.3,805,38
+Txapeldun Egarri,VASCO,"Passeig de Fabra i Puig, 159, 08016, Barcelona",9.5,520,30
+El Chiringuito de Casa Bonay,INTERNACIONAL,"Gran Via de les Corts Catalanes 700, 08010, Barcelona",0.0,0,20
+Vintena,EUROPEO,"Carrer de Mandri, 37, 08022, Barcelona",0.0,0,25
+Taco Love,MEXICANO,"Carrer de Veneçuela, 3, 08019, Barcelona",0.0,0,15
+Fiser,MEDITERRÁNEO,"Carrer de Muntaner, 248, 08021, Barcelona",0.0,0,25
+Sinless Healthy Food,YUMS,"Carrer de Balmes, 64, 08007, Barcelona",9.5,3,8
+Chevy's Bar,MEDITERRÁNEO,"Carrer Port Esportiu, 26P, 08930, Barcelona",7.8,4,25
+Mar - Beach restaurant & bar,MEDITERRÁNEO,"Plaça del Mar, 1, 08003, Barcelona",8.5,102,25
+la central hamburgueseria-Laietana,AMERICANO,"Via Laietana, 45, 08003, Barcelona",0.0,0,13
+El pati,MEDITERRÁNEO,"Carrer de Tarragona, 106, 08015, Barcelona",0.0,0,20
+Port Vell,MEDITERRÁNEO,"Passeig de Joan de Borbó, 20, 08003, Barcelona",9.0,12,25
+Come Una Volta,€,"Carrer de Roger de Flor, 246, 08025, Barcelona",0.0,0,20
+La colectiva barranco,ESPAÑOL,"Carrer de la Providència, 41, 08024, Barcelona",9.6,22,20
+Marles,MEDITERRÁNEO,"Carrer de Fígols, 34, 08028, Barcelona",9.1,244,25
+Raizes Barcelona,FUSIÓN,"Carrer de Provença, 357, 08037, Barcelona",9.3,35,15
+Yue Lai,CHINO,"Ronda de Sant Pere, 45, 08010, Barcelona",9.2,172,15
+Mazah,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 618, 08007, Barcelona",9.0,526,30
+Chester,MEDITERRÁNEO,"Carrer de Raset, 47, 08021, Barcelona",8.9,89,15
+Fermentum,€,"Carrer d'Enric Granados, 115, 08008, Barcelona",8.0,586,30
+Spark,MEDITERRÁNEO,"Carrer de la Diputació, 329, 08009, Barcelona",9.1,586,20
+SAGÀS Pagesos i Cuiners,CATALÁN,"Plaza de Palau, 13, 08003, Barcelona",9.1,244,35
+OAXACA Cuina Mexicana,MEXICANO,"Pla de Palau, 19, 08003, Barcelona",9.1,1012,31
+NOW - Not Only Wine,MEDITERRÁNEO,"Carrer Hercegovina, 28, 08006, Barcelona",9.1,839,18
+Mexcla,MEXICANO,"C/ Ramón y Cajal, 35, 08012, Barcelona",9.1,991,32
+La Carmanyola,ARROCERÍA,"Plaza Juli Gonzalez, 3 (local 2), 08005, Barcelona",7.8,87,40
+Cal Pinxo Palau de Mar,MEDITERRÁNEO,"Plaça de Pau Vila, 1, 08039, Barcelona",7.8,285,20
+Wine Mood,FUSIÓN,"Carrer de Villarroel, 26, 08011, Barcelona",9.4,408,34
+Sun Taka,JAPONÉS,"Carrer del Bruc, 146, 08037, Barcelona",9.4,397,20
+RESTAURANTE BONA SORT,MEDITERRÁNEO,"Carrer de Girona, 42, 08010, Barcelona",8.6,260,20
+La Taula Bohemia,MEDITERRÁNEO,"Carrer violant de Hungría reina de Aragón 167, 08014, Barcelona",9.2,536,25
+Gola Taperia,ITALIANO,"Carrer de Tordera, 33, 08012, Barcelona",9.1,3349,"[25, 20, 20, 25, 15, 15, 30, 15, 30, 20, 35, 31, 18, 32, 40, 20, 34, 20, 20, 25]"
+Bosàbé - Balmes,MEDITERRÁNEO,"Carrer de Balmes, 44, 08007, Barcelona",0.0,0,12
+BENE ASSAI,ITALIANO,"Carrer del Dr. Carulla, 61, 08017, Barcelona",8.1,27,20
+Jaleo Barcelona,MEDITERRÁNEO,"Carrer de Tuset, 5 - 11, 08006, Barcelona",7.7,177,30
+Sabor Persa,IRANÍ,"Carrer de València, 210, 08011, Barcelona",8.1,116,25
+Manso Pizzeria,€,"Carrer de Calàbria, 44, 08015, Barcelona",0.0,0,20
+Entre Brases,CREATIVO,"Carrer d'Aribau, 186, 08036, Barcelona",0.0,0,25
+El N9u Restaurant,MEDITERRÁNEO,"Camí del Pantà, 2, 08017, Barcelona",7.6,52,20
+Bisaura,MEDITERRÁNEO,"Travessera de les Corts, 215, 08028, Barcelona",0.0,0,25
+Verde Amore,VEGETARIANO,"Carrer de Galileu, 261, 08028, Barcelona",9.3,34,15
+Arnau,CREATIVO,"Carrer de Sant Pau, 9, 08001, Barcelona",0.0,0,30
+Malumore - Cocina honesta,ITALIANO,"Carrer de Salvà, 22, 08004, Barcelona",9.5,21,30
+Un Lugar Lounge & Resto Bar,FUSIÓN,"Carrer de la Riera de Sant Miquel, 70, 08006, Barcelona",0.0,0,14
+Molinet Cafe Antic,ALEMÁN,"Carrer d'Elkano, 69, 08004, Barcelona",9.3,40,10
+La Tapa del Triomf,ESPAÑOL,"Passeig de Lluís Companys, 8, 08018, Barcelona",0.0,0,12
+La Taverna del Poblenou by Chef Reina,MEDITERRÁNEO,"Carrer de Llull, 147, 08005, Barcelona",9.3,404,22
+Manbok,COREANO,"Carrer d'Ausiàs Marc, 77, 08013, Barcelona",9.1,330,18
+Pacífic Fusió,ESPAÑOL,"Avinguda Diagonal, 42, 08019, Barcelona",9.2,18,15
+Momo,MEDITERRÁNEO,"Carrer d'Avinyó, 39, 08002, Barcelona",0.0,0,20
+Cachaca,ITALIANO,"Carrer d'Ataülf, 5, 08002, Barcelona",9.5,2802,25
+La Traviata by Eboca Restaurant,ITALIANO,"C/ Sabino de Arana 22-24- Hotel Catalonia Rigoletto, 08028, Barcelona",8.7,276,20
+Don Giovanni - Hotel NH Constanza,INSIDER,"C/ Deu i Mata, 69-99, 08029, Barcelona",0.0,0,30
+La Tramoia,CATALÁN,"Rambla Catalunya 15, 08007, Barcelona",6.5,484,25
+Notorious Jazz Café,ESPAÑOL,"Carrer de Felipe de Paz, 8, 08028, Barcelona",0.0,0,26
+La Folie American Experience,AMERICANO,"Carrer de Sant Antoni Maria Claret, 514, 08027, Barcelona",9.2,19,25
+Boa-Bao,ASIÁTICO,"Plaça del Dr. Letamendi, 1, 08007, Barcelona",9.2,417,25
+Echegaray,ESPAÑOL,"Carrer de Marià Aguiló, 65, 08005, Barcelona",9.1,100,20
+La Biga,Welcome,"Carrer del Clot, 137, 08026, Barcelona",0.0,0,20
+Dual Café,MEDITERRÁNEO,"Carrer del Comte Borrell, 65, 08015, Barcelona",9.3,84,16
+El Cercle,MEDITERRÁNEO,"Carrer dels Arcs, 5, 08002, Barcelona",8.1,609,40
+PORK... boig per tu,MEDITERRÁNEO,"Carrer del Consolat de Mar, 15, 08003, Barcelona",9.3,230,25
+La Gavina,MEDITERRÁNEO,"Plaça Pau Vila, 1, 08039, Barcelona",8.1,291,40
+Aula Restaurant - CETT,CATALÁN,"Avenida de Can Marcet, 36 08035 Barcelona, 08035, Barcelona",9.8,77,26
+Shôko Barcelona Restaurant & Lounge,FUSIÓN,"Paseo Marítimo de la Barceloneta, 36, 08003, Barcelona",9.2,405,35
+Escairon,GALLEGO,"C/ Fontrodona, 5, 08004, Barcelona",8.4,159,23
+La Pizzarra,Welcome,"Rambla del Raval, 13, 08001, Barcelona",0.0,0,18
+Restaurant cafeteria Sancho,ESPAÑOL,"Carrer de Sancho de Ávila, 7, 08018, Barcelona",0.0,0,15
+Bar Central,YUMS,"Carrer d'Elisabets, 6, 08001, Barcelona",0.0,0,15
+La Nonna Delia,MEDITERRÁNEO,"Carrer de Padilla, 307, 08025, Barcelona",9.2,44,20
+Ramen house,JAPONÉS,"Carrer d'Aribau, 174, 08036, Barcelona",8.7,305,20
+Taverna Oníric,CATALÁN,"Carrer de la Indústria, 79, 08025, Barcelona",9.0,183,30
+Wela Barbacoa,CHINO,"Carrer de Calàbria, 110, 08015, Barcelona",0.0,0,25
+Marcelino 1968,MEDITERRÁNEO,"Plaça del Sol, 2, 08012, Barcelona",9.0,496,14
+Portal de la Pau,MEDITERRÁNEO,"Plaça Portal de la pau, 4, 08002, Barcelona",7.8,184,20
+Down Town BCN,MEDITERRÁNEO,"Carrer de n'Amargós, 13, 08002, Barcelona",0.0,0,18
+Informal by Marc Gascons - The Serras Hotel Barcelona,MEDITERRÁNEO,"Passeig de Colom, 9, 08002, Barcelona",9.0,1520,50
+Sasha Bar - It`s Not a Mexican Bar !,FUSIÓN,"Carrer de Margarit, 18, 08004, Barcelona",9.5,1712,20
+Gut,Welcome,"Carrer del Perill, 13, 08012, Barcelona",9.5,928,25
+Muntaner 296,ESPAÑOL,"C/ Muntaner, 296, 08021, Barcelona",7.7,46,20
+Estimar Barcelona,MEDITERRÁNEO,"Carrer de Sant Antoni dels Sombrerers, 3, 08003, Barcelona",9.3,365,80
+Costa Azul,LATINO,"Carrer de Balmes, 220, 08006, Barcelona",7.6,9,12
+La tarantula de Sants,MEXICANO,"Carrer de Valladolid, 40, 08014, Barcelona",9.3,77,20
+Takenori Mito Daruma,AUTOR,"Carrer de Villarroel, 237, 08036, Barcelona",9.3,93,30
+La Villa Sants,€,"Passeig de Sant Antoni, 15, Barcelona, Spain, 08014, Barcelona",9.2,605,15
+Masedy Restaurante Lounge Cockteleria,MEDITERRÁNEO,"Avenida Madrid, 171, 08028, Barcelona",0.0,0,20
+L'Aliança del Poble Nou,MEDITERRÁNEO,"Rambla del Poblenou, 42, 08005, Barcelona",8.9,31,18
+Doi Chang Thai,TAILANDÉS,"Carrer de Jaume Roig, 8, 08028, Barcelona",4.9,7,16
+Spicy - Taberna Oriental,ASIÁTICO,"Carrer del Comte Borrell, 41, 08015, Barcelona",9.5,97,20
+Monsieur Bistró,FRANCÉS,"Plaça Carme Monturiol, 2, 08026, Barcelona",9.3,25,20
+Chevere restobar peruvian food,PERUANO,"Carrer dels Templers, 6, 08002, Barcelona",7.3,43,22
+El Bonic,MEDITERRÁNEO,"Carrer de València, 246, 08007, Barcelona",8.9,268,35
+YourSushi,JAPONÉS,"Av. de Josep Tarradellas, 157, 08029, Barcelona",7.4,116,20
+Mozzafiato,ITALIANO,"Passeig de Fabra i Puig, 266, 08031, Barcelona",9.5,98,25
+La Casa de les Lletres,MEDITERRÁNEO,"Plaça d'Antonio López, 6, 08002, Barcelona",9.3,29,20
+El Xalet de Montjuïc,MEDITERRÁNEO,"Avinguda Miramar, 31, 08038, Barcelona",9.0,758,45
+Abanik Bar,MEDITERRÁNEO,"Carrer de Calàbria, 209, 08029, Barcelona",9.5,305,15
+Tapería Princesa,ESPAÑOL,"C/ Princesa, 20, 08003, Barcelona",7.8,390,15
+Paco Alcalde,ARROCERÍA,"Emília Llorca Martín, 12, 08003, Barcelona",8.8,588,25
+Sherry,ESPAÑOL,"Carrer del Taquígraf Garriga, 183, 08029, Barcelona",0.0,0,10
+Jamón Jamón - Diagonal,MEDITERRÁNEO,"Avinguda Diagonal, 145, 08018, Barcelona",0.0,0,14
+Mucho Pizzeria,INSIDER,"Carrer de Marià Cubí, 201, 08021, Barcelona",9.4,242,15
+Start India,INDIO,"Carrer de Fluvià, 84, 08019, Barcelona",0.0,0,15
+Raibow Ramen & Grill,JAPONÉS,"Carrer de la Diputació, 168, 08011, Barcelona",0.0,0,15
+Majlis Gastronòmic,ÁRABE,"Carrer de València, 363, 08009, Barcelona",9.6,5,17
+Puzzles,AMERICANO,"Carrer de la Marina, 228, 08013, Barcelona",8.8,170,15
+Goja Rooftop Experience - Hotel Renaissance Barcelona,MEDITERRÁNEO,"Carrer de Pau Claris, 122, 08009, Barcelona",8.9,81,30
+La Terrasseta del Lesseps,MEDITERRÁNEO,"Carrer de Ballester, 77, 08023, Barcelona",8.1,303,14
+Sushiraku,AUTOR,"Carrer de Londres, 84, 08036, Barcelona",9.1,310,30
+Mastico,MEDITERRÁNEO,"Moliné 1, 08006, Barcelona",9.1,1003,27
+1881 per SAGARDI,MEDITERRÁNEO,"Plaça de Pau Vila, 3, 08003, Barcelona",9.1,683,50
+Els Mosqueters,CATALÁN,"Carrer de Casanova, 138, 08036, Barcelona",0.0,0,25
+El limonero peruano,PERUANO,"Carrer d'Alexandre Galí, 32, 08027, Barcelona",0.0,0,25
+Som.Y,MEDITERRÁNEO,"Plaça d'Osca, 5, 08014, Barcelona",0.0,0,10
+Rumbo Bar & Eatery,INTERNACIONAL,"Carrer de Pau Claris, 122, 08009, Barcelona",0.0,0,34
+Voramar,MEDITERRÁNEO,"Passeig de Joan de Borbó, 72-73, 08003, Barcelona",6.7,47,40
+Rooftop Ohla Barcelona,INTERNACIONAL,"Via Laietana, 49, 08003, Barcelona",8.1,17,50
+La Cova d'Horta,MEDITERRÁNEO,"Horta, 211, 08032, Barcelona",0.0,0,18
+Te quiero verde,VEGETARIANO,"Carrer del Rosselló, 235, 08008, Barcelona",9.3,14,14
+Denassus,MEDITERRÁNEO,"Carrer de Blai, 53, 08004, Barcelona",9.0,36,30
+Mussol - Pedralbes,CATALÁN,"Avinguda Diagonal, 611, 08028, Barcelona",8.6,487,20
+Yakumanka by Gastón Acurio,PERUANO,"Carrer de València, 207, 08007, Barcelona",9.5,2209,40
+Pappa Sven,INTERNACIONAL,"C/ Villarroel, 22, 08011, Barcelona",9.5,1055,30
+Thai Gracia,TAILANDÉS,"C/ Còrsega, 381, 08037, Barcelona",9.1,911,25
+Capitan K10,AMERICANO,"Carrer de Padilla, 323, 08025, Barcelona",0.0,0,20
+The Academy-Dry Martini,MEDITERRÁNEO,"Carrer d'Aribau, 162, 08036, Barcelona",0.0,0,40
+Evo - Oficina Gastronómica,MEDITERRÁNEO,"Carrer d'Aribau, 47, 08011, Barcelona",0.0,0,25
+Hawa Bladi,LIBANÉS,"Carrer dels Madrazo, 96, 08021, Barcelona",0.0,0,20
+Tiago la pizza,ITALIANO,"Carrer de València, 156, 08011, Barcelona",0.0,0,20
+Tejada Mar,MEDITERRÁNEO,"Passeig del Mare Nostrum, 19, 08039, Barcelona",8.5,74,35
+Haha,JAPONÉS,"Carrer de París, 175, 08036, Barcelona",0.0,0,30
+Bodega Vidrios y Cristales,MEDITERRÁNEO,"Passeig d'Isabel II, 6, 08003, Barcelona",9.7,7,20
+IRATI Taverna Basca,VASCO,"Carrer del Cardenal Casañas, 17, 08002, Barcelona",9.4,149,40
+Euskal Etxea Taberna,VASCO,"Placeta de Montcada, 1-3, 08003, Barcelona",9.0,94,35
+Filomena Gastrobar,MEDITERRÁNEO,"Carrer d´aldana, 8, 08015, Barcelona",9.4,204,18
+Antúnez,MEDITERRÁNEO,"Carrer de Neptú, 18, 08006, Barcelona",9.3,679,26
+Bristol Gastropub,CREATIVO,"Carrer de Roger de Flor, 220, 08013, Barcelona",9.4,93,15
+Dionisos Born,GRIEGO,"Av. Marqués de l’Argentera 27, 08003, Barcelona",9.3,1361,18
+Mishima,JAPONÉS,"Carrer del Dr. Fleming, 25, 08017, Barcelona",9.2,447,30
+Panqa,PERUANO,"CALLE SEPULVEDA 76 BAJOS, 08015, Barcelona",9.0,482,25
+Amaya,VASCO,"La Rambla, 20, 08002, Barcelona",9.6,237,35
+L'Amfora,MEDITERRÁNEO,"Av. del Paraŀlel, 184, 08015, Barcelona",9.0,676,20
+El Dorado Chicken,PERUANO,"Carrer de Balmes, 122, 08008 Barcelona, 08008, Barcelona",9.8,6,20
+Pizzeria Napoletana Core e Passiòn,ITALIANO,"Avinguda del Paral·lel, 131, 08004, Barcelona",9.3,17,16
+La Forquilla Restaurant,MEDITERRÁNEO,"Carrer d'Aragó, 152, 08011, Barcelona",9.6,6,40
+El Furacu,ASTURIANO,"Girona 52, 08009, Barcelona",9.0,28,30
+Bodega Monumental - Marina,MEDITERRÁNEO,"Marina, 183, 08013, Barcelona",9.1,30,25
+San Marino 1,€,"Ciutat, 12, 08002, Barcelona",9.2,15,15
+Timesburg Plaça Eivissa,AMERICANO,"Plaça d'Eivissa, 11, 08032, Barcelona",8.5,11,12
+Creperie Bretonne,FRANCÉS,"Carrer de Balmes, 274, 08006, Barcelona",9.3,14,20
+THE YARD,Welcome,"Carrer del Bruc, 46, 08010, Barcelona",9.8,22,14
+Cresta Colorada,MEXICANO,"Carrer de Còrsega, 244, 08036, Barcelona",9.3,256,17
+Robador Raval District,CATALÁN,"Carrer d´en Robador 18, 08001, Barcelona",7.4,104,31
+Raco de maladeta,JAPONÉS,"Carrer de la Maladeta, 1, 08016, Barcelona",0.0,0,20
+Restaurante Matatabi,JAPONÉS,"Carrer de Calàbria, 274, 08029, Barcelona",9.5,69,25
+Casa de Sam,VIETNAMITA,"Carrer de Calàbria,234, 08029, Barcelona",9.1,25,12
+Citizen Café,MEDITERRÁNEO,"Plaça Urquinaona, 4, 08010, Barcelona",9.5,62,12
+Casa de Sam,VIETNAMITA,"Carrer de Calàbria,234, 08029, Barcelona",9.1,25,12
+Citizen Café,MEDITERRÁNEO,"Plaça Urquinaona, 4, 08010, Barcelona",9.5,62,12
+Happy Rock Bar & Grill,Welcome,"Gran Vía de les Corts Catalanes, 373-385, 08015, Barcelona",8.5,111,28
+Café Pagés,MEDITERRÁNEO,"C/ Torrent de l'Olla, 27, 08012, Barcelona",8.5,643,14
+La Tagliatella Diagonal Mar,€,"Avenida Diagonal, 3, 08019, Barcelona",8.9,535,18
+Caliu de Gràcia,MEDITERRÁNEO,"C/ de Bailèn, 218, 08037, Barcelona",9.0,81,30
+Leana,LIBANÉS,"Carrer de la Marina, 141, 08013, Barcelona",0.0,0,24
+Copeta,MEDITERRÁNEO,"Carrer Aragó, 459, Barcelona, Spain, 08013, Barcelona",0.0,0,25
+rey de istanbul tallers,TURCO,"Carrer dels Tallers, 6, 08001, Barcelona",0.0,0,12
+Can Borbó,MEDITERRÁNEO,"Passeig de Joan de Borbó, 50, 08003, Barcelona",5.0,102,40
+Debutis,CATALÁN,"Carrer de Balmes, 79, 08007, Barcelona",9.5,35,12
+That's Amore,ITALIANO,"Carrer de Benavent, 23, 08028, Barcelona",9.3,112,20
+Chinese Garden,CHINO,"Carrer d'Aragó, 287, 08009, Barcelona",9.2,430,18
+HopTown,ARGENTINO,"Carrer de Sicília, 181, 08013, Barcelona",0.0,0,15
+Yuga Sushi,JAPONÉS,"Carrer de Tarragona, 96, 08015, Barcelona",0.0,0,20
+Zaza - Cuina i Vi,MEDITERRÁNEO,"Carrer del Poeta Cabanyes, 43, 08004, Barcelona",0.0,0,30
+65 Degrees Barcelona,FUSIÓN,"Carrer del Davant del Portal Nou, 3, 08003, Barcelona",9.1,62,20
+Restaurante Malasaña . BCN,MEDITERRÁNEO,"Av. de Mistral, 20, 08015, Barcelona",9.6,12,18
+La Pruna,MEDITERRÁNEO,"Carrer de Calàbria, 64, 08015, Barcelona",8.5,401,20
+Casa Palet - Laforja,MEDITERRÁNEO,"Carrer de Laforja, 9B, 08006, Barcelona",9.4,305,35
+Vivant,INTERNACIONAL,"C/ Consell de Cent, 394 (Bailén / Pg.St.Joan), 08009, Barcelona",9.2,1505,25
+Ciutat Istanbul Gràcia,TURCO,"Carrer d'Astúries, 9, 08012, Barcelona",0.0,0,12
+Rey de Istanbul Hospital,TURCO,"Carrer de l'Hospital, 49, 08001, Barcelona",0.0,0,12
+El Tiet Vermuteria & Cocteleria & Tapas,FUSIÓN,"Carrer de Neopàtria, 43, 08030, Barcelona",9.4,4,20
+Señor Piña Terraza Gótico,INSIDER,"Carrer de la Boqueria, 23, 08002, Barcelona",9.0,517,15
+El Racó de Montjuic,Welcome,"Carrer de la Font Honrada, 49, 08004, Barcelona",0.0,0,20
+Charcutería Santy,MEDITERRÁNEO,"Carrer dels Alts Forns, 74, 08038, Barcelona",0.0,0,15
+O Ferrado,GALLEGO,"Carrer de Numància, 75, 08029, Barcelona",0.0,0,20
+Golfo de Bizkaia Born,VASCO,"Carrer de la Vidrieria, 12, 08003, Barcelona",8.8,57,20
+SOLC - Majestic Hotel & Spa,MEDITERRÁNEO,"Passeig de Gràcia 68, 08008, Barcelona",0.0,0,50
+H1898 - El Nido,MEDITERRÁNEO,"La Rambla, 109, 08002, Barcelona",0.0,0,27
+Bistro Helena,MEDITERRÁNEO,"Via Laietana, 30, 08003, Barcelona",0.0,0,45
+Sushiyaki,JAPONÉS,"Carrer del Consell de Cent, 211, 08011, Barcelona",0.0,0,13
+Oxugo3,ESPAÑOL,"Carrer de Tamarit, 127, 08015, Barcelona",0.0,0,20
+Mealisa,MEDITERRÁNEO,"Avinguda Diagonal, 501, 08029, Barcellona",0.0,0,15
+La Taqueria Pujades,MEXICANO,"Carrer de Pujades, 172, 08005, Barcelona",9.2,134,15
+Majide,AUTOR,"Carrer dels Tallers, 48, 08001, Barcelona",9.1,828,40
+HonestFood Sabino Arana,€,"Carrer de Sabino Arana, 56, 08028, Barcelona",0.0,0,14
+216 Grammi Barcelona Vila Olimpica,ITALIANO,"Carrer de Joan Miró, 24, 08005, Barcelona",9.2,412,15
+Envols,FUSIÓN,"Avinguda Meridiana, 91, 08026, Barcelona",0.0,0,15
+El Pintxo de Petritxol,MEDITERRÁNEO,"Carrer de Petritxol, 9, 08002, Barcelona",0.0,0,15
+Rústico,ARGENTINO,"Carrer de Terol, 39, 08012, Barcelona",0.0,25,18
+HonestFood Llacuna,€,"Carrer de la Llacuna, 118, 08018, Barcelona",0.0,0,14
+Estruch,MEDITERRÁNEO,"Avenida Catedral, 3, 08002, Barcelona",0.0,0,23
+Can Culleres,MEDITERRÁNEO,"Carrer de Bilbao, 79, 08005, Barcelona",8.9,20,25
+La Dolça Herminia,MEDITERRÁNEO,"Carrer de les Magdalenes, 27, 08002, Barcelona",8.8,146,25
+Les Quinze Nits,MEDITERRÁNEO,"Plaça Reial, 6, 08002, Barcelona",8.8,73,20
+El Asador del Bierzo,MEDITERRÁNEO,"Carrer de Mallorca, 18, 08014, Barcelona",9.1,15,25
+Aguaribay,VEGETARIANO,"Taulat, 95, 08005, Barcelona",8.9,76,25
+Microteatre Barcelona,MEDITERRÁNEO,"Carrer de Bailèn, 194, 08037, Barcelona",7.7,7,15
+Miss Simona,ITALIANO,"Carrer de Mallorca, 438, 08013, Barcelona",9.1,15,15
+M.C. Fusio Asiática,ASIÁTICO,"Carrer de Blesa, 35, 08004, Barcelona",0.0,0,20
+KIWAMI,JAPONÉS,"Passatge de Vilaret, 54, 08013, Barcelona",8.9,74,20
+Talisman Bistro Bar,MEDITERRÁNEO,"Carrer de Trafalgar, 23, 08010, Barcelona",0.0,0,15
+La Catrina Fusión,MEXICANO,"Carrer de la Providència, 88, 08024, Barcelona",0.0,0,18
+Blat & Plat,MEDITERRÁNEO,"Av. Diagonal, 114, 08019, Barcelona",9.2,272,15
+Banna,TAILANDÉS,"Plaça Revolucio de Setembre 1868, 15, 08012, Barcelona",9.2,523,20
+4 Capellans - Hotel Barcelona Catedral,MEDITERRÁNEO,"C/ dels Capellans, 4, 08002, Barcelona",0.0,0,21
+Huqqah,MEDITERRÁNEO,"Carrer de Pamplona, 29, 08005, Barcelona",0.0,0,15
+Nolita,AMERICANO,"Carrer de Llull, 230, 08005, Barcelona",8.9,560,15
+Abirradero,MEDITERRÁNEO,"Carrer de Vila i Vilà, 77, 08004, Barcelona",8.9,443,20
+Vegetalia Born,VEGETARIANO,"Plaça del Fossar de les Moreres, 08003, Barcelona",8.9,377,15
+Mirabé,FUSIÓN,"C/ Manuel Arnús, 2, 08035, Barcelona",8.9,2738,40
+Xiringuito Escribà,ARROCERÍA,"Avenida Litoral, 62, 08005, Barcelona",8.9,1826,46
+La Porca,MEDITERRÁNEO,"Carrer de Mata, 16, 08004, Barcelona",9.3,105,20
+l'avocaterie,INTERNACIONAL,"Carrer de Sèneca, 4, 08006, Barcelona",9.3,74,17
+Taberna Noroeste,MEDITERRÁNEO,"Carrer de Radas, 67, 08004, Barcelona",9.5,32,40
+Bellako Gastro Kebab,TURCO,"Carrer de la Marina, 244, 08013, Barcelona",8.7,102,12
+Cuina Mametora,JAPONÉS,"Carrer de Violant d'Hongria Reina d'Aragó, 42, 08028, Barcelona",9.5,39,17
+Jaipurwala cocina hindú,INDIO,"Carrer de València, 506, 08013, Barcelona",9.3,126,20
+Sumamanqa,LATINO,"Carrer de la Independència, 340, 08026, Barcelona",9.3,123,15
+Santa Clara,MEDITERRÁNEO,"Carrer Jiménez i Iglesias, 11, 08034, Barcelona",8.7,735,34
+La Come Dia,€,"Carrer de la França Xica, 15, 08004, Barcelona",8.7,731,15
+Skyways Barcelona,INDIO,"Carrer del Marquès de Campo Sagrado, 5, 08015, Barcelona",0.0,0,15
+El Mirall dels Encants,MEDITERRÁNEO,"Carrer de los Castillejos, 158, 08013, Barcelona",0.0,0,30
+Entre Tapes - Meridiana,MEDITERRÁNEO,"Avinguda Meridiana, 408, 08030, Barcelona",0.0,0,15
+Fuji Ya Barcelona,ESPAÑOL,"Carrer de Guillem Tell, 18, 08006, Barcelona",6.7,57,15
+Maris&co,ESPAÑOL,"Carrer Aragó, 497, 08013, Barcelona",0.0,0,20
+Don Picanton,MEDITERRÁNEO,"Carrer de Sardenya, 78, Barcelona, Spain. 08005, 08013, Barcelona",0.0,0,25
+Fish PAC,ASIÁTICO,"Carrer de Laforja, 95, 08021, Barcelona",9.1,25,35
+Tapeo Born,CATALÁN,"Carrer de Montcada, 29, 08003, Barcelona",9.0,59,25
+Flamant,MEDITERRÁNEO,"Carrer d'Enric Granados, 23, 08007, Barcelona",8.9,330,25
+Oishii Ramen Street - Pau Claris,JAPONÉS,"Carrer de Pau Claris, 112, 08009, Barcelona",9.0,68,15
+Via Granados,MEDITERRÁNEO,"Carrer d'Enric Granados, 67, 08008, Barcelona",9.1,567,22
+La Taberna Griega,GRIEGO,"Carrer del Torrent de l'Olla, 123, 08012, Barcelona",8.6,623,23
+Ca L'Estevet,CATALÁN,"Carrer de Valldonzella, 46, 08001, Barcelona",9.3,363,30
+La Font de Prades,CATALÁN,"Avenida de Francesc Ferrer i Guàrdia, 13-27 (Poble Espanyol), 08038, Barcelona",9.1,210,25
+Txokoa Diagonal,MEDITERRÁNEO,"Avinguda Diagonal, 593, 08014, Barcelona",0.0,0,20
+Cocina Hermanos Torres,CREATIVO,"Carrer del Taquígraf Serra, 20, 08029, Barcelona",0.0,0,200
+Indian Palace,INDIO,"Carrer de Santaló, 73, 08021, Barcelona",0.0,0,20
+Nou Xupito Poblenou,ARGENTINO,"Carrer de Pujades, 225, 08005, Barcelona",0.0,0,15
+Anclas Bar Tapas,MEDITERRÁNEO,"Carrer Nou de la Rambla, 24, 08001, Barcelona",0.0,0,20
+Makkoli,COREANO,"Carrer de la Diputació, 88, 08015, Barcelona",0.0,0,25
+El Caserón,€,"Carrer de Berlín, 71, 08029, Barcelona",0.0,0,25
+El Rovell,CATALÁN,"Carrer de la Indústria, 124, 08025, Barcelona",0.0,0,20
+Crudo Bar Barcelona,MARISQUERÍA,"Gran Via de les Corts Catalanes, 654, 08010, Barcelona",0.0,0,28
+Frankfurt Joan,MEDITERRÁNEO,"Carrer del Joncar, 3, 08005, Barcelona",0.0,0,16
+El Chamo,VENEZOLANO,"C/ d'Aragó, 388, 08007, Barcelona",0.0,0,15
+Alquimia,INTERNACIONAL,"Carrer d'Aribau, 77, 08036, Barcelona",8.8,3,12
+StoreCafé,MEDITERRÁNEO,"Travessera de Dalt, 25, 08024, Barcelona",0.0,0,20
+Twins,MEDITERRÁNEO,"Gran Via Carles III, 87, 08028, Barcelona",0.0,0,20
+Delaparra,ESPAÑOL,"Passeig del Taulat, 183, 08005, Barcelona",8.8,11,25
+Shunka,JAPONÉS,"Carrer dels Sagristans, 5, 08002, Barcelona",9.2,113,40
+El boliche del gordo Cabrera,Welcome,"Carrer del Consell de Cent, 338, 08009, Barcelona",0.0,0,38
+MARISMA NASS,MEDITERRÁNEO,"Plaça Poeta Bosca, 1, 08003, Barcelona",8.0,15,25
+The Ranch Smokehouse,AMERICANO,"Ronda de la Universitat, 20, 08007, Barcelona",9.2,164,17
+Lascaleta restobar,ESPAÑOL,"Avinguda de Vallcarca, 156, 08023, Barcelona",8.7,111,15
+Purobeach Barcelona,MEDITERRÁNEO,"Passeig del Taulat, 262-264 (Hotel Hilton Diagonal Mar), 08019, Barcelona",9.3,60,38
+Pla de la Garsa,CATALÁN,"C/ Assaonadors, 13, 08003, Barcelona",9.1,598,23
+Velissima,ITALIANO,"Passeig de Joan de Borbó, 103, 08039, Barcelona",9.1,109,45
+La Catrina de Barcelona,MEXICANO,"Carrer de Sardenya, 196, 08013, Barcelona",0.0,0,20
+Chez Cocó,MEDITERRÁNEO,"Avenida Diagonal, 465, 08036, Barcelona",8.8,1097,27
+La Royale by Paco Pérez,MEDITERRÁNEO,"Plaza del Camp, 5, 08022, Barcelona",8.8,1302,18
+El tall Iberic,MEDITERRÁNEO,"Carrer de València, 637, 08026, Barcelona",9.2,118,22
+Candelecho charcoal grill,INTERNACIONAL,"Carrer de Bailèn, 127, 08009, Barcelona",0.0,0,30
+Oda - Casino Barcelona,AUTOR,"Carrer de la Marina, 19, 08005, Barcelona",0.0,0,30
+Casa Tejada,MEDITERRÁNEO,"Carrer del Tenor Viñas, 3, 08021, Barcelona",8.6,150,30
+Bodega Balmes,MEDITERRÁNEO,"Carrer de Balmes, 363, 08006, Barcelona",9.0,32,15
+Duri Fusión,MEDITERRÁNEO,"Carrer de la Princesa, 33, 08003, Barcelona",8.0,784,25
+MR KAO - Hotel Claris,CHINO,"Carrer de València, 271, 08009, Barcelona",0.0,0,35
+Fa Patxoca,MEDITERRÁNEO,"C/ Mercaders, 28, 08003, Barcelona",0.0,0,18
+La Barca del Salamanca,MEDITERRÁNEO,"Moll de Gregal 13-17 Port Olímpic, 08005, Barcelona",8.9,705,37
+Murivecchi,INSIDER,"C/ Princesa, 59, 08003, Barcelona",9.1,804,23
+Bodega Bonay,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 700, 08010, Barcelona",9.2,11,25
+A Mi Manera Restaurant,MEDITERRÁNEO,"Carrer del Parlament, 15, 08015, Barcelona",9.8,4,20
+Pilar,MEDITERRÁNEO,"Carrer de València, 113, 08011, Barcelona",9.1,6,23
+Plaza,ESPAÑOL,"Carrer del Pou, 38, 08016, Barcelona",8.9,14,15
+Melocotón vegan burger,VEGETARIANO,"Carrer d'En Fontrodona, 17, 08004, Barcelona",0.0,0,14
+BdGust,MEDITERRÁNEO,"Via Augusta, 45, 08006, Barcelona",8.4,872,20
+OD Restaurant,INTERNACIONAL,"Carrer d'Aragó, 300, 08009, Barcelona",0.0,0,30
+La Tertulia,MEDITERRÁNEO,"Rambla del Poblenou, 34, 08005, Barcelona",8.8,42,18
+128 Rambla Restaurant- Hotel Rivoli,MEDITERRÁNEO,"La Rambla, 128, 08002, Barcelona",0.0,0,17
+La Lluna,MEDITERRÁNEO,"C/ Sant Bonaventura, 7, 08001, Barcelona",8.6,273,25
+Tres Sueños,INTERNACIONAL,"Moll del Parc de la Pau, 08930, Barcelona",0.0,0,35
+Gallo Loco,MEDITERRÁNEO,"Passeig de Gràcia, 33, 08007, Barcelona",5.0,4,15
+MEPIACE VALL PARC RESTAURANT,MEDITERRÁNEO,"Carretera de l' Arrabassada, 107, 08035, Barcelona",8.7,56,18
+La Botiga - Gandesa,MEDITERRÁNEO,"Carrer de Gandesa, 10, 08029, Barcelona",8.7,323,20
+L'Escamarlà,MEDITERRÁNEO,"Passeig Marítim del Bogatell, 40, 08005, Barcelona",8.5,141,30
+Rooftop de Informal by Marc Gascons- Hotel The Serras,MEDITERRÁNEO,"Passeig de Colom, 9, 08002, Barcelona",8.7,344,50
+Pizzería Napoli Centrale,€,"Plaça del Sortidor, 15, 08004, Barcelona",9.3,84,15
+Disco Q Pedralbes,ESPAÑOL,"Carrer de Santa Caterina de Siena, 28, Barcelona, Spain, 08034, Barcelona",0.0,0,20
+Alastruey,ESPAÑOL,"C/ Mercaderes, 24, 08003, Barcelona",0.0,0,24
+Manzoku ramen&sushi,JAPONÉS,"C. d'Espronceda, 126, 08005, Barcelona",9.8,10,14
+Gust pollos & Tacos II,EUROPEO,"Carrer del Mas Duran, 40, 08042, Barcelona",0.0,0,11
+Piscorestobar,PERUANO,"Carrer de Sant Frederic, 7, 08028, Barcelona",9.8,10,30
+GreenVita - Sarria,MEDITERRÁNEO,"Carrer de Santa Fe de Nou Mèxic, 08017, Barcelona",9.1,63,15
+ORIO BCN Born,VASCO,"Av. de Francesc Cambó, 23, 08003, Barcelona",8.4,53,30
+3Sentits,MEDITERRÁNEO,"Carrer d'arizala, 53, 08028, Barcelona",6.4,143,20
+Il Giardinetto,ITALIANO,"Carrer de la Granada del Penedès, 22, 08006, Barcelona",8.9,175,28
+Chi Nanit,CHINO,"Carrer de Martínez de la Rosa, 42, 08012, Barcelona",8.8,39,25
+Slow & Low,MEDITERRÁNEO,"Carrer del Comte Borrell, 119, 08015, Barcelona",8.8,6,68
+Sato I Tanaka,JAPONÉS,"Carrer del Bruc, 79, 08009, Barcelona",9.8,14,60
+Luigi Ristorante,Welcome,"Carrer de Roger de Llúria, 50, 08009, Barcelona",9.2,196,25
+3 Focs,MEDITERRÁNEO,"Carrer de València, 207, 08007, Barcelona",8.9,1078,21
+La Taquería Passatge de la Font,MEXICANO,"Passatge de la Font, 5, 08013, Barcelona",9.1,705,13
+Can Ramonet,MARISQUERÍA,"C/ La Maquinista, 17, 08003, Barcelona",8.7,925,29
+Bodega Joan 140,MEDITERRÁNEO,"C/ d'Entença, 140, 08015, Barcelona",8.2,9,18
+San Viernes,MEDITERRÁNEO,"Carrer de Cartagena, 220, 08013, Barcelona",8.4,15,20
+Più Barcelona,€,"C/ Gran Vía de les Corts Catalanes, 633, 08010, Barcelona",0.0,0,20
+Todo Pasa,ASADOR,"C/ Vila i Vilà, 53, 08004, Barcelona",0.0,0,25
+BARCINO FOOD BRUNCH,INTERNACIONAL,"Carrer del Comte d'Urgell, 222, 08036, Barcelona",8.8,54,12
+Mirablau,MEDITERRÁNEO,"Plaça Doctor Andreu, S/N, 08035, Barcelona",8.8,1969,20
+7 Portes,CATALÁN,"Passeig d'Isabel II, 14, 08003, Barcelona",8.8,4025,50
+Emocionar,MEDITERRÁNEO,"Carrer de Saragossa, 122, 08006, Barcelona",0.0,0,25
+Fòrum CETT,INTERNACIONAL,"Av. de Can Marcet, 36, 08035, Barcelona",9.7,14,10
+GreenVita Glòries,MEDITERRÁNEO,"Avinguda Diagonal, 208 (C.C. Glories), 08018, Barcelona",8.7,154,15
+The Rooftop at Sir Victor,MEDITERRÁNEO,"Carrer del Rosselló, 265, 08008, Barcelona",8.6,49,22
+El Racó - Còrsega,€,"Carrer de Còrsega, 196, 08036, Barcelona",8.6,161,17
+Can Miserias,MEDITERRÁNEO,"Carrer del Comte Borrell, 106, 08015, Barcelona",8.0,457,25
+Once Upon a Time,MEDITERRÁNEO,"Carrer de Mandri, 32, 08022, Barcelona",8.3,540,18
+Mondo,FUSIÓN,"Carrer d' Aribau, 159, 08036, Barcelona",0.0,0,20
+GreenVita - Diagonal,INTERNACIONAL,"Avinguda Diagonal, 3, 08019, Barcelona",8.5,306,15
+Golfo de Bizkaia Pi,VASCO,"Carrer del Pi, 5, 08002, Barcelona",9.1,23,20
+La Montiel37,MEDITERRÁNEO,"Carrer de Viladomat, 37, 08015, Barcelona",0.0,0,20
+Petit Comitè de Nandu Jubany,MEDITERRÁNEO,"Passatge de la Concepció, 13, 08008, Barcelona",0.0,0,59
+Farga de Diagonal,CATALÁN,"Avinguda Diagonal, 391, 08008, Barcelona",0.0,0,35
+Don Curado Tasting,MEDITERRÁNEO,"Rambla del Poblenou, 125, 08018, Barcelona",8.6,70,15
+Terraza Alaire - Hotel Condes Barcelona,MEDITERRÁNEO,"Passeig de Gràcia, 73, 08008, Barcelona",9.6,7,20
+Ramen House,JAPONÉS,"Rambla del Poblenou, 65, 08005, Barcelona",9.6,7,15
+Timesburg Fabra i Puig,AMERICANO,"Passeig de Fabra i Puig, 233, 08031, Barcelona",0.0,0,12
+La Rita,MEDITERRÁNEO,"Carrer d'Aragó, 279, 08007, Barcelona",9.0,95,20
+El Oso Panda,ASIÁTICO,"Carrer de Verdi, 56, 08012, Barcelona",9.4,10,20
+El Mamón,MEDITERRÁNEO,"Passatge de Pere Calders, 2, 08015, Barcelona",8.9,220,20
+Mi Rincón,COLOMBIANO,"Avinguda Diagonal, 303, 08013, Barcelona",8.3,46,20
+La Forchetta,ITALIANO,"Avinguda Meridiana, 2, 08018, Barcelona",8.9,214,20
+Nelumbo,ASIÁTICO,"Carrer d'Aribau, 32, 08011, Barcelona",7.4,217,27
+Spice Bcn,AFRICANO,"Carrer d'Amigó, 39, 08021, Barcelona",0.0,0,10
+Ideal Restaurant Collserola,MEDITERRÁNEO,"Carretera de Molins de Rei a Vallvidrera, Km. 11,2, 08017, Barcelona",8.6,170,25
+Casa Marzá - Platillos i Tapes,MEDITERRÁNEO,"Via Augusta, 98, 08006, Barcelona",0.0,0,18
+Firo Tast,FUSIÓN,"Avinguda de Gaudí, 81-83, 08025, Barcelona",0.0,0,24
+Bodega Brugal - Tast de Vins,CATALÁN,"C/ Morales, 30, 08029, Barcelona",0.0,0,20
+Jolene,INTERNACIONAL,"Carrer de Pere IV, 385, 08020, Barcelona",9.5,15,15
+Arrosseria Xàtiva Les Corts,MEDITERRÁNEO,"C/ Bordeus, 35, 08029, Barcelona",8.5,889,30
+La Taqueria Sardenya,MEXICANO,"Carrer de Sardenya, 304, 08013, Barcelona",8.8,127,15
+Vincci Gala,MEDITERRÁNEO,"Ronda de Sant Pere, 32, 08010, Barcelona",0.0,0,25
+La Taberneta,MEDITERRÁNEO,"Carrer d'Enric Granados, 98, 08008, Barcelona",0.0,0,15
+Àcota - Ayre Hotel Gran Vía,ESPAÑOL,"Gran Via de les Corts Catalanes, 322-324, 08004, Barcelona",0.0,0,25
+Les Delícies by Eboca Restaurant,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 644 - - Hotel Catalonia Passeig de Gràcia, 08007, Barcelona",0.0,0,29
+La Flor de la Canela,PERUANO,"Carrer de Watt, 8, 08014, Barcelona",8.2,84,18
+Somni Restaurant & Cocteleria - Hotel The One,MEDITERRÁNEO,"Carrer de Provença, 277, 08037, Barcelona",0.0,0,55
+La Fourchette de Collserola,MEDITERRÁNEO,"Carrer Major del Rectoret, 2, 08017, Barcelona",0.0,0,12
+Carpe Diem Barcelona (CDLC),MEDITERRÁNEO,"Passeig Marítim de la Barceloneta, 32, 08003, Barcelona",8.7,232,40
+Opium Barcelona,MEDITERRÁNEO,"Passeig Marítim de la Barceloneta, 34, 08003, Barcelona",8.1,6,35
+Fabrik,MEDITERRÁNEO,"Carrer de Llull, 169, 08005, Barcelona",0.0,0,20
+St. Germain,MEDITERRÁNEO,"Carrer del Torrent de l'Olla, 113, 08012, Barcelona",9.3,4,15
+Alto Bueno,MEDITERRÁNEO,"Carrer de Muntaner, 109, 08036, Barcelona",0.0,0,20
+Chico Bar,MEDITERRÁNEO,"Carrer de Mandri, 29, 08022, Barcelona",9.4,5,20
+El Caliu de l'Eixample,ASADOR,"Valencia, 329, 08009, Barcelona",9.2,9,25
+Bykate,INTERNACIONAL,"Carrer de Còrsega, 379, 08037, Barcelona",9.5,5,15
+A33 Pizzeria,€,"Carrer de Manso, 22, 08015, Barcelona",8.8,68,20
+L'Éclair - El Palace Barcelona,INTERNACIONAL,"Gran Via de les Corts Catalanes, 668, 08010, Barcelona",0.0,0,40
+Sushifresh,JAPONÉS,"Carrer d'Europa, 24, 08028, Barcelona",0.0,0,20
+La Tagliatella Enric Granados,ITALIANO,"C/ Enric Granados, 63, 08008, Barcelona",8.1,286,18
+Atenea - Aparthotel Atenea,MEDITERRÁNEO,"C/ Joan Guell, 207, 08028, Barcelona",0.0,0,32
+Uchu,PERUANO,"Travessera de les Corts, 221, 08028, Barcelona",8.9,180,20
+Mussol - Aragó,CATALÁN,"Carrer d'Aragó, 261, 08007, Barcelona",8.4,309,20
+Inti&chaska,PERUANO,"Carrer d'Aragó, 211, 08011, Barcelona",8.9,267,14
+LeccaBaffi,ITALIANO,"Carrer de Valencia, 341, 08009, Barcelona",8.9,349,30
+New York,AMERICANO,"Carrer de Garcilaso, 165, 08027, Barcelona",0.0,0,18
+Txapela Paseo de Gràcia 58,MEDITERRÁNEO,"Passeig de Gràcia, 58, 08007, Barcelona",7.8,42,12
+Jumilla,MEDITERRÁNEO,"C/ Artesa de Segre, 6, 08022, Barcelona",8.4,80,15
+Contracorrent Bar,MERCADO,"C. de Ribes, 35, 08013, Barcelona",0.0,4,18
+El Colmadito de Sarrià,MEDITERRÁNEO,"Carrer Major de Sarrià, 12, 08017, Barcelona",9.2,16,25
+Vermut Pérez,MEDITERRÁNEO,"Carrer Francesc Pérez Cabrero, 4, 08021, Barcelona",9.1,30,25
+Ca l'Isidre,CATALÁN,"Carrer de les Flors, 12, 08001, Barcelona",8.9,214,65
+D'Argento Barcelona,€,"Pg. de Sant Joan, 72, 08009, Barcelona",0.0,0,19
+Mesón Pahi,MEDITERRÁNEO,"Carrer de Torroella de Montgrí, 7, 08027, Barcelona",0.0,0,25
+LUX Molecular Cocktail Bar,ESPAÑOL,"Carrer d'Aragó, 221, 08007 Barcelona, Spain, 08007, Barcelona",0.0,0,20
+Watatsumi,JAPONÉS,"Gran Via de les Corts Catalanes, 373, 08015, Barcelona",8.8,8,30
+A Casa da Fonte,MEDITERRÁNEO,"Carrer de Sugranyes, 17, 08028, Barcelona",0.0,0,18
+Casa Cabo,MEDITERRÁNEO,"Carrer de Ramon Turró, 19, 08005, Barcelona",8.8,15,25
+Puntaromana,ITALIANO,"Carrer d'Enric Granados, 147, 08008, Barcelona",0.0,0,30
+La Fonda,MEDITERRÁNEO,"Carrer dels Escudellers, 10, 08002, Barcelona",0.0,0,20
+Aquarella Music Restaurant,MEDITERRÁNEO,"Gran Via Corts Catalanes, 572, 08011, Barcelona",0.0,0,25
+Surf House Secret Spot,INTERNACIONAL,"Carrer d'Amigó, 53, 08021, Barcelona",0.0,0,15
+El Sopar de L'Enigma,MEDITERRÁNEO,"Del Carme, 47, 08001, Barcelona",0.0,0,66
+Sopars Medievals al Palau Requesens,MEDITERRÁNEO,"Bisbe Caçador, 4, 08002, Barcelona",0.0,0,73
+El Templo del Placer - Barcelona,MEDITERRÁNEO,"Avenida Diagonal 203, 08018, Barcelona",0.0,0,45
+La Burguesa - Tuset,AMERICANO,"Tuset, 15, 08006, Barcelona",9.0,3,20
+L'Antic Magatzem,CATALÁN,"Aldana, 8, 08015, Barcelona",8.9,9,25
+Casa Muyo,MEDITERRÁNEO,"Consejo de ciento, 424, 08013, Barcelona",0.0,0,25
+King Potato,ITALIANO,"Moll d'Espanya, 5, 08039, Barcelona",0.0,0,25
+La Tagliatella - Passeig Sant Joan,ITALIANO,"Passeig de Sant Joan, 54, 08009, Barcelona",7.9,153,18
+A Tu Bola,MEDITERRÁNEO,"Carrer de l'Hospital, 78, 08001, Barcelona",0.0,0,9
+Forastera,MEDITERRÁNEO,"Carrer de Sancho de Ávila, 22, 08018, Barcelona",0.0,0,20
+Mutenroshi Gràcia,JAPONÉS,"Carrer de Sant Agustí, 10, 08012, Barcelona",0.0,0,10
+Bananas,INTERNACIONAL,"Carrer de la Fusina, 7, 08003, Barcelona",0.0,0,30
+Alsur Café,INTERNACIONAL,"C/ Carders, 17, 08003, Barcelona",8.7,229,20
+Bagaría,ITALIANO,"Carrer Nou de la Rambla, 152, 08004, Barcelona",0.0,0,14
+BELLAKO Sant Joan,TURCO,"Pg. de Sant Joan, 66, 08009, Barcelona",0.0,0,12
+CARLITOS,MEDITERRÁNEO,"Carrer de Calvet, 50, 08021, Barcelona",8.8,426,25
+Dal presidente gastro bar,ITALIANO,"Carrer de Calàbria, 93, 08015, Barcelona",0.0,0,20
+The Clock Terrace,JAPONÉS,"Plaça d'Espanya, 6-8, 08014, Barcelona",8.4,9,25
+Yamada Sushi,JAPONÉS,"Carrer Gran de Gràcia, 57, 08012, Barcelona",0.0,0,17
+Tabarlot,CATALÁN,"Carrer de Sant Pau, 4, 08001, Barcelona",0.0,0,20
+Bistro Triple Sec - Hotel Concordia,INTERNACIONAL,"Av. Paral·lel, 115, 08004, Barcelona",0.0,0,16
+Salt - Hotel W Barcelona,INTERNACIONAL,"Paseo Mare Nostrum, 08039, Barcelona",0.0,0,40
+Go Beach Club Restaurant,MEDITERRÁNEO,"Carrer Port Esportiu, 14P, 08930, Barcelona",0.0,0,35
+Fire - Hotel W Barcelona,ASADOR,"Plaça Rosa Del Vents 1, Final, Passeig de Joan de Borbó, 08039, Barcelona",8.8,42,65
+Tapas 24 Camp Nou by Carles Abellán,MEDITERRÁNEO,"C. d'Aristides Maillol, 8-16, 08028, Barcelona",0.0,0,20
+La Burguesa - Fleming,AMERICANO,"Carrer del Dr. Fleming, 27, 08017, Barcelona",8.6,15,20
+AKELARRE,€,"Carrer de Déu i Mata, 104, 08029, Barcelona",8.2,3,12
+Hall0 Cocktail Bar - Monument Hotel 5*GL,MEDITERRÁNEO,"Passeig de Gràcia, 75, 08008, Barcelona",0.0,0,40
+Seventeen - Hotel Olivia Balmes,MEDITERRÁNEO,"Carrer de Balmes, 115-117, 08008, Barcelona",0.0,0,25
+El Palacio del Flamenco,ESPAÑOL,"C/ Balmes, 139, 08008, Barcelona",0.0,0,60
+Sanaa,MEDITERRÁNEO,"Carrer de Bilbao, 30, 08005, Barcelona",7.3,70,30
+L'Havana,MEDITERRÁNEO,"Carrer del Lleó, 1, 08001, Barcelona",8.4,63,22
+L'Antica Pizzeria da Michele,ITALIANO,"C. del Consell de Cent, 336, 08009, Barcelona",0.0,4,20
+Balthazar,MEDITERRÁNEO,"Carrer del Rosselló, 189, 08036, Barcelona",8.9,131,20
+LOCAL kitchen & bar,MEDITERRÁNEO,"Carrer de Casp, 92, 08010, Barcelona",0.0,0,15
+Sopar dels Sentits,MEDITERRÁNEO,"Carrer del Carme, 47, 08001, Barcelona",0.0,0,73
+Farola,ITALIANO,"Carrer del Rec, 67, 08003, Barcelona",9.2,3,12
+Carpe Diem Lounge Club,FUSIÓN,"Passeig Maritim, 32, 08003, Barcelona",7.9,9,34
+El Rebost de la Lola,MERCADO,"Carrer de Sant Joan de Malta, 125, 08018, Barcelona",0.0,0,25
+Mil hojas,MEDITERRÁNEO,"Carrer de Muntaner, 423, 08021, Barcelona",0.0,0,20
+Can Tresó,MEDITERRÁNEO,"Carrer d'Astúries, 18, 08012, Barcelona",0.0,0,20
+Arcano,MEDITERRÁNEO,"C/ Mercaders, 10, 08003, Barcelona",0.0,0,25
+Niu llar,ASADOR,"Carrer del Tenor Masini, 22, 08028, Barcelona",8.0,4,20
+MOOD Rooftop Bar - Hotel The One,ESPAÑOL,"Carrer de Provença, 277, 08037, Barcelona",0.0,0,35
+Versalles,MEDITERRÁNEO,"Carrer Gran de Sant Andreu, 255, 08030, Barcelona",8.5,227,22
+Delirium,ESPAÑOL,"Carrer de los Castillejos, 265, 08013, Barcelona",0.0,0,10
+Origen,MEDITERRÁNEO,"Carrer de Pallars, 121, 08018, Barcelona",0.0,0,20
+La Tagliatella Las Arenas,€,"C/ Gran Vía de les Corts Catalanes, 373-385, 08015, Barcelona",7.8,301,18
+La Riera,VEGETARIANO,"C/ Regente Mendieta, 15, 08028, Barcelona",0.0,0,15
+A Tavola,ITALIANO,"Plaça Eivissa, 2, 08032, Barcelona",0.0,0,16
+A Cañota,GALLEGO,"C/ Indústria, 314, 08026, Barcelona",0.0,0,76
+Ponsa,MEDITERRÁNEO,"Carrer d'Enric Granados, 89, 08008, Barcelona",0.0,0,25
+Eat Caribbean Barcelona,€,"Carrer de Montserrat, 4, 08001, Barcelona",6.5,148,15
+Delirio Barcelona,MEDITERRÁNEO,"Carrer dels Banys Nous, 8, 08002, Barcelona",0.0,0,25
+El Racó - Maremagnum,ITALIANO,"Moll d'Espanya, 5, 08039, Barcelona",0.0,0,18
+ÖUZÖ Barcelona,ESPAÑOL,"Rambla de Fabra i puig 66 local, 08030, Barcelona",0.0,0,25
+SIFO,ARGENTINO,"C/Espalter, 4,, 08001, Barcelona",0.0,0,16
+Pur - Nandu Jubany,MEDITERRÁNEO,"Passatge de la Concepció, 11, 08008, Barcelona",0.0,0,80
+Empire Barcelona,MEDITERRÁNEO,"Moll de Gregal, 25, 08005, Barcelona",8.0,13,30
+Timesburg Casanova,AMERICANO,"Carrer de Casanova, 246, 08036, Barcelona",0.0,0,14
+Ramen Bcn,JAPONÉS,"Carrer de Girona, 108, 08009, Barcelona",7.9,562,15
+Chaka Khan,INTERNACIONAL,"Carrer de l'Hospital, 104, 08001, Barcelona",0.0,0,18
+Bonanova,MEDITERRÁNEO,"Carrer de Sant Gervasi de Cassoles, 103, 08022, Barcelona",0.0,0,60
+Taller de Tapas - Josep Oriol,ESPAÑOL,"Plaça de Sant Josep Oriol, 9, 08002, Barcelona",0.0,0,15
+La Dentellière,MEDITERRÁNEO,"Carrer Ample, 26, 08002, Barcelona",0.0,0,24
+Garlana,€,"C/ del Capitán Arenas, 27, 08034, Barcelona",0.0,0,17
+Barraca,ARROCERÍA,"Passeig Marítim Barceloneta, 1, 08003, Barcelona",0.0,0,30
+St. Gallen,MEDITERRÁNEO,"C/ Diputació, 264, 08007, Barcelona",0.0,0,32
+Silvestre,ESPAÑOL,"Carrer de Santaló, 101, 08021, Barcelona",0.0,0,40
+La Isabela - Hotel 1898,MEDITERRÁNEO,"La Rambla, 109, 08002, Barcelona",0.0,0,30
+Nineteen - Hotel Olivia Plaza,MEDITERRÁNEO,"Plaza Catalunya, 19, 08002, Barcelona",0.0,0,25
+Flora Restaurant,EUROPEO,"Carrer de les Jonqueres, 10, 08003, Barcelona",8.6,7,20
+Sopars amb Estrelles,CREATIVO,"Camí de l'Observatori s/n (Ctra. De Vallvidrera), 08035, Barcelona",7.4,6,73
+Patio Andaluz,ESPAÑOL,"Carrer de Fastenrath, 14, 08035, Barcelona",8.0,16,20
+La Carioca,FUSIÓN,"Plaça de Pau Vila 1, 08039, Barcelona",0.0,0,15
+Bibimbap,COREANO,"Carrer de Balmes, 331, 08006, Barcelona",0.0,0,15
+Rainbow Buffet,JAPONÉS,"Carrer de Casanova, 42, 08011, Barcelona",7.9,1884,15
+Yotcha!,CHINO,"Carrer del Taquígraf Martí, 17, 08028, Barcelona",0.0,0,15
+Mamma Lucia,€,"Carrer de Galileu, 169, 08028, Barcelona",0.0,0,20
+Ale&Hop,MEDITERRÁNEO,"Carrer de les Basses de Sant Pere, 10B, 08003, Barcelona",0.0,0,15
+Beer'linale,MEDITERRÁNEO,"Carrer del Carme, 7, 08001, Barcelona",0.0,0,20
+Cecconi's,€,"Passeig de Colom, 20, 08002, Barcelona",0.0,0,35
+Taparazzi,MEDITERRÁNEO,"C/ Santa Fe de Nuevo México, s/n, 08017, Barcelona",8.4,244,20
+Balmes 103 - Hotel Barcelona Center,MEDITERRÁNEO,"C/ Balmes, 103, 08008, Barcelona",0.0,0,35
+My Way,MEDITERRÁNEO,"Carrer de les Heures, 6-8, 08002, Barcelona",0.0,0,24
+Alaparra,ESPAÑOL,"Carrer de Pujades, 136, 08005, Barcelona",0.0,0,25
+Fratelli la Bufala,ITALIANO,"carrer de Pau claris, 72, 08010, Barcelona",9.2,264,16
+Pool Up Gastrobar - Gran Hotel Havana,MEDITERRÁNEO,"Gran Via Corts Catalanes, 647, 08010, Barcelona",8.5,63,28
+Pompeia,MEDITERRÁNEO,"Carrer de la Foixarda, 2, 08038, Barcelona",7.3,6,16
+De Tapa Madre,MEDITERRÁNEO,"Carrer de Mallorca, 301, 08037, Barcelona",0.0,0,20
+El restaurant del TNC,MEDITERRÁNEO,"Plaça de les Arts, 1, 08013, Barcelona",0.0,0,20
+Mariscco Reial,MEDITERRÁNEO,"Plaça Reial, 8, 08002, Barcelona",0.0,0,35
+Bubó Tapas Bar,MEDITERRÁNEO,"Carrer de les Caputxes, 6, 08003, Barcelona",0.0,0,25
+Es tastet,MEDITERRÁNEO,"Carrer del Comte Borrell, 72, 08015, Barcelona",0.0,0,25
+Pronto Pizza,€,"Carrer de Llull, 230-234, 08005, Barcelona",0.0,0,20
+Paraiso Oriental,CHINO,"Carrer de Lisboa, 3, 08032, Barcelona",0.0,0,15
+"Pizzeria Sants, tapes bar i restaurant",€,"Carrer de Galileu, 1, 08028, Barcelona",0.0,0,28
+Brunch - Yummy Sundays - Monument Hotel 5*GL,MEDITERRÁNEO,"Passeig de Gràcia, 75, 08008, Barcelona",0.0,0,59
+Xips & Saladz,MEDITERRÁNEO,"Carrer de Salvador Espriu, 61, 08005, Barcelona",0.0,0,16
+Madness Coffe,INTERNACIONAL,"Moll de Barcelona, 08039, Barcelona",0.0,0,15
+Vegetalia Gótico,VEGETARIANO,"Carrer dels Escudellers, 54, 08002, Barcelona",8.6,131,12
+Clóset,€,"Carrer de l'Hospital, 157, 08001, Barcelona",0.0,0,15
+La Tagliatella Tarradellas,€,"C/ Josep Tarradellas, 116, 08029, Barcelona",7.4,245,18
+Super Super Bar,INTERNACIONAL,"Carrer de esparteria 14, 08003, Barcelona",0.0,0,20
+Bar Yeti,MEDITERRÁNEO,"Plaça de la Bonanova, 6, 08022, Barcelona",0.0,0,20
+The Corner Bar - Hotel Barcelona Princess,MEDITERRÁNEO,"Avinguda Diagonal, 1, 08019, Barcelona",0.0,0,17
+El Menjador de Xavier Pellicer,CREATIVO,"Carrer de Provença, 310, 08037, Barcelona",0.0,0,165
+Taller de Tapas - Rambla Catalunya,ESPAÑOL,"Rambla de Catalunya, 49, 08007, Barcelona",7.4,202,20
+Taller de Tapas - Argenteria,ESPAÑOL,"Carrer de l'Argenteria, 51, 08003, Barcelona",7.9,109,15
+Celler de Tapas - Universitat,MEDITERRÁNEO,"Plaça de la Universitat, 5, 08007, Barcelona",0.0,0,14
+El Bou Lomoteca,ARGENTINO,"Carrer de L'Escultor Llimona, 08031, Barcelona",0.0,0,1
+La Tagliatella La Maquinista,€,"Paseo Potosi, 2,, 08030, Barcelona",0.0,0,18
+La Tagliatella Pau Claris,€,"Carrer de Pau Claris, 118, Barcelona, Spain, 08009, Barcelona",6.6,202,18
+La Mestressa,MEDITERRÁNEO,"Osca, 7, 08014, Barcelona",0.0,0,25
+Vermuteria del yayo,MEDITERRÁNEO,"Carrer de Joan Güell, 30, 08028, Barcelona",0.0,0,12
+Bar Veraz - The Barcelona EDITION,INTERNACIONAL,"Av. de Francesc Cambó, 14, 08003, Barcelona",0.0,0,35
+El Puma,MEDITERRÁNEO,"Carrer d' Aribau, 44, 08011, Barcelona",0.0,0,20
+The Greenhouse - Hotel Pulitzer,MEDITERRÁNEO,"Carrer de Bergara, 8, 08002, Barcelona",0.0,0,22
+El Brunch del Majestic,INTERNACIONAL,"Paseo de Gracia, 68, 08008, Barcelona",0.0,0,50
+3 - Hotel Granados 83,MEDITERRÁNEO,"C/ Enric Granados, 83, 08008, Barcelona",0.0,0,15
+Antonio's,ESPAÑOL,"C/ Badajoz, 44, 08005, Barcelona",0.0,0,11
+Dionissos,MEDITERRÁNEO,"Avenida Bogatell, 64 (Hotel H10 Marina), 08005, Barcelona",0.0,0,35
+Jardinet d'Aribau,MEDITERRÁNEO,"Carrer Aribau, 133, 08036, Barcelona",8.2,377,25
+El Patio de Mi Casa,MEDITERRÁNEO,"Carrer del Coronel Sanfeliu, 17, 08018, Barcelona",0.0,0,20
+Il Capriccio Napoletano,ITALIANO,"Carrer de las Navas de Tolosa, 283, 08026, Barcelona",0.0,0,25
+Semproniana,INSIDER,"Carrer del Rosselló, 148, 08036, Barcelona",0.0,0,35
+Kaguya Hime,JAPONÉS,"Carrer de Bailèn, 221, 08037, Barcelona",0.0,0,20
+Palermo Food Club,ARGENTINO,"Carrer del Roser, 34, 08004, Barcelona",0.0,0,15
+Panorama Bar,INTERNACIONAL,"Passeig de Sant Joan, 84, 08009, Barcelona",0.0,0,14
+Siete y Pico,ESPAÑOL,"Carrer de Muntaner, 479, 08021, Barcelona",0.0,0,20
+Entre Tapes - Sants,MEDITERRÁNEO,"Carrer de Sants, 292, 08028, Barcelona",0.0,0,15
+La Focaccia,ITALIANO,"Carrer de Castellnou, 44, 08017, Barcelona",0.0,0,30
+L'Hortet,MEDITERRÁNEO,"Carrer del Pintor Fortuny, 32, 08001, Barcelona",0.0,0,17
+Shanghai 1930,CHINO,"Carrer de Buenos Aires, 11, 08029, Barcelona",0.0,0,25
+Kiu Nam,VIETNAMITA,"Carrer de Villarroel, 199, Barcelona, Spain, 08036, Barcelona",0.0,0,16
+Desgraciats,CATALÁN,"C/ Providencia, 114 local bis, 08024, Barcelona",0.0,0,19
+Nou Celler,CATALÁN,"C/ Princesa , 16, 08003, Barcelona",0.0,0,18
+La Cova del Nou Mediterrani,MEDITERRÁNEO,"RONDA SANT PERE, 42, 08010, Barcelona",0.0,0,20
+Soda Bus,MEDITERRÁNEO,"Carrer d'Aribau, 150, 08036, Barcelona",0.0,0,20
+Panchito Parcerisa,MEXICANO,"Carrer de Parcerisa, 11, 08014, Barcelona",0.0,0,20
+Panchito Amigo,MEXICANO,"Carrer d'Amigó, 57, 08021, Barcelona",0.0,0,20
+Oriental Palacio Mandarin,ASIÁTICO,"Passeig de la Zona Franca, 243, 08038, Barcelona",0.0,0,16
+A Pluma - Santaló,MEDITERRÁNEO,"Carrer de Santaló, 39, 08021, Barcelona",0.0,0,25
+Pikio Taco,MEXICANO,"Carrer de Còrsega, 376, 08037, Barcelona",0.0,0,17
+Pötstot,MEDITERRÁNEO,"Plaça Sagrada Família, 15, 08025, Barcelona",0.0,0,20
+Hasta los andares Barcelona,MEDITERRÁNEO,"Carrer de Provença, 471, 08025, Barcelona",0.0,0,20
+Gaig Barcelona,CATALÁN,"Carrer de la Nau Santa Maria, 5, 08017, Barcelona",0.0,0,40
+El Gallinero del Apolo,MEDITERRÁNEO,"Av. del Paraŀlel, 57, 08004, Barcelona",0.0,0,18
+El Pescadito de Mandri,MEDITERRÁNEO,"Carrer de Mandri, 54, 08022, Barcelona",0.0,0,30
+Nonna Maria - Hotel Meliá Sarriá,€,"Av. de Sarrià, 50, 08029, Barcelona",0.0,0,26
+La Chelinda - Diagonal Mar,MEXICANO,"Avinguda Diagonal, 3, 08019, Barcelona",0.0,0,18
+Peccata Pizza,ITALIANO,"Carrer de Mandri, 58, 08022, Barcelona",0.0,0,20
+Ginette Bar,FUSIÓN,"Carrer del Rec Comtal, 12, 08003, Barcelona",0.0,0,35
+Casa Leopoldo,MEDITERRÁNEO,"Carrer de Sant Rafael, 24, 08001, Barcelona",0.0,0,35
+IMPAR - Hotel Sofia,MEDITERRÁNEO,"Plaça de Pius XII, 4, 08028, Barcelona",0.0,0,40
+Monocrom,MEDITERRÁNEO,"Plaça de Cardona, 4, 08006, Barcelona",0.0,0,25
+Witty - Hotel The Wittmore- Only Adults,INTERNACIONAL,"Carrer de Riudarenes, 7, 08002, Barcelona",0.0,0,35
+Dionisos Gótico,GRIEGO,"Carrer de n'Arai, 3, 08002, Barcelona",0.0,0,18
+Taller de Tapas - Travessera,ESPAÑOL,"Travessera de les Corts, 64, 08028, Barcelona",0.0,0,15
+Le Bouchon - Hotel Mercer Barcelona,MEDITERRÁNEO,"Carrer dels Lledó, 7, 08002, Barcelona",0.0,0,30
+Bilbao Berria Catedral,VASCO,"Plaça Nova, 3, 08002, Barcelona",0.0,0,20
+Bierzo food,ESPAÑOL,"Carrer de les Flors, 16, 08001, Barcelona",0.0,0,20
+Ascent by Eboca Restaurant,MEDITERRÁNEO,"C/ Arcs, 10 - Hotel Catalonia Catedral, 08002, Barcelona",0.0,0,28
+Mosaic Restaurant,ESPAÑOL,"Avinguda Diagonal, 589-591, 08014, Barcelona",0.0,0,32
+Bastaix,MEDITERRÁNEO,"Carrer dels Ases, 5, 08003, Barcelona",0.0,0,13
+Grand Place Bistrot - Gran Hotel Havana,MEDITERRÁNEO,"Gran Via de Les Corts Catalanes, 647, 08010, Barcelona",0.0,0,35
+Lonja de Tapas - Pla de Palau,MEDITERRÁNEO,"Pla de Palau, 7, 08003, Barcelona",6.2,51,16
+Bonasport,MEDITERRÁNEO,"C/ Vista Bella, 11, 08022, Barcelona",6.5,32,25
+Yoüme Sushi,JAPONÉS,"Carrer de Londres, 88, 08036, Barcelona",0.0,0,28
+Saiko Japonés,JAPONÉS,"Carrer de Villarroel, 140, 08036, Barcelona",0.0,0,14
+Kuyi,JAPONÉS,"Camí Vell Sarrià, 21, 08029, Barcelona",0.0,0,15
+Fish & Chips Shop - Universitat,INTERNACIONAL,"Carrer d'Aribau, 18, 08022, Barcelona",0.0,0,12
+SomDTapes,MEDITERRÁNEO,"Carrer de Saragossa, 2, 08006, Barcelona",0.0,0,20
+Merkado Barcelona Sky,MEDITERRÁNEO,"Carrer de Pere IV, 272, 08005, Barcelona",0.0,0,30
+La Pimpa,ITALIANO,"Carrer d'Europa, 24, 08028, Barcelona",0.0,0,15
+Kappo Barcelona - Sabores de Asia,ASIÁTICO,"Passatge de Lluís Pellicer, 24, 08036, Barcelona",0.0,0,22
+La Poma,Welcome,"La Rambla 117, 08002, Barcelona",0.0,0,19
+Pampero,ARGENTINO,"Plaza Doctor Letamendi, 25, 08007, Barcelona",0.0,0,28
+Tlaxcal,MEXICANO,"Carrer del Comerç, 27, 08003, Barcelona",0.0,0,25
+El Señorío,PERUANO,"C/ Còrsega, 607, 08025, Barcelona",0.0,0,21
+Libertine,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 700, 08010, Barcelona",0.0,0,25
+The Coffee House Barcelona,MEDITERRÁNEO,"Carrer de València, 143, 08011, Barcelona",0.0,0,12
+Restaurante NH Sants Barcelona,MEDITERRÁNEO,"Carrer de Numància, 74, 08029, Barcelona",0.0,0,25
+Bistro 1925 - Gran Hotel La Florida,MEDITERRÁNEO,"Ctra. de Vallvidrera al Tibidabo, 83-93, 08035, Barcelona",0.0,0,50
+Buenissimo,ITALIANO,"Calle de Aragón, 60, Barcelona, Spain, 08015, Barcelona",8.3,155,17
+Sabor Jiang 匠味,CHINO,"Carrer consell de cent 448, 08013, Barcelona",0.0,0,15
+Bērytī,LIBANÉS,"Travessera de Gràcia, 228, 08024, Barcelona",0.0,0,20
+Lonja de Tapas - Jaume I,MEDITERRÁNEO,"Carrer de Jaume I, 8-10, 08002, Barcelona",0.0,0,15
+Picca-Dilly Alta Taverna,INTERNACIONAL,"Carrer de la Marina, 237, 08013, Barcelona",0.0,0,19
+Selene Restaurant - Bar,CATALÁN,"Passatge dels Escudellers, 7, Barrio Gótico, Barcelona, Spain, 08002, Barcelona",0.0,0,25
+Cactus,INTERNACIONAL,"Carrer de Blasco de Garay, 10, 08004, Barcelona",0.0,0,10
+Jardin Mimosa - Mandarin Oriental Barcelona,MEDITERRÁNEO,"Passeig de Gràcia, 38, 08007, Barcelona",0.0,0,40
+Vascobelo V-bar Urgell-Londres,INTERNACIONAL,"Carrer del Comte d'Urgell, 239, 08036, Barcelona",0.0,0,20
+Bodega Vasconia,VASCO,"Carrer d'en Gignàs, 13, 08002, Barcelona",0.0,0,19
+Doroteo BCN,MEXICANO,"Carrer de Marià Aguiló, 31, 08005, Barcelona",0.0,0,25
+Confortel Bel Art - Hotel Conforte Bel Art,MEDITERRÁNEO,"C/ Lepant, 406, 08025, Barcelona",0.0,0,18
+The Bistrot - Santa Eulalia,MEDITERRÁNEO,"Passeig de Gràcia, 93, 08008, Barcelona",0.0,0,30
+The Top - Gallery Hotel,MEDITERRÁNEO,"C/ Roselló, 249-251, 08008, Barcelona",0.0,0,9
+Restaurant De Blanc - Hotel H10 Itaca,MEDITERRÁNEO,"Av. de Roma, 22, 08015, Barcelona",0.0,0,30
+El Sultán,MARROQUÍ,"Carrer de Villarroel, 82, 08011, Barcelona",0.0,0,20
+A Pluma - Rec Comtal,MEDITERRÁNEO,"Carrer del Rec Comtal, 7, 08003, Barcelona",0.0,0,25
+La Taverna - Casino Barcelona,MEDITERRÁNEO,"Carrer de la Marina, 19, 08005, Barcelona",0.0,0,20
+Terraza Alaire Ramblas,ESPAÑOL,"Carrer de Sant Pau, 9, 08001, Barcelona",0.0,0,25
+Sky Bar - Grand Hotel Central,MEDITERRÁNEO,"Via Laietana, 30, 08003, Barcelona",0.0,0,25
+50&5 by Eboca Restaurant,MEDITERRÁNEO,"Carrer de Muntaner, 505, 08022, Barcelona",0.0,0,15
+Chickster,MEDITERRÁNEO,"Passeig de Sant Joan, 66, 08009, Barcelona",0.0,0,20
+NH Collection Pódium - Bistro,MEDITERRÁNEO,"Carrer de Bailèn, 4-6, 08010, Barcelona",0.0,0,25
+Hideout Burger,AMERICANO,"Carrer del Consell de Cent, 242, 08011, Barcelona",0.0,0,15
+Braseros & Asoc,MEDITERRÁNEO,"Carrer del Parlament, 34, 08015, Barcelona",0.0,0,30
+Caleuche,€,"C/ Sant Pau, 116, 08001, Barcelona",0.0,0,20
+Las Sorrentinas,FUSIÓN,"Plaça de Sant Pere, 5, 08003, Barcelona",0.0,0,25
+Mercer,MEDITERRÁNEO,"Carrer dels Lledó, 7, 08002, Barcelona",0.0,0,65
+Maruko,JAPONÉS,"Carrer de Gavà, 89, 08014, Barcelona",0.0,0,18
+Piscolabis - Diagonal,MEDITERRÁNEO,"Avinguda Diagonal, 593, 08014, Barcelona",0.0,0,20
+Cabaret - The Barcelona EDITION,INTERNACIONAL,"Av. de Francesc Cambó, 14, 08003, Barcelona",0.0,0,60
+SOFIA Be So,MEDITERRÁNEO,"Plaça de Pius XII, 4, 08028, Barcelona",0.0,0,100
+ORIO BCN Gòtic,VASCO,"Carrer de Ferran, 38, 08002, Barcelona",0.0,0,30
+Magnate,MEDITERRÁNEO,"Carrer de Casanova 193, 08036, Barcelona",0.0,0,30
+El maracucho Bcn,VENEZOLANO,"Carrer dels Enamorats, 112, 08026, Barcelona",0.0,0,15
+Lucuma & Camote - Peru Boutique,PERUANO,"Carrer d'Aribau, 158, 08036, Barcelona",0.0,0,25
+La Polpa,MEDITERRÁNEO,"Carrer d'Enric Granados, 69, 08008, Barcelona",0.0,0,20
+El Nilo,EGIPCIO,"Carrer del Dos de Maig, 241, 08013, Barcelona",0.0,0,18
+La Tagliatella Mallorca,€,"Carrer de Mallorca, 266, 08008 Barcelona, Spain, 08008, Barcelona",0.0,0,18
+Studio Miramar - Hotel Miramar,MEDITERRÁNEO,"Plaça de Carlos Ibáñez, 3, 08038, Barcelona",9.7,2166,46
+SiamoQuà,€,"C/ Rambla Poblenou, 123, 08018, Barcelona",9.3,899,15
+Spicy Soul Hot Pot - Barcelona,CHINO,"Carrer de Girona, 51, 08009, Barcelona",9.5,90,20
+Seoul Restaurant Corea,COREANO,"Avinguda de Gaudí, 70, 08025, Barcelona",9.3,1014,25
+Brasería El Glop,MEDITERRÁNEO,"Carrer de Casp, 21, 08010, Barcelona",9.7,157,25
+Gamba de la Costa,MEDITERRÁNEO,"Carrer de Roger de Flor, 252, 08025, Barcelona",9.1,500,35
+Lúcuma,VEGETARIANO,"Carrer de Josepa Massanes, 34, 08026, Barcelona",8.0,269,16
+Al Punt,MEDITERRÁNEO,"Carrer de Girona, 51, 08009, Barcelona",0.0,0,17
+Meating,MEDITERRÁNEO,"Carrer d'Amigó, 68, 08021, Barcelona",9.6,229,25
+Ginger,MEDITERRÁNEO,"Carrer de la Palma de Sant Just, 1, 08002, Barcelona",9.2,590,25
+Arrosseria Gaudí,MEDITERRÁNEO,"Av. de Gaudí, 44-46, 08025, Barcelona",8.6,595,20
+Zoé Experience BCN,AMERICANO,"Carrer de Vilamarí, 78, 08015, Barcelona",9.3,920,15
+Doi Chang Thai,TAILANDÉS,"Carrer de Jaume Roig, 8, 08028, Barcelona",0.0,0,20
+El Chullo,PERUANO,"Gran Via de Carles III, 14, 08028, Barcelona",9.0,447,25
+Lola,MEDITERRÁNEO,"Rambla del Raval 3, 08001, Barcelona",0.0,0,25
+Sushi Kokoro,JAPONÉS,"Carrer d'Europa, 18, 08028, Barcelona",8.6,735,16
+Sal Café,ARROCERÍA,"Passeig Marítim de la Barceloneta, s/n, 08003, Barcelona",9.1,368,26
+Chashu Ramen,JAPONÉS,"Carrer de la Diputació, 294, 08009, Barcelona",7.3,71,15
+El Glop de la Rambla,MEDITERRÁNEO,"Rambla de Catalunya, 65, 08007, Barcelona",0.0,0,30
+Los Bellota Sagrada Familia,EXTREMEÑO,"C/ Marina, 298, 08025, Barcelona",0.0,0,26
+Can Nico,CATALÁN,"Carrer de Nàpols, 217 (esquina Diagonal, 301), 08013, Barcelona",8.3,405,25
+OH RAMEN,JAPONÉS,"Carrer de Robrenyo, 67, 08014, Barcelona",9.8,300,15
+Auto Rosellón,MEDITERRÁNEO,"Carrer del Rosselló, 182, 08008, Barcelona",8.5,384,25
+A CASA MIA da Gigi e Danilo,ITALIANO,"Carrer de Salvà, 41, 08004, Barcelona",9.7,22,20
+Living del Born,ARGENTINO,"Carrer d'En Cortines, 13, 08003, Barcelona",8.9,71,15
+Donde Siempre,VENEZOLANO,"Avinguda Diagonal, 229, 08013, Barcelona",7.5,27,14
+Can Mario,ASIÁTICO,"Carrer de Casanova, 134, 08036, Barcelona",0.0,0,20
+Restaurant Montiel,MEDITERRÁNEO,"C/ Flassaders 19, 08003, Barcelona",0.0,0,13
+Neri - Hotel Neri,ESPAÑOL,"Sant Sever 5 08002, 08002, Barcelona",0.0,0,30
+Federal Café,AMERICANO,"C/ Parlament 39 8015, 08015, Barcelona",0.0,0,21
+Freixa Tradició,ESPAÑOL,"Carrer de Sant Elies, 22, 08006, Barcelona",0.0,0,25
+Monvínic,ESPAÑOL,"Diputacio, 249, 08007 Barcelona, España 8007, 08007, Barcelona",0.0,0,30
+WAGOKORO,JAPONÉS,"Regas 35 8006, 08006, Barcelona",0.0,0,17
+Master Grill,AMERICANO,"Carrer de Mallorca, 10, 08014, Barcelona",9.3,931,30
+Tierra de Trufa,FRANCÉS,"Carrer de Casanova, 193, 08036, Barcelona",0.0,0,35
+Haveli,INDIO,"Carrer de Cabanes, 32, 08004, Barcelona",0.0,0,30
+A LA BRASSA,ASADOR,"Passeig de Garcia Fària, 31, 08005, Barcelona",0.0,0,"[15, 25, 20, 15, 14, 20, 13, 30, 21, 25, 30, 17, 30, 35, 30]"
+Lucuma & Camote - Icària,PERUANO,"Av. d'Icària, 132, local 2, 08005, Barcelona",9.4,874,30
+Kynoto Sushi Bar,JAPONÉS,"C/ Correu Vell, 8, 08002, Barcelona",9.4,886,25
+Angle by Jordi Cruz,MEDITERRÁNEO,"Carrer d'Aragó, 214, 08011, Barcelona",0.0,0,30
+Litoral,MEDITERRÁNEO,"Carrer dels Pescadors, 87, 08003, Barcelona",9.5,63,25
+Napoli Prima e Dopo,€,"Villaroel, 255, 08036, Barcelona",6.2,8,18
+Pizzería Da Pietro Corner,ITALIANO,"Carrer de Craywinckel, 31, 08022, Barcelona",9.0,29,25
+Damasco Arabian Restaurant,ÁRABE,"Carrer de Sant Pere Més Alt, 18, 08003, Barcelona",9.1,197,15
+La Granota & CO,ESPAÑOL,"CALLE PADILLA 250 LOCAL LA GRANOTA, 08013, Barcelona",0.0,0,25
+Thai Thai,TAILANDÉS,"Carrer de Villarroel, 68, 08011, Barcelona",0.0,0,20
+Gallo de Oro,MEXICANO,"Carrer de Nàpols, 266, 08025, Barcelona",0.0,0,25
+La Candela,MEDITERRÁNEO,"Plaça de Sant Pere, 12, 08003, Barcelona",0.0,0,25
+Somorrostro,MEDITERRÁNEO,"Carrer de Sant Carles, 11, 08003, Barcelona",9.3,438,25
+Los Cachitos,GALLEGO,"Ronda de Sant Pau, 4, 08001, Barcelona",0.0,0,24
+Ura Restaurant & Lounge,MEDITERRÁNEO,"Avenida Diagonal, 477, 08036, Barcelona",0.0,0,31
+Refugi Del Port,MEDITERRÁNEO,"C/ Judici, 4, 08003, Barcelona",0.0,0,25
+De Tapadillo,FUSIÓN,"C/ Fonollar, 8, 08003, Barcelona",9.1,1665,29
+Rincón Criollo,ARGENTINO,"Passeig de Sant Joan, 72, 08009, Barcelona",0.0,0,22
+Tribeca,ARROCERÍA,"Carrer del Consell de Cent, 303, 08007, Barcelona",0.0,0,11
+Mount Everest,INDIO,"C/ Viladomat ,80, 08015, Barcelona",0.0,0,33
+La Bodega,ESPAÑOL,"Plaza Molina, 2, 08006, Barcelona",0.0,0,23
+El Nou de Sarrià,CREATIVO,"C/ Major de Sarrià, 109, 08017, Barcelona",0.0,0,31
+Bistrot BCN,FRANCÉS,"C/ Casanovas, 15, 08011, Barcelona",0.0,0,13
+Sonora Sport Tavern,MEDITERRÁNEO,"C/ Pamplona, 96, 08018, Barcelona",0.0,0,35
+Ria de Vigo,ARROCERÍA,"C/ Sevilla 84, 08003, Barcelona",0.0,0,26
+La Rosa del Desierto,ÁRABE,"Plaça Narcís Oller, 7, 08006, Barcelona",0.0,0,"[25, 18, 25, 15, 25, 20, 25, 25, 25, 24, 31, 25, 29, 22, 11, 33, 23, 31, 13, 35, 26]"
+Creperie Bretonne Anaick,FRANCÉS,"Carrer de Ramon Trias Fargas, 2, 08005, Barcelona",0.0,0,14
+Velodromo Bar,ESPAÑOL,"Calle Muntaner, 213 8036, 08036, Barcelona",0.0,0,25
+Bar Del Pla,ESPAÑOL,"C/Montcada, 2 8003, 08003, Barcelona",0.0,0,30
+Chicha bcn Restaurante,FUSIÓN,"Carrer de Sepúlveda, 151, 08011, Barcelona",9.2,800,20
+Bo de Gracia,MEDITERRÁNEO,"Carrer de la Diputació, 269, 08007, Barcelona",8.3,156,20
+Thali,INDIO,"Carrer de Calàbria, 164, 08015, Barcelona",9.2,1647,34
+Xorús,MEDITERRÁNEO,"Rambla del Poblenou, 105, 08005, Barcelona",9.3,158,20
+Agut,CATALÁN,"C/ Gignàs, 16, 08002, Barcelona",9.2,720,11
+Ébano,INDIO,"Av. del Paraŀlel, 124, 08015, Barcelona",0.0,0,20
+Estrella del Norte,MARROQUÍ,"Carrer de la Cera, 44, 08001, Barcelona",0.0,0,25
+El Filete Ruso,ESPAÑOL,"Carrer d' Enric Granados, 95 8008, 08008, Barcelona",0.0,0,25
+Cal Pep,ESPAÑOL,"Plaça de les Olles, 8, 08003, Barcelona",0.0,0,16
+Ophelia,MEDITERRÁNEO,"Carrer de València, 350, 08009, Barcelona",9.0,87,35
+Orea,INTERNACIONAL,"Carrer de València, 193, 08011, Barcelona",9.3,15,30
+Tomoe BCN,JAPONÉS,"Carrer de Sant Delfí, 11, 08022, Barcelona",9.1,236,15
+Match from Scratch,MEDITERRÁNEO,"Carrer d'Aribau, 146, 08036, Barcelona",9.7,14,23
+Oleum Restaurant,MEDITERRÁNEO,"Carrer del Mirador del Palau Nacional, 08038, Barcelona",9.2,57,12
+L'Osteria Sutta e Supra,ITALIANO,"Carrer de Casanova 195, 08036, Barcelona",9.1,377,50
+Cafetería Industrial,AUTOR,"Carrer de Pallars, 154, 08005, Barcelona",0.0,0,24
+Komeridiana,PERUANO,"Avinguda Meridiana, 346, 08027, Barcelona",0.0,0,24
+Absenta 1893,MEDITERRÁNEO,"Carrer de l'Hospital, 75, 08001, Barcelona",0.0,0,15
+Sánchez Romera,MEDITERRÁNEO,"Carrer de Muntaner, 182, 08036, Barcelona",0.0,0,"[30, 20, 20, 34, 20, 11, 20, 25, 25, 16, 35, 30, 15, 23, 12, 50, 24, 24, 15]"
+Gaudí,MEDITERRÁNEO,"Carrer Gran de la Sagrera, 106, 08027, Barcelona",0.0,0,10
+Katafuchi,AUTOR,"Passatge de Batlló, 16, 08036, Barcelona",0.0,0,11
+Enric i Pau,ESPAÑOL,"C/ Minería, 4-6, 08038, Barcelona",0.0,0,20
+Kobu - Comte Urgell,JAPONÉS,"Carrer del Comte d'Urgell, 272, 08036, Barcelona",0.0,0,25
+Barítimo,MEDITERRÁNEO,"Moll de Espanya, 5, 08039, Barcelona",8.7,420,26
+Mamarosa Beach,Welcome,"Paseo Mare Nostrum, 19-21, 08039, Barcelona",8.7,1478,28
+La Palmera del Desierto,MARROQUÍ,"calle hospital 82 local bajos, 08001, Barcelona",0.0,0,8
+El Rincón Peruano,PERUANO,"Carrer d'Entença, 146, 08029, Barcelona",0.0,0,9
+El Tarantín,LATINO,"Carrer d'Aribau, 186, 08036, Barcelona",0.0,0,28
+Nonna Sara,ITALIANO,"Carrer de Còrsega, 225, 08036, Barcelona",0.0,0,20
+Sabores de Portugal,PORTUGUÉS,"Carrer del Carme, 95, 08001, Barcelona",8.9,443,20
+Mavi's,AMERICANO,"Carrer d'Aribau, 18, 08011, Barcelona",0.0,0,15
+Pata Salada II,PERUANO,"Carrer del Marquès de Sentmenat, 75, 08029, Barcelona",0.0,0,15
+LaBRASA,BRASILEÑO,"Travessera de Gràcia, 81, 08006, Barcelona",0.0,0,15
+Tivoli 1940,MEDITERRÁNEO,"Carrer de Muntaner, 361, 08021, Barcelona",0.0,0,20
+El Pulgarcito de América,LATINO,"Carrer de la Indústria, 172, 08025, Barcelona",0.0,0,20
+Lúa Nova,GALLEGO,"C/ Garcilaso, 33, 08027, Barcelona",0.0,0,22
+IGUAZU II,ARGENTINO,"Carrer del Consell de Cent 313, 08007, Barcelona",0.0,0,15
+Saraba,AFRICANO,"Carrer de Villarroel, 30, 08011, Barcelona",0.0,0,15
+Bocarius,€,"Carrer del Comte d'Urgell, 224, 08036, Barcelona",8.8,299,18
+Abou Khalil,LIBANÉS,"Carrer de Santaló, 88, 08021, Barcelona",8.8,100,20
+Elephant Restaurant Lounge,MEDITERRÁNEO,"Carrer de Pau Claris, 92, Barcelona, Spain, 08010, Barcelona",0.0,0,35
+Qing Watai,COREANO,"Ronda de Sant Pere, 25, 08010, Barcelona",0.0,0,15
+Platinium,INTERNACIONAL,"Avinguda Meridiana, 517, 08016, Barcelona",0.0,0,15
+Sushiyaki II - Buffet,JAPONÉS,"Carrer de Villarroel, 88, 08011, Barcelona",0.0,0,13
+Tango Braseria,ARGENTINO,"Carrer de la Nació, 49, 08026, Barcelona",0.0,0,20
+Manga Rosa,BRASILEÑO,"Carrer del Consell de Cent, 220, 08011, Barcelona",0.0,0,15
+Canton food,ASIÁTICO,"Carrer d'Alí Bei, 39, 08010, Barcelona",0.0,0,15
+La Factoria Celta,ESPAÑOL,"Carrer del Clot, 191, 08027, Barcelona",0.0,0,30
+Cheese and Cake,AMERICANO,"Carrer de Lepant, 257, 08013, Barcelona",0.0,0,15
+Crama Drácula,ESTE,"C/ Provença, 18, 08029, Barcelona",0.0,0,20
+O’Canto,GALLEGO,"Carrer de la Diputació, 23, 08015, Barcelona",0.0,0,25
+El pescadito de Balmes,ARROCERÍA,"Carrer de Balmes, 440, 08022, Barcelona",0.0,0,35
+Nuestra brasa Garibaldi,€,"Carrer de Viladomat, 267, 08029, Barcelona",0.0,0,18
+La Fonda Paisa - Diagonal,COLOMBIANO,"Av. Diagonal, 332, 08013, Barcelona",0.0,0,15
+Marinella,ITALIANO,"Carrer del Clot, 179 local bajos 6, 08027, Barcelona",0.0,0,14
+Burger Shack,AMERICANO,"Carrer de Londres, 65, 08036, Barcelona",0.0,0,15
+La Bella Donna,€,"Avenida Diagonal, 593 - 595, 08014, Barcelona",0.0,0,24
+Bar Mut,ESPAÑOL,"C/ Pau Claris, 192 8010, 08037, Barcelona",0.0,0,20
+Il Piccolo de Gràcia,€,"Carrer de Ramon y Cajal, 146, 08024, Barcelona",0.0,0,30
+Laz Laz,ITALIANO,"Carrer de Lepant, 297, 08025, Barcelona",0.0,0,20
+El Bandarra Tapería,MEDITERRÁNEO,"Carrer de Torrijos, 53, 08012, Barcelona",0.0,0,22
+Topgrill,BRASILEÑO,"Carrer de Joan Güell, 212, 08028, Barcelona",0.0,0,10
+Mutenroshi Sant Gervasi,JAPONÉS,"Carrer de Santaló, 86, 08021, Barcelona",0.0,0,25
+Òpera Samfaina,MEDITERRÁNEO,"La Rambla, 51-59, 08002, Barcelona",0.0,0,18
+Tres Chiles,MEXICANO,"Carrer de París, 163, 08036, Barcelona",0.0,0,25
+Riera 29,CATALÁN,"C/ Riera de Sant Miquel, 29, 08006, Barcelona",0.0,0,22
+El Gran Café,CATALÁN,"Carrer d'Avinyó, 9, Barcelona, Spain, 08002, Barcelona",0.0,0,140
+Caviar SOS,RUSO,"Avinguda de Pau Casals, 5, Barcelona, Spain, 08021, Barcelona",0.0,0,31
+Casa Julia,ESPAÑOL,"C/ Enrique Granados, 14, 08007, Barcelona",0.0,0,"[15, 20, 25, 35, 18, 15, 14, 15, 24, 20, 30, 20, 22, 10, 25, 18, 25, 22, 140, 31]"
+Secrets del Mediterrani,MEDITERRÁNEO,"Passeig de Sant Joan, 28, 08010, Barcelona",0.0,0,20
+Braseria Chamonix,ESPAÑOL,"Carrer de Còrsega, 641, 08025, Barcelona",0.0,0,30
+Filigrana by Eboca Restaurant,ESPAÑOL,"Plaça Espanya, 6-8, 08014, Barcelona",0.0,0,45
+El Jardín del Edén,MEDITERRÁNEO,"Carrer de Jovellanos, 3, 08001, Barcelona",0.0,0,18
+Volta al Món,INTERNACIONAL,"Carrer de Muntaner, 51, 08011, Barcelona",0.0,0,25
+Big Kokka,FUSIÓN,"Passatge Mercantil, 1, 08003, Barcelona",0.0,0,25
+Bordeaux - Cuina Oberta,MEDITERRÁNEO,"Carrer del Taquígraf Garriga, 34, 08014, Barcelona",0.0,0,20
+Café Búho,MEDITERRÁNEO,"Passeig de Sant Joan, 84, 08009, Barcelona",0.0,0,15
+A Gaudir,CATALÁN,"Carrer d'Aragó, 111, 08015, Barcelona",8.4,351,30
+Qin,MEDITERRÁNEO,"Carrer del Comte d'Urgell, 216, 08036, Barcelona",0.0,0,15
+D.O Vins i Platillos,MEDITERRÁNEO,"Carrer de Verdi, 36, 08012, Barcelona",0.0,0,15
+Le Menhir,FRANCÉS,"Carrer d'en Fontrodona, 17, 08004, Barcelona",0.0,0,15
+La Fianna,INTERNACIONAL,"C/ Manresa, 4, 08003, Barcelona",0.0,0,32
+Nagano,JAPONÉS,"Avenida Paral·lel, 76, 08001, Barcelona",0.0,0,16
+Ria de Vigo,ARROCERÍA,"C/ Sevilla 84, 08003, Barcelona",0.0,0,35
+Arco Iris,VEGETARIANO,"Carrer Roger de Flor, 216, 08013, Barcelona",0.0,0,9
+Prieto empanadas BCN,LATINO,"Carrer de Formentera, 58, 08016, Barcelona",7.9,20,14
+La vianda del Clot,MEDITERRÁNEO,"Carrer de Mallorca, 601, 08026, Barcelona",8.1,158,24
+18 d'octubre,ESPAÑOL,"Carrer de Julián Romea, 18, 08006, Barcelona",8.1,1161,26
+Gandhi Executive Food,INDIO,"Carrer del Comte Borrell, 160, 08015, Barcelona",0.0,0,20
+Mogollon's,Welcome,"Av. d'Icària, 131, 08005, Barcelona",0.0,0,15
+Chiringuito BeGay,MEDITERRÁNEO,"Paseo Marítimo de la Mar Bella, s/n, 08005 Barcelona, 08005, Barcelona",0.0,0,15
+Zinbar,MARROQUÍ,"Carrer de Balmes, 159, 08008, Barcelona",0.0,0,30
+El Capritx,MEDITERRÁNEO,"Rambla del Poblenou, 100, 08005, Barcelona",0.0,0,15
+Petit Montjuïc,MEDITERRÁNEO,"Carrer de Sant Isidre, 2, Poble-sec, 08004, Barcelona",0.0,0,15
+Veiga,ESPAÑOL,"Carrer del Dos de Maig, 298, 08025, Barcelona",0.0,0,20
+La Taverna 249,MEDITERRÁNEO,"Carrer de Pujades, 249, 08005, Barcelona",0.0,0,20
+Chennai Masala Dosa,INDIO,"Carrer de Galileu, 326, 08028, Barcelona",0.0,0,15
+Beam,MEDITERRÁNEO,"Carrer de la Diputació, 200, 08011, Barcelona",0.0,0,18
+Setze,CATALÁN,"Carrer de Pere Pau, 08032, Barcelona",0.0,0,15
+El Refugio Los 33,LATINO,"Plaça del Mercat, 19, 08018, Barcelona",0.0,0,15
+A Ruta Galega,GALLEGO,"Carrer del Clot, 76, 08018, Barcelona",0.0,0,27
+El Pasaje,CASTELLANO,"Gran Via de Les Corts Catalanes, 164, (Galerias la Campana) Local 31, 08038, Barcelona",0.0,0,20
+La Garchetta,MEDITERRÁNEO,"Carrer de Pujades, 445, 08019, Barcelona",0.0,0,15
+Intrepid de Gracia,INTERNACIONAL,"Carrer del Torrent de l'Olla, 176, 08012, Barcelona",0.0,0,15
+VinoMio,FUSIÓN,"Carrer del Tajo, 19, 08031, Barcelona",0.0,0,25
+Taverna del Bisbe,MEDITERRÁNEO,"Avinguda de la Catedral, 6, 08002, Barcelona",0.0,0,30
+Edelweiss,JAPONÉS,"Carrer de la Granada del Penedès, 19, 08006, Barcelona",0.0,0,200
+Blat Net,€,"Carrer de les Sitges, 6, 08001, Barcelona",0.0,0,21
+Velvet Lounge,MEDITERRÁNEO,"Carrer de Balmes, 193, 08006, Barcelona",0.0,0,9
+Can Meli,MEDITERRÁNEO,"Carrer d'Arnau d'Oms, 45, 08016, Barcelona",0.0,0,20
+La Cucchiarella,€,"Carrer de Sant Rafael, 20, 08001, Barcelona",0.0,0,20
+Tabernas Gallegas - La Maquinista,GALLEGO,"Passeig de l'Havana, 1, 08030, Barcelona",0.0,0,20
+Raconet,MEDITERRÁNEO,"Carrer de Calàbria, 206, Barcelona, Spain, 08029, Barcelona",0.0,0,30
+El Jabalí,ESPAÑOL,"Ronda de Sant Pau, 15, 08015, Barcelona",0.0,0,20
+La Trobada,MEDITERRÁNEO,"C/ Provença, 99, 08029, Barcelona",0.0,0,17
+Vivanda,ESPAÑOL,"C/Major de Sarria, 134 8017, 08017, Barcelona",0.0,0,24
+Can Vallés,ESPAÑOL,"Carrer d'Arago, 95 8015, 08015, Barcelona",0.0,0,16
+Can Ramon,ESPAÑOL,"C/ Santuari, 5, 08490, Barcelona",0.0,0,"[15, 15, 27, 20, 15, 15, 25, 30, 200, 21, 9, 20, 20, 20, 30, 20, 17, 24, 16]"
+Boca Grande,MEDITERRÁNEO,"Passatge de la Concepció, 12, 08008, Barcelona",0.0,0,50
+Tossa,MEDITERRÁNEO,"Carrer de Nàpols, 291, 08025, Barcelona",0.0,0,20
+La Cantonada,MEDITERRÁNEO,"C/ Montcada, 1, 08003, Barcelona",0.0,0,17
+Bacus,CATALÁN,"C/ Viladomat, 289, 08029, Barcelona",0.0,0,25
+Sports Bar,€,"Las Ramblas, 31, 08002, Barcelona",0.0,0,14
+El Escalón,MEDITERRÁNEO,"C/ Aribau, 265, 08021, Barcelona",0.0,0,25
+La Scarpetta,ITALIANO,"C/ Calabria 80,, 08015, Barcelona",0.0,0,20
+Spice Bcn Parallel,AFRICANO,"Av. del Paraŀlel, 184, 08015, Barcelona",0.0,0,14
+Black Cherry Persa,IRANÍ,"Carrer d'Aribau, 158, 08036, Barcelona",0.0,0,20
+Kyoka III,JAPONÉS,"Carrer de Balmes, 13, 08007, Barcelona",0.0,0,15
+Ginos - Tuset,€,"Carrer de Tuset, 2, 08006, Barcelona",0.0,0,15
+Ginos Sepúlveda,€,"Carrer de Sepúlveda, 183, 08011, Barcelona",0.0,0,15
+Yoiaji,JAPONÉS,"Carrer de Garcilaso, 114, 08027, Barcelona",0.0,0,20
+Guanabara,BRASILEÑO,"Carrer del Consell de Cent, 403, 08009, Barcelona",0.0,0,25
+D'Aprop,CATALÁN,"Carrer de Trafalgar, 26, 08010, Barcelona",0.0,0,35
+Foodies Restaurante & Salad Bar,CREATIVO,"Carrer de Pujades, 225, 08005, Barcelona",0.0,0,13
+Nájera,MEDITERRÁNEO,"Carrer d' Aragó, 67, 08015, Barcelona",0.0,0,20
+La Cuina de l’Uribou,INSIDER,"Carrer del Taquígraf Serra, 26, 08029, Barcelona",0.0,0,30
+Casa Pamplinas,MEDITERRÁNEO,"Carrer de Londres, 84, 08036, Barcelona",0.0,0,20
+Amaloca,FUSIÓN,"Carrer de la Virtut, 11, 08012, Barcelona",0.0,0,20
+Diversus BCN,MEDITERRÁNEO,"Carrer de Loreto, 22, 08029, Barcelona",0.0,0,20
+El Racó De L'Avi Melcior,CATALÁN,"Carrer de Santa Coloma, 2, 08030, Barcelona",0.0,0,20
+Tairyo,JAPONÉS,"Gran Via de les Corts Catalanes, 457, 08015, Barcelona",0.0,0,14
+Kamiya,JAPONÉS,"Carrer de València, 240, 08007, Barcelona",0.0,0,14
+Zuka Bcn,JAPONÉS,"Carrer de Londres, 90, 08036, Barcelona",0.0,0,30
+INACTIU Buffet del Casino,INTERNACIONAL,"Carrer de la Marina, 19, 08005, Barcelona",0.0,0,35
+El Último Agave,MEXICANO,"Carrer de Aragó, 193, 08011, Barcelona",0.0,0,18
+ChichaLimoná,MEDITERRÁNEO,"Passeig de Sant Joan, 80, 08009, Barcelona",0.0,0,22
+Maur - Muntaner,€,"Carrer de Muntaner, 121, 08036, Barcelona",0.0,0,25
+Leka,INTERNACIONAL,"Carrer de Badajoz, 65, 08005, Barcelona",0.0,0,25
+Pacha Barcelona,MEDITERRÁNEO,"Passeig Marítim, 38, 08003, Barcelona",0.0,0,40
+Asador de Aranda - Pau Claris,CASTELLANO,"Carrer de Pau Claris, 70, 08010 Barcelona, Spain, 08010, Barcelona",0.0,0,35
+Goliard,CATALÁN,"Carrer del Progrés, 6, 08012, Barcelona",0.0,0,34
+Ouzoud,MARROQUÍ,"Carrer de Salvà, 5, Barcelona, Spain, 08004, Barcelona",0.0,0,20
+Asador de Aranda - Londres,ASADOR,"Carrer de Londres, 94, Barcelona, Spain, 08036, Barcelona",0.0,0,35
+Asador de Aranda - Tibidabo,ASADOR,"Avinguda Tibidabo, 31, 08022, Barcelona",0.0,0,35
+Muns,ARGENTINO,"C/ de Sancho de Ávila, 171, 08018, Barcelona",0.0,0,9
+Yashima,JAPONÉS,"C/ Josep Tarradellas, 145, 08029, Barcelona",0.0,0,37
+Koxkera,MARISQUERÍA,"C/ Marqués de Sentmentat, 67, 08029, Barcelona",0.0,0,30
+Espai Kru,MARISQUERÍA,"C/ Lérida, 7, 08004, Barcelona",0.0,0,35
+Minamo,JAPONÉS,"Carrer del Bruc, 65, 08009, Barcelona",0.0,0,98
+Toto,€,"Calle Valencia, 246, 08007, Barcelona",0.0,0,29
+Al Sultán,MARROQUÍ,"Carrer del Torrent de l'Olla, 143, 08012, Barcelona",0.0,0,20
+Abrassame,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 373-385, 08015, Barcelona",0.0,0,30
+Pilar,ESPAÑOL,"C/ Valencia, 113, 08011, Barcelona",0.0,0,20
+La Caleta de Gràcia,MEDITERRÁNEO,"C/ Torrent de l'Olla, 121, 08012, Barcelona",0.0,0,20
+Rebost de María,MEDITERRÁNEO,"C/ Gran Vía, 439, 08015, Barcelona",0.0,0,29
+El Túnel del Port,ARROCERÍA,"C/ Moll de Gregal, 12 - Port Olimpic, 08005, Barcelona",0.0,0,41
+Sant Remy,MEDITERRÁNEO,"Carrer d'Iradier, 12, 08017, Barcelona",0.0,0,39
+Dos Torres,MEDITERRÁNEO,"Vía Augusta, 300, 08017, Barcelona",0.0,0,38
+Puerto Madero,ARGENTINO,"C/ París, 175, 08036, Barcelona",0.0,0,43
+De Gustibus Italiae,ITALIANO,"C/ Ricardo Calvo, 13, 08022, Barcelona",0.0,0,26
+L'Orangerie - Hotel La Florida,MEDITERRÁNEO,"Carretera Vallvidrera al Tibidabo, 83-93, 08035, Barcelona",0.0,0,53
+Mediterrani,MEDITERRÁNEO,"C/ Diputació, 73, 08015, Barcelona",0.0,0,23
+La Gárgola,CATALÁN,"C/ Entença, 332, 08029, Barcelona",0.0,0,20
+Rias de Galicia,GALLEGO,"c/ Lleida, 7, 08004, Barcelona",0.0,0,80
+Casa Aliaga,CATALÁN,"C/ Llacuna, 154, 08018, Barcelona",0.0,0,30
+Picus,MERCADO,"C/ Santjoanistes 8 - 10, 08006, Barcelona",0.0,0,22
+City Ho Chi Minh,VIETNAMITA,"C/ Calabria, 234, 08029, Barcelona",0.0,0,18
+Yoshinoya-8,JAPONÉS,"Rambla del Poblenou, 153, 08018, Barcelona",0.0,0,18
+ABaC by Jordi Cruz,MEDITERRÁNEO,"Avenida Tibidabo, 1, 08022, Barcelona",0.0,0,135
+Hisop,MEDITERRÁNEO,"Pasaje Marimon, 9, 08021, Barcelona",0.0,0,41
+Golden thai brasserie,TAILANDÉS,"Moll de Sant Bertran, 08039, Barcelona",6.3,22,30
+Vacatada,ARGENTINO,"C/ Doctor Trueta, 229, 08005, Barcelona",0.0,0,28
+Fun,JAPONÉS,"Carrer de Craywinckel 9, 08022, Barcelona",0.0,0,25
+Barcelona Beach Club,MEDITERRÁNEO,"Carrer de Bac de Roda, 1, 08005, Barcelona",0.0,0,30
+Jobs Restaurant,MEDITERRÁNEO,"Carrer de Mallorca, 170, 08036, Barcelona",0.0,0,25
+The Sushi Club,JAPONÉS,"Passeig de Joan de Borbó, 74, 08003, Barcelona",0.0,0,30
+Picadera Gourmet,INTERNACIONAL,"Carrer de Galileu, 282, 08028, Barcelona",0.0,0,30
+about.salmon,MARISQUERÍA,"Carrer de Ramis, 2, 08012, Barcelona",0.0,0,24
+The little Kitchen,INTERNACIONAL,"Carrer del Marquès de Campo Sagrado, 28, 08001, Barcelona",0.0,0,60
+Brugarol Barcelona,INTERNACIONAL,"Carrer de Salomó Ben Adret, 10, 08002, Barcelona",0.0,0,35
+El Tropical,LATINO,"Carrer de Pujades, 226, 08005, Barcelona",0.0,0,15
+Kobu - Poble Sec,JAPONÉS,"Carrer del Poeta Cabanyes, 19, 08004, Barcelona",0.0,0,25
+Roots & Rolls,JAPONÉS,"Carrer del Consell de Cent, 401, 08009, Barcelona",0.0,0,20
+Frankfurt Balmes,MEDITERRÁNEO,"Carrer de Balmes, 412, 08022, Barcelona",0.0,0,15
+Luris II,JAPONÉS,"Carrer de Pau Claris, 139, 08009, Barcelona",0.0,0,12
+TAiTU - Sabors d'Etiopia,ETÍOPE,"Carrer Nou de la Rambla, 149, 08004, Barcelona",0.0,0,15
+Patio Urbano,€,"Carrer de Sant Antoni Maria Claret, 182, 08025, Barcelona",0.0,0,20
+Tio Joe,MEDITERRÁNEO,"Via Augusta, 9, 08006, Barcelona",0.0,0,15
+Capet,MEDITERRÁNEO,"Carrer del Cometa, 5, 08002, Barcelona",0.0,0,42
+Shiraz,IRANÍ,"Carrer de Calàbria, 144, 08015, Barcelona",0.0,0,15
+Yifan Sushi,JAPONÉS,"Carrer de Laforja, 3, 08006, Barcelona",0.0,0,13
+Chontaduro,LATINO,"Carrer Aribau, 254, 08006, Barcelona",0.0,0,20
+Barra Alta,MEDITERRÁNEO,"Carrer de Laforja, 11, 08006, Barcelona",0.0,0,24
+Pla,MEDITERRÁNEO,"Carrer de Bellafila, 5, 08002, Barcelona",0.0,0,30
+Europa Café,MEDITERRÁNEO,"Avinguda Diagonal, 469, 08036, Barcelona",0.0,0,25
+Rilke,MEDITERRÁNEO,"Carrer de Mallorca, 275, 08008, Barcelona",0.0,0,45
+Colors,MEDITERRÁNEO,"Carrer de Bilbao, 30, 08005, Barcelona",0.0,0,25
+Gastrobar nº 30 Barceloneta,ESPAÑOL,"Passeig de Joan de Borbó, 30, 08003, Barcelona",0.0,0,35
+Doña Rosa,MEDITERRÁNEO,"Carrer de Ferlandina, 27, 08001, Barcelona",0.0,0,20
+Salvaje - Burger & Lobster,AMERICANO,"Carrer de la Reina Cristina, 10, 08003, Barcelona",0.0,0,25
+El Camino,MEDITERRÁNEO,"Carrer de Roger de Llúria, 24, 08010, Barcelona",0.0,0,25
+Amassame,INSIDER,"Carrer de Sant Medir, 8, 08028, Barcelona",0.0,0,15
+Sésam Negre - Bruc,JAPONÉS,"Carrer del Bruc, 146, 08037, Barcelona",0.0,0,30
+La Real Hamburguesería,AMERICANO,"Carrer de València, 285, 08009, Barcelona",0.0,0,12
+Bouquet Experience,MEDITERRÁNEO,"Carrer de Roger de Llúria, 35, 08009, Barcelona",0.0,0,30
+El Dorado,LATINO,"Carrer de Sugranyes, 27, 08028, Barcelona",0.0,0,15
+DESTAPATE,ARGENTINO,"Carrer del Masnou, 27, 08014, Barcelona",0.0,0,18
+La Mama Acasa,ESTE,"Carrer de Guitard, 41, 08014, Barcelona",0.0,0,18
+La Despensa de Mitre,MEDITERRÁNEO,"Ronda del General Mitre, 114, 08021, Barcelona",0.0,0,30
+Ivy Resto Lounge,JAPONÉS,"Carrer d'Aribau, 242, 08006, Barcelona",0.0,0,30
+Can Punyetes - Gràcia,CATALÁN,"Carrer de Francisco Giner, 8, 08012, Barcelona",0.0,0,20
+Pork&Tuna,MEDITERRÁNEO,"Passeig de Garcia Fària, 81, 08019, Barcelona",0.0,0,18
+Le Bistrot de Pierrot,FRANCÉS,"Carrer de Julià Portet, 6, 08002, Barcelona",0.0,0,9
+Pockets,ESPAÑOL,"Carrer de Provença, 322, 08037, Barcelona",0.0,0,16
+La Caleta de Sants,VENEZOLANO,"Carretera de la Bordeta, 54, 08014, Barcelona",0.0,0,35
+1902 Cafè Modernista,CATALÁN,"Carrer de Sant Antoni Maria Claret, 167, 08025, Barcelona",0.0,0,35
+Agreste,MEDITERRÁNEO,"Carrer de Funoses-Llussà, 2, 08023, Barcelona",0.0,0,30
+Arroz Hofmann,MEDITERRÁNEO,"Passeig de Sant Joan, 36, 08010, Barcelona",0.0,0,20
+Ten's Tapas Restaurant by Jordi Cruz,MEDITERRÁNEO,"Carrer del Rec, 79, 08003, Barcelona",0.0,0,24
+Belga Cuina,BELGA,"Carrer de València, 205, 08007, Barcelona",0.0,0,35
+Robata,JAPONÉS,"Carrer d'Enric Granados 55, 08008, Barcelona",0.0,0,12
+2Hundred Burger,AMERICANO,"Carrer de l'Or, 19, 08012, Barcelona",0.0,0,11
+ArtiSa Barcelona,MEDITERRÁNEO,"Carrer de Colom, 2, 08002, Barcelona",0.0,0,65
+Marea Alta,MEDITERRÁNEO,"Av. de les Drassanes, 6-8 (Edificio Colón, Planta 24), 08001, Barcelona",0.0,0,30
+Green Spot,INSIDER,"Carrer de la Reina Cristina, 12, 08003, Barcelona",0.0,0,35
+Cocina de Mercado - Novotel Barcelona City,MEDITERRÁNEO,"Av. Diagonal, 201, 08018, Barcelona",0.0,0,25
+BO di NAPOLI,€,"Carrer de València, 197, 08011, Barcelona",0.0,0,40
+Kokka,PERUANO,"Carrer d'Avinyó, 30, 08002, Barcelona",0.0,0,27
+La Barra del Sandor,MEDITERRÁNEO,"Plaça de Francesc Macià, 5, 08021, Barcelona",0.0,0,19
+Artesana Bio,MEDITERRÁNEO,"Carrer d'Entença, 57, 08015, Barcelona",0.0,0,35
+Bilbao,MEDITERRÁNEO,"Carrer del Perill, 33, 08012, Barcelona",0.0,0,35
+Platja Ca La Nuri,ARROCERÍA,"Porxos del Passeig Maritim de la Barceloneta, Local B, 08003, Barcelona",0.0,0,40
+Fogo,BRASILEÑO,"Carrer de Còrsega, 231, 08036, Barcelona",0.0,0,"[18, 9, 16, 35, 35, 30, 20, 24, 35, 12, 11, 65, 30, 35, 25, 40, 27, 19, 35, 35, 40]"
+La République du Fromage,FRANCÉS,"Carrer del Comte d'Urgell, 190, 08036, Barcelona",0.0,0,18
+Casa Varela,MEDITERRÁNEO,"Plaça Molina, 4, 08006, Barcelona",0.0,0,25
+El Secreto de Ellen,ESPAÑOL,"Carrer de la Diputació, 280, 08009, Barcelona",0.0,0,22
+Fusión Grill,ASADOR,"Av. d' Eduard Maristany, 227, puerto de Badalona, 08912, Barcelona",0.0,0,18
+Florida Grill,MEDITERRÁNEO,"Carrer de Floridablanca, 119, 08011, Barcelona",0.0,0,25
+Hisako,JAPONÉS,"Carrer de Londres, 91, 08036, Barcelona",0.0,0,37
+Oishi,JAPONÉS,"Carrer d'Aribau, 254, 08006, Barcelona",0.0,0,20
+La Cuchara del Norte,MEDITERRÁNEO,"Carrer de Villarroel, 106, 08011, Barcelona",0.0,0,20
+Al Jaima Els Encants,MARROQUÍ,"Calle Bolívia, 1-3, 08018, Barcelona",0.0,0,8
+Tenorio,CATALÁN,"Passeig de Gràcia, 37, 08007, Barcelona",0.0,0,25
+La Xula Tapería,MEDITERRÁNEO,"Carrer de la Mare de Déu dels Desemparats, 18, 08012, Barcelona",0.0,0,20
+Il Capriccio Pizzeria Ristorante,ITALIANO,"Calle de Sant Antoni Maria Claret, 125, 08025, Barcelona",0.0,0,15
+KoKo Restaurante Barcelona,FUSIÓN,"Carrer de Provença, 224b, 08026, Barcelona",0.0,0,21
+Sushi Nomi,JAPONÉS,"Carrer de Muntaner, 208, 08036, Barcelona",0.0,0,20
+Bar Bas,MEDITERRÁNEO,"Rambla de Catalunya, 7, 08007, Barcelona",0.0,0,30
+Casa Chelis,ESPAÑOL,"Carrer de Muntaner, 102, 08036 Barcelona, Spain, 08036, Barcelona",0.0,0,25
+Las 7 Maravillas,RUSO,"C/ Gran Vía de les Corts, 682, 08010, Barcelona",0.0,0,20
+Asador de Burgos,ASADOR,"C/ Bruc, 120, 08009, Barcelona",0.0,0,30
+Cachitos Diagonal,MEDITERRÁNEO,"Av. Diagonal, 508, 08006, Barcelona",0.0,0,30
+Rainbow,AUTOR,"Carrer de Balmes, 167, 08008 Barcelona, Spain, 08008, Barcelona",0.0,0,15
+Parellada,CATALÁN,"C/ Argenteria, 37, 08003, Barcelona",0.0,0,25
+Típic i Català,AUTOR,"C/ Sicília 217, baixos, 08013, Barcelona",0.0,0,17
+Embat,MEDITERRÁNEO,"C/ Mallorca, 304, 08037, Barcelona",0.0,0,25
+Melo-Jia,CHINO,"C/ Còrsega, 250, 08008, Barcelona",0.0,0,20
+Uma by Iker Erauzkin,MEDITERRÁNEO,"Carrer de Provença, 310, 08037, Barcelona",0.0,0,75
+Tasca I Vins Diputació,CATALÁN,"C/ Diputació, 304, 08009, Barcelona",0.0,0,18
+Vallirana Petit Bangkok,TAILANDÉS,"Carrer de Vallirana, 29, 08006, Barcelona",0.0,0,18
+Yubari,JAPONÉS,"Avenida Diagonal, 339, 08037, Barcelona",0.0,0,30
+Descobertas Do Lusitano,PORTUGUÉS,"C/ Llull, 169, 08005, Barcelona",0.0,0,22
+Palosanto,MEDITERRÁNEO,"C/ Avinyó, 30, 08002, Barcelona",0.0,0,30
+Monster Sushi,JAPONÉS,"Plaça de Gal·la Placídia 25, 08006, Barcelona",0.0,0,30
+Telefèric - Eixample,ESPAÑOL,"Plaça del Dr. Letamendi, 27, 08007, Barcelona",0.0,0,35
+Baribau,MEDITERRÁNEO,"C/ Aribau 131, 08036, Barcelona",0.0,0,25
+L'Oliva,MEDITERRÁNEO,"C/ Indústria, 207, 08041, Barcelona",0.0,0,27
+Patrón,MEDITERRÁNEO,"Travessera de Gràcia, 44, 08021, Barcelona",0.0,0,28
+La Piemontesa Barcelona,€,"C/ Enric Granados, 60, 08008, Barcelona",0.0,0,24
+Can Ravell,MERCADO,"C/ Aragó, 313, 08009, Barcelona",0.0,0,31
+Alegra,MEDITERRÁNEO,"Moll d'Espanya, 5, 08039, Barcelona",0.0,0,35
+Tantarantana,MEDITERRÁNEO,"C/ Tantarantana, 24, 08003, Barcelona",0.0,0,25
+El Canalla,MEDITERRÁNEO,"C/ Major de Sarrià, 95, 08017, Barcelona",0.0,0,30
+Nonono,MEDITERRÁNEO,"Passatge Lluis Pellicer, 12, 08036, Barcelona",0.0,0,25
+Can Punyetes - Bonanova,CATALÁN,"Carrer de la Ciutat de Balaguer, 50, 08022, Barcelona",0.0,0,17
+Zaatar,VEGETARIANO,"C/ Paris, 200, 08008, Barcelona",0.0,0,10
+Casa Robin Hood,ITALIANO,"C/ Comte Borrell, 188, 08029, Barcelona",0.0,0,24
+Kahala Restaurante Hawaiano,LATINO,"Avenida Diagonal, 535, 08029, Barcelona",0.0,0,19
+Santa Burg Sants,AMERICANO,"C/ Vallespir, 51, 08014, Barcelona",0.0,0,13
+Farga de Beethoven,MEDITERRÁNEO,"C/ Beethoven, 11, 08021, Barcelona",0.0,0,23
+La Laia,€,"C/ Laforja, 61, 08021, Barcelona",0.0,0,35
+Can Manel,ASADOR,"C/ Galileo, 85, 08028, Barcelona",0.0,0,30
+Asador Sidrería Donosti,VASCO,"C/ Rosselló, 365, 08025, Barcelona",0.0,0,37
+Salero,MEDITERRÁNEO,"C/ Rec, 60, 08003, Barcelona",0.0,0,22
+Mordisco,ESPAÑOL,"Pasaje de la Concepción, 10, 08008, Barcelona",0.0,0,25
+Centric 35,MEDITERRÁNEO,"C/ Olivera, 35, 08004, Barcelona",0.0,0,23
+Botafumeiro,MARISQUERÍA,"Carrer Gran de Gràcia, 81, 08012, Barcelona",0.0,0,75
+Carabassa,ITALIANO,"Carrer d'en Carabassa, 19, 08002, Barcelona",0.0,0,19
+Martina's Restaurant,ARROCERÍA,"Avenida Moll d'Espanya, 5,, 08039, Barcelona",0.0,0,27
+Lagar,MEDITERRÁNEO,"Carrer del Llenguadoc, 6, 08030, Barcelona",0.0,0,20
+El Rincón de Zamora,CASTELLANO,"Flor de Neu 82, 08016, Barcelona",0.0,0,36
+El Suquet de l'Almirall,ARROCERÍA,"Paseo Juan de Borbón, 65, 08003, Barcelona",0.0,0,31
+Mei Hua,CHINO,"C/ Balmes, 301, 08006, Barcelona",0.0,0,18
+Els Pescadors,MEDITERRÁNEO,"Plaça de Prim, 1, 08005, Barcelona",0.0,0,60
+La Barbacoa de Gracia,CATALÁN,"C/ Torrent de les Flors, 65, 08024, Barcelona",0.0,0,20
+Dolceta 2,CATALÁN,"C/ Comte Urgell, 266, 08036, Barcelona",0.0,0,20
+Gallito,MEDITERRÁNEO,"Passeig del Mare Nostrum, 19-21, 08039, Barcelona",0.0,0,32
+Sigarra,CATALÁN,"C/ Ramón Turró, 201 o Joncar 13 (junto Rambla Poblenou), 08005, Barcelona",0.0,0,10
+Watatsumi,AUTOR,"Gran Vía, 373, 08015, Barcelona",0.0,0,22
+Els Ocellets,MEDITERRÁNEO,"Ronda Sant Pau, 55, 08015, Barcelona",0.0,0,32
+Molina,ESPAÑOL,"Passeig de Sant Gervasi, 65, 08022, Barcelona",0.0,0,26
+Basilea,SUIZO,"C/ de Sant Antoni Maria Claret, 211, 08041, Barcelona",0.0,0,35
+Lisboa,PORTUGUÉS,"C/ Comte Borrell, 145, 08015, Barcelona",0.0,0,18
+Café Emma,FRANCÉS,"C/ Pau Claris, 142, 08009, Barcelona",0.0,0,33
+La Muscleria,MEDITERRÁNEO,"Carrer de Mallorca, 290, Barcelona, Spain, 08037, Barcelona",0.0,0,17
+Napoletani D.O.C,€,"C/ Diputación, 101, 08015, Barcelona",0.0,0,27
+Ca La Mariona,MEDITERRÁNEO,"Carrer d'Amigó, 53, 08021, Barcelona",0.0,0,20
+El Rebost Ibèric,MEDITERRÁNEO,"C/ de Fígols, 15-17, 08028, Barcelona",0.0,0,47
+Restaurante Santiaguiño,GALLEGO,"C/ Buenos Aires, 2, 08029, Barcelona",0.0,0,22
+Pez Vela,ARROCERÍA,"Passeig del Mare Nostrum, 19, 08039, Barcelona",0.0,0,40
+El Portaló de Sant Andreu,CATALÁN,"C/ Gran de Sant Andreu, 34, 08030, Barcelona",0.0,0,23
+Tapas Locas,ESPAÑOL,"C/ Moll de Mestral, 8-9 (Port Olimpic), 08005, Barcelona",0.0,0,21
+Los Asadores,ARGENTINO,"Avinguda de la Riera de Cassoles, 4, 08012, Barcelona",0.0,0,22
+Cheese's Art,MEDITERRÁNEO,"C/ Enric Granados. 13, 08007, Barcelona",0.0,0,32
+Basílico,MEDITERRÁNEO,"Avenida. Paralelo, 142, 08015, Barcelona",0.0,0,25
+Ornina,MERCADO,"Avinguda Diagonal, 593, 08014, Barcelona",0.0,0,49
+Casa de Tapes Cañota,GALLEGO,"C/ Lleida, 7, 08004, Barcelona",0.0,0,19
+La Forquilla,MEDITERRÁNEO,"Carrer de Pere IV, 210, 08005, Barcelona",0.0,0,40
+Mató de Pedralbes,MEDITERRÁNEO,"C/ Bisbe Català, 10, 08034, Barcelona",0.0,0,35
+Miu Taverna Japonesa,JAPONÉS,"Carrer d'Enric Granados, 23 08007 Barcelona, 08007, Barcelona",0.0,0,17
+Miguelitos,MEDITERRÁNEO,"Avenida Diagonal, 405, 08008, Barcelona",0.0,0,25
+Le Petit Bergerac,FRANCÉS,"C/ Aribau, 141, 08036, Barcelona",0.0,0,25
+Annapurna Barcelona,ASIÁTICO,"C/ París, 161, 08036, Barcelona",0.0,0,16
+La Font del Gat,MEDITERRÁNEO,"Paseo de Santa Madrona, 28, 08038, Barcelona",0.0,0,26
+Doble ZerOO,JAPONÉS,"C/ de Jaume Giralt, 53, 08003, Barcelona",0.0,0,23
+El Racó de la Vila,MEDITERRÁNEO,"Carrer de la Ciutat de Granada, 33, 08005, Barcelona",0.0,0,25
+El Edén de Laforja,CREATIVO,"C/ Laforja, 3, 08006, Barcelona",0.0,0,26
+El Cafeti,CATALÁN,"C/ Sant Rafael, 18, 08001, Barcelona",0.0,0,27
+Miramar Club,MEDITERRÁNEO,"Carretera de Miramar, 40, 08038, Barcelona",0.0,0,40
+El Ramblero,FUSIÓN,"C/ Pont Del Treball, 13, 08020, Barcelona",0.0,0,30
+Iurantia,CREATIVO,"C/ Casanova, 42, 08011, Barcelona",0.0,0,22
+Imprevist,MEDITERRÁNEO,"Carrer de Ferlandina, 08001, Barcelona",0.0,0,25
+Agua,ARROCERÍA,"Passeig Marítim, 30, 08003, Barcelona",0.0,0,40
+Bestial,MEDITERRÁNEO,"C/ Ramón Trias Fargas, 2, 08005, Barcelona",0.0,0,41
+Tragaluz,MEDITERRÁNEO,"Passatge de la Concepció, 5, 08008, Barcelona",0.0,0,32
+Negro,MEDITERRÁNEO,"Avenida Diagonal, 640, 08017, Barcelona",0.0,0,35
+Daps,MEDITERRÁNEO,"Avenida Diagonal, 469, 08036, Barcelona",0.0,0,24
+Little Italy Jazz,MEDITERRÁNEO,"C/ Rec, 30, 08003, Barcelona",0.0,0,23
+Asador del Mar,ASADOR,"Carrer de Bori i Fontestà, 45, 08017, Barcelona",0.0,0,28
+Marina Bay,ARROCERÍA,"Carrer de la Marina, 19, 08005, Barcelona",0.0,0,27
+El Tinglado,ESPAÑOL,"Moll de Gregal, 5, 08005, Barcelona",0.0,0,25
+The Chipirón,MEDITERRÁNEO,"Moll d'Espanya, s/n, 08039, Barcelona",0.0,0,27
+Chiringuito las Sardinitas,MEDITERRÁNEO,"Av. del Litoral, 36, 08005, Barcelona",0.0,0,25
+Taberna del Cura,ESPAÑOL,"Carrer Gran de Gràcia, 83, 08012, Barcelona",0.0,0,25
+Gelonch,MEDITERRÁNEO,"Carrer de Bailèn, 56, 08009, Barcelona",0.0,0,54
+Torre d'Alta Mar,MEDITERRÁNEO,"Passeig Joan de Borbó, 88, 08039, Barcelona",0.0,0,75
+Cinc Sentits,CATALÁN,"Carrer d'Entença, 60, 08015, Barcelona",0.0,0,80
+Mexico dorado,MEXICANO,"Carrer de Sants, 6, 08014, Barcelona",0.0,0,20
+Mi Restaurante,JAPONÉS,"Carrer del Carme, 74, 08001, Barcelona",0.0,0,15
+El calamarcito de Beirut,LIBANÉS,"Carrer de Llull, 229, 08005, Barcelona",0.0,0,15
+Zizinia,ÁRABE,"Carrer del Torrent de les Flors, 87, 08024, Barcelona",0.0,0,15
+Shalimar,IRANÍ,"Carrer del Carme, 71, 08001, Barcelona",0.0,0,12
+Casa Blanca - Mercat Sant Antoni,CATALÁN,"Ronda de Sant Antoni, 1, 08011, Barcelona",0.0,0,17
+Haddock - La Taverne Canaille,ESPAÑOL,"Carrer de València, 181, 08011, Barcelona",0.0,0,40
+La Clotenca,€,"Carrer del Clot, 49, 08018, Barcelona",0.0,0,20
+Zeru,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 654, 08010, Barcelona",0.0,0,20
+Calle Santafe,MEDITERRÁNEO,"Carrer de Santa Fe de Nou Mèxic, 18, 08017, Barcelona",0.0,0,28
+El Cochinillo Loco,MERCADO,"La Rambla, 91, 08001, Barcelona",0.0,0,20
+Pandora,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 08011, Barcelona",0.0,0,18
+The Fish & Chips Shop,INGLÉS,"Carrer de Rocafort, 70, 08015, Barcelona",0.0,0,12
+TB Bar - Grand Hotel La Florida,MEDITERRÁNEO,"Carretera de Vallvidrera al Tibidabo, 83, 08035, Barcelona",0.0,0,30
+Igueldo,ASADOR,"Rosello 186, 08008, Barcelona",0.0,0,40
+Ciudadela Parc - Hotel Ciudadela Parc,ARROCERÍA,"Paseo Pujades, 5, 08018, Barcelona",0.0,0,23
+Al Passatore-Pla de Palau,€,"C/ Pla de Palau, 8, 08002, Barcelona",0.0,0,18
+Croqueteca,ESPAÑOL,"Passatge de Còrsega, 3, 08026, Barcelona",0.0,0,12
+Truiteria La Ceba,CATALÁN,"Carrer de la Perla, 10, 08012, Barcelona",0.0,0,12
+Patxi,VASCO,"C/ Bonavista, 21, 08025, Barcelona",0.0,0,45
+El Rincón Cubano,CUBANO,"Carrer de l'Or, 19, 08012, Barcelona",0.0,0,20
+Flor de Maig Pintor Fortuny,VEGETARIANO,"Carrer del Pintor Fortuny, 29, 08001, Barcelona",0.0,0,15
+Casa Sánchez,MEDITERRÁNEO,"Moll de Gregal, 11 y 12, 08005, Barcelona",0.0,0,30
+Cobab,COREANO,"Carrer d´Entença, 62, 08015, Barcelona",0.0,0,18
+Electric Bcn,ITALIANO,"C/ d'Entença, 116, 08015, Barcelona",0.0,0,20
+Tío papelón,VENEZOLANO,"Carrer de Sicília, 247, 08025, Barcelona",0.0,0,10
+La Foixarda del Poble,MEDITERRÁNEO,"Av. Francesc Ferrer i Guàrdia, 13, 08038, Barcelona",0.0,0,25
+Tempura & Thali,INDIO,"Carrer de Béjar, 70, 08014, Barcelona",0.0,0,15
+Tetas y Sopa,MEDITERRÁNEO,"Carrer del Rosselló, 368, 08025, Barcelona",0.0,0,14
+Sanabrés,MEDITERRÁNEO,"Carrer del Taquígraf Serra, 24, 08029, Barcelona",0.0,0,20
+La Central - Diputación,MEDITERRÁNEO,"Carrer de la Diputació, 255, 08007, Barcelona",0.0,0,15
+Menssana,MEDITERRÁNEO,"Carrer de Sardenya, 48, 08005, Barcelona",0.0,0,15
+Bar Bodega Can Ros,MEDITERRÁNEO,"Carrer de Roger de Flor, 303, 08025, Barcelona",0.0,0,10
+Panchito Gracia,MEXICANO,"Carrer de Bruniquer, 33, 08024, Barcelona",0.0,0,15
+El Clandestino,MEDITERRÁNEO,"Carrer de Jaume Piquet, 1B, 08017, Barcelona",0.0,0,25
+Foxos de Llúria,GALLEGO,"Carrer de Roger de Llúria, 50, 08009, Barcelona",0.0,0,25
+D. Fenix Sushi,AUTOR,"C/ Nàpols, 141, 08013, Barcelona",0.0,0,12
+Food Health,ESPAÑOL,"C/ Balmes, 44, 08007, Barcelona",0.0,0,11
+Romero,MEDITERRÁNEO,"C/ Bailén, 115, 08009, Barcelona",0.0,0,22
+Teresa Carles,MEDITERRÁNEO,"Carrer de Jovellanos, 2, 08001, Barcelona",0.0,0,25
+Touhou,COREANO,"C/ Ausiàs March, 56, 08010, Barcelona",0.0,0,10
+Asador de Galicia,ASADOR,"C/ Sepúlveda 187, 08011, Barcelona",0.0,0,25
+El Mirador del Carmelo I,ANDALUZ,"C/ Pasteur, 2, 08024, Barcelona",0.0,0,18
+Saffron,MEDITERRÁNEO,"C/ Enric Granados, 24, 08007, Barcelona",0.0,0,25
+Tarantella,€,"C/ Sepúlveda, 98, 08015, Barcelona",0.0,0,21
+La Llimona,ESPAÑOL,"C/ Constança, 6, 08029, Barcelona",0.0,0,19
+Mediterrània - Hotel Zenit Barcelona,MEDITERRÁNEO,"C/ Santaló, 8, 08021, Barcelona",0.0,0,25
+Tres Torres,ESPAÑOL,"Carrer del Rosari, 15, 08017, Barcelona",0.0,0,20
+Tatau L'Antiquari,ESPAÑOL,"C/ Salou 5, 08014, Barcelona",0.0,0,16
+Huanchaco Beach,PERUANO,"Carrer de Béjar, 54, 08014, Barcelona",0.0,0,20
+Pata Negra,ANDALUZ,"C/ Cáceres, 32, 08028, Barcelona",0.0,0,15
+El Taronget,ITALIANO,"Passatge Lluís Pellicer 24, 08036, Barcelona",0.0,0,26
+Ikki Bar,JAPONÉS,"Carrer de Cabanes, 25, 08004, Barcelona",0.0,0,12
+Vía Fora,MEDITERRÁNEO,"Riera de Sant Miquel, 25, 08006, Barcelona",0.0,0,16
+CalalaPasta,€,"C/ D'Espronceda, 128, 08005, Barcelona",0.0,0,14
+El Paraguayo,ASADOR,"C/ Parc, 1, 08002, Barcelona",0.0,0,31
+El Alebrije,MEXICANO,"C/ Mallorca, 188, 08036, Barcelona",0.0,0,23
+Restaurante El Reloj,MEDITERRÁNEO,"Vía Layetana, 40, 08003, Barcelona",0.0,0,20
+Ginos - Maremagnum,ITALIANO,"Moll d´Espanya, 5, 08039, Barcelona",0.0,0,15
+Idò DO Balear,MEDITERRÁNEO,"Carrer de Viladomat, 43, 08015, Barcelona",0.0,0,15
+Balmes Roselló,MEDITERRÁNEO,"Carrer de Balmes, 129 Bis, 08008, Barcelona",0.0,0,25
+Marrakech,MARROQUÍ,"Carrer de Béjar, 89, 08014, Barcelona",0.0,0,22
+Il Giardinetto di Gràcia,€,"C/ Sant Lluis, 37, 08012, Barcelona",0.0,0,20
+Tickets,MEDITERRÁNEO,"Avinguda del Paraŀlel, 164, 08015, Barcelona",0.0,0,100
+Casabe,VENEZOLANO,"Carrer de Laforja, 23, 08006, Barcelona",0.0,0,15
+EatMyTrip Brunch & Bakery,INTERNACIONAL,"Carrer del Consell de Cent, 378, 08009, Barcelona",0.0,0,12
+Key Montjuic - Club Natació Montjuic,MEDITERRÁNEO,"Carrer del Segura, s/n, 08038, Barcelona",0.0,0,27
+La Central - Arenas,MEDITERRÁNEO,"Carrer de Llança, 20, 08015, Barcelona",0.0,0,15
+Bella Sushi,JAPONÉS,"Carrer de Calàbria, 98, 08015, Barcelona",0.0,0,12
+Pappa & Citti,ITALIANO,"Carrer de l'Encarnació, 38, 08024, Barcelona",0.0,0,18
+El Guindilla - Barceloneta,MEDITERRÁNEO,"Plaça del Poeta Boscà, 2, 08003, Barcelona",0.0,0,20
+La Bodegueta de les Corts,ESPAÑOL,"Travessera de les Corts 154, 08028, Barcelona",0.0,0,20
+La Fusión,ASIÁTICO,"Carrer de Santander, 82, 08030, Barcelona",0.0,0,15
+Frenchies Brothers,FRANCÉS,"Carrer de València, 352, 08009, Barcelona",0.0,0,15
+Ô Paris Puerto Olímpico,FRANCÉS,"Moll de Gregal, 26, 08005, Barcelona",0.0,0,23
+El Setanta-Vuit,MERCADO,"Carrer de Badajoz, 67, 08005, Barcelona",0.0,0,13
+Alta Galicia,MARISQUERÍA,"C/ Rambla Poblenou, 93, 08005, Barcelona",0.0,0,24
+Surf House,FUSIÓN,"Av. Almirall Aixada, 22, 08003, Barcelona",0.0,0,16
+Can Martí,CATALÁN,"C/Pasaje Font del Mont, 4, 08017, Barcelona",0.0,0,18
+Futami,JAPONÉS,"C/ Enric Granados, 10, 08007, Barcelona",0.0,0,21
+Andino,PERUANO,"Carrer de Còrsega, 589, Barcelona, Spain, 08025, Barcelona",0.0,0,20
+Gust,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 633, 08010, Barcelona",0.0,0,22
+La Vietnamita,VIETNAMITA,"C/ Torrent de l'Olla, 78, 08012, Barcelona",0.0,0,29
+Codium,CREATIVO,"C/ Villaroel, 88, 08011, Barcelona",0.0,0,13
+La Mostra,ESPAÑOL,"C/ Riera de Sant Miquel, 11, 08006, Barcelona",0.0,0,65
+Tablao de Carmen,ANDALUZ,"Avinguda de Francesc Ferrer i Guàrdia, 13, 08038, Barcelona",0.0,0,"[12, 27, 15, 12, 18, 20, 20, 15, 15, 23, 13, 24, 16, 18, 21, 20, 22, 29, 13, 65]"
+Atmosphère,FRANCÉS,"C/ Venus, 1-3, 08012, Barcelona",0.0,0,20
+El Racó del Peix,MARISQUERÍA,"Carrer del Tajo, 8, 08031, Barcelona",0.0,0,30
+La Taverneta Barcelona,CATALÁN,"Carrer de Francesc Pujols, 3, 08002, Barcelona",0.0,0,25
+Nice Spice,INDIO,"C/ Pujades, 207, 08005, Barcelona",0.0,0,12
+Kebab Grill,TURCO,"Passeig de Sant Antoni, 7, 08014, Barcelona",0.0,0,15
+Can Costa,MEDITERRÁNEO,"Passeig de Joan de Borbó, 70, 08003, Barcelona",0.0,0,35
+3 Atelier Gastrobar Eddie Arola,AUTOR,"C/ Còrsega, 231, 08036, Barcelona",0.0,0,17
+Lam Thai Street Food,TAILANDÉS,"Gran Via de les Corts Catalanes, 518, 08015, Barcelona",0.0,0,22
+Kaiku,MEDITERRÁNEO,"Plaza del Mar, 1, 08003, Barcelona",0.0,0,35
+Boca Boca,MEDITERRÁNEO,"Passeig de Fabra i Puig, 211, 08016, Barcelona",0.0,0,12
+Micaela Pizzería,€,"Carrer de l'Hospital, 46, 08001, Barcelona",0.0,0,10
+Fulano Mengano,MEDITERRÁNEO,"Carrer de Muntaner, 325, 08021, Barcelona",0.0,0,20
+Gran Torino Garage Bar,ITALIANO,"Plaça del Duc de Medinaceli, 6, 08002, Barcelona",0.0,0,15
+Taj Indian Barcelona,INDIO,"Carrer de Bailèn, 219, 08037, Barcelona",0.0,0,20
+The Sopa Boba,MEDITERRÁNEO,"Carrer del Bruc, 115, 08009, Barcelona",0.0,0,20
+Caldeni,MEDITERRÁNEO,"C/ Valencia, 452, 08013, Barcelona",0.0,0,38
+Creps Barcelona,FRANCÉS,"C/ Rambla Poble Nou, 27, 08005, Barcelona",0.0,0,14
+Mediterranean Original,€,"Avenida Diagonal, 208, 08018, Barcelona",0.0,0,10
+Casa Julio,MEDITERRÁNEO,"Carrer dels Garrofers, 65, 08016, Barcelona",0.0,0,25
+Mochica,PERUANO,"C/ Gran Vía de les Corts Catalanes, 487, local 1, 08015, Barcelona",0.0,0,24
+Zanzíbar Cocktails & Restaurant,MEDITERRÁNEO,"C/ del Mestre Nicolau, 4, 08021, Barcelona",0.0,0,21
+Vell Poblenou,ARROCERÍA,"C/ Taulat, 95 , 08005, Barcelona",0.0,0,19
+Sibarit,CREATIVO,"C/ Aribau, 65, 08011, Barcelona",0.0,0,33
+Pan & Oli,MEDITERRÁNEO,"Carrer de Galileu, 30, 08028, Barcelona",0.0,0,23
+Ramen Dining Yú,JAPONÉS,"C/ Valencia, 204, 08011, Barcelona",0.0,0,22
+Bar Santa Fe,BRASILEÑO,"Carrer de Wellington, 17, 08018, Barcelona",0.0,0,15
+La Torreta de l'Escorial,CATALÁN,"Carrer de l'Escorial, 158, 08024, Barcelona",0.0,0,25
+Julivert Meu,CATALÁN,"Carrer del Bonsuccés, 7, 08001, Barcelona",0.0,0,20
+Ta-Tung,ASIÁTICO,"C/ Mariano Cubí, 85, 08006, Barcelona",0.0,0,13
+Tactic Good Life,MEDITERRÁNEO,"Enric Granados, 11, 08007, Barcelona",0.0,0,15
+Ramen Suita,JAPONÉS,"Carrer del Príncep Jordi, 6, 08014, Barcelona",0.0,0,13
+Barcelonas Restaurant,MEDITERRÁNEO,"Ctra. de Vallvidrera al Tibidabo, 83-93, 08035, Barcelona",0.0,0,65
+A Toda Leña,ARGENTINO,"Carrer del Consell de Cent, 487, 08013, Barcelona",0.0,0,20
+9NINE,MEDITERRÁNEO,"Carrer de València, 334, 08009, Barcelona",0.0,0,25
+La Barra - Mercat del Ninot,MERCADO,"Carrer de Mallorca, 133, 08036, Barcelona",0.0,0,13
+Don Baco,ESPAÑOL,"C/ Nápoles, 331, 08025, Barcelona",0.0,0,12
+Bona sort sushi,JAPONÉS,"Carrer de la Marina, 191, 08013, Barcelona",0.0,0,20
+El Establo,ARGENTINO,"Passeig de Maragall, 56, 08041, Barcelona",0.0,0,25
+BOB Oyster BCN,MARISQUERÍA,"Carrer de París, 190, 08036, Barcelona",0.0,0,25
+Riad Sakura,ÁRABE,"Carrer de Sicília, 270, 08013, Barcelona",0.0,0,20
+Balius Bar Gastrococtelería,MEDITERRÁNEO,"Carrer de Pujades, 196, 08005, Barcelona",0.0,0,20
+Sushi Samba Fushion,CATALÁN,"Carrer de Bailèn, 113, 08037, Barcelona",0.0,0,120
+La Mesa de Ángel León,CREATIVO,"Passeig de Gràcia, 38-40, 08007, Barcelona",0.0,0,27
+Dolci Parole,ITALIANO,"C/ Consell de Cent, 329, 08007, Barcelona",0.0,0,22
+Sensi Bistro Tapas,MEDITERRÁNEO,"C/ Regomir, 4, 08002, Barcelona",0.0,0,18
+Rosti,INTERNACIONAL,"C / Ramon Trías Fargas, 4, 08005, Barcelona",0.0,0,10
+Bella Italia,€,"C/ Roger de Llúria, 87, 08009, Barcelona",0.0,0,26
+La Perla,ESPAÑOL,"C/ Numancia, 66, 08029, Barcelona",0.0,0,24
+El 106 - Hotel Acevi Villarroel,MEDITERRÁNEO,"C/ Villaroel, 106, 08011, Barcelona",0.0,0,13
+El Racó d'en Pep,MEDITERRÁNEO,"C/ Sardenya, 404, 08025, Barcelona",0.0,0,"[15, 13, 65, 20, 25, 13, 12, 20, 25, 25, 20, 20, 120, 27, 22, 18, 10, 26, 24, 13]"
+Buoni e Cattivi,€,"C/ Amargós, 13, 08002, Barcelona",0.0,0,25
+La casita del hondureño,MEXICANO,"Carrer Sant Manuel, 2, 08031, Barcelona",0.0,0,15
+L'Eixample Barcelona,MERCADO,"Carrer de Viladomat, 131, 08015, Barcelona",0.0,0,15
+L'Òstia,MEDITERRÁNEO,"Plaça de la Barceloneta, 1-3, 08003, Barcelona",0.0,0,20
+Pato Pekín,CHINO,"C/ Marina, 16, 08005, Barcelona",0.0,0,27
+Zero 20,MEXICANO,"Carrer d'Indíbil, 6, 08004, Barcelona",0.0,0,12
+La Quesera Barcelona,MEDITERRÁNEO,"Plaça del Camp, 7, 08022, Barcelona",0.0,0,18
+Observatorio Fabra,MEDITERRÁNEO,"Camí de Observatori, s/n, 08035, Barcelona",0.0,0,75
+El Petit Príncep,INTERNACIONAL,"Gran Via de les Corts Catalanes, 677, 08013, Barcelona",0.0,0,15
+Pizza Paco,€,"Carrer de l'Allada-Vermell, 11, 08003, Barcelona",0.0,0,15
+Restaurante Alfonsina,ARGENTINO,"Carrer de la Diputació, 379, 08013, Barcelona",0.0,0,20
+Peggy Sue's,AMERICANO,"Carrer de Balmes, 24, 08007, Barcelona",0.0,0,15
+Sapore di Mare,€,"Paseo Joan de Borbó, 2, 08003, Barcelona",0.0,0,29
+Tres Encinas,MEDITERRÁNEO,"Avda. de Roma, 153, 08011, Barcelona",0.0,0,30
+Namaste II,INDIO,"C/ Villarroel, 70, 08011, Barcelona",0.0,0,30
+Hoja Santa by Albert Adrià y Paco Méndez,MEXICANO,"Avinguda de Mistral, 54, 08015, Barcelona",0.0,0,110
+Machete - El Born,LATINO,"Pla de Palau, 12, 08003, Barcelona",0.0,0,20
+La Burrata,€,"Carrer de Balmes, 283, 08006, Barcelona",0.0,0,15
+Madrelievito - Barcelona,€,"Carrer de la Llacuna, 1, 08005, Barcelona",0.0,0,15
+The Venue Steak House,INGLÉS,"C/ Rosselló, 08011, Barcelona",0.0,0,33
+La Fonda del Camino,COLOMBIANO,"C/ 26 de Gener, 26, 08014, Barcelona",0.0,0,30
+El rey de Istanbul,TURCO,"Carrer de Ribes, 23, 08013, Barcelona",0.0,0,14
+Shiki,JAPONÉS,"Carrer de Joan d’Àustria, 08018, Barcelona",0.0,0,12
+La Crema Canela,MEDITERRÁNEO,"Passatge Madoz, 6, 08002, Barcelona",0.0,0,20
+Dine in Dark,MEDITERRÁNEO,"Carrer del Carme, 33, 08001, Barcelona",0.0,0,54
+Di...Vini Sapori,€,"Carrer de Buenos Aires, 28, 08036, Barcelona",0.0,0,20
+Catacroquet,MEDITERRÁNEO,"Carrer dels Almogàvers, 211, 08018, Barcelona",0.0,0,15
+Le Saint-Tropez,MEDITERRÁNEO,"Carrer de Provença, 88, 08029, Barcelona",0.0,0,25
+Come In,MEDITERRÁNEO,"Carrer de València, 334 08009 Barcelona, 08009, Barcelona",0.0,0,20
+La Xarcu,MEDITERRÁNEO,"Plaza Molina, 1, 08006, Barcelona",0.0,0,20
+Bodega La Peninsular,ESPAÑOL,"Carrer del Mar, 29, Barcelona, Spain, 08003, Barcelona",0.0,0,17
+Flax&Kale,MEDITERRÁNEO,"Carrer dels Tallers, 74, 08001, Barcelona",0.0,0,25
+Machete - Gòtic,LATINO,"Carrer Ample, 20, 08002, Barcelona",0.0,0,20
+Sinla,COREANO,"Carrer de la Ciutat de Balaguer, 58, 08022, Barcelona",0.0,0,18
+Lata-Barra,MEDITERRÁNEO,"Carrer de Mallorca, 438, Barcelona, Spain, 08013, Barcelona",0.0,0,20
+Gardenia Taverna Gastronomica,MEDITERRÁNEO,"Carrer de París, 161, 08036, Barcelona",0.0,0,30
+El Celler del Vermut,GALLEGO,"Carrer de Lepant, 239, 08013, Barcelona",0.0,0,20
+De Zero,ESPAÑOL,"Av. de Sarrià, 23, 08029, Barcelona",0.0,0,10
+El Clàssic,MERCADO,"Carrer del Bruc, 71, 08009, Barcelona",0.0,0,25
+Xop Dor,MEDITERRÁNEO,"Avinguda Paral·lel, 204, 08015, Barcelona",0.0,0,25
+La Balanza,ITALIANO,"Carrer de Folgueroles, 3, 08022, Barcelona",0.0,0,24
+Kurz & Gut - Barceloneta,INTERNACIONAL,"Passeig de Joan de Borbó, 65, 08003, Barcelona",0.0,0,15
+Yoüme,JAPONÉS,"Carrer de Roger de Flor, 204, 08013, Barcelona",0.0,0,15
+El Felino,€,"Carrer de la Marina, 269, 08025, Barcelona",0.0,0,15
+L'Arròs - Palau de Mar,MEDITERRÁNEO,"Plaça Pau Vila, 1, 08039, Barcelona",0.0,0,25
+La Cueva del tío Jesús,CATALÁN,"C/ Escocia, 5, 08016, Barcelona",0.0,0,25
+Cremat 11,ESPAÑOL,"Carrer Cremat Gran, 11, 08003, Barcelona",0.0,0,25
+Sports Bar Italian Food,ITALIANO,"Carrer de la Marina, 290, 08025, Barcelona",0.0,0,20
+Bellvitja,MERCADO,"Carrer de l'Hospital, 38, 08001, Barcelona",0.0,0,25
+Hanoi,VIETNAMITA,"Plaza Dr. Letamendi. 27, 08007, Barcelona",0.0,0,20
+Come Come,MEDITERRÁNEO,"C/ Viladomat, 322, 08029, Barcelona",0.0,0,19
+Hidalgo,MEDITERRÁNEO,"Carrer de Balmes, 396, 08022, Barcelona",0.0,0,25
+"El Arrayán (Mandarin Oriental, Barcelona)",MEXICANO,"Passeig de Gràcia, 38, 08007, Barcelona",0.0,0,40
+DAKARBCN,AFRICANO,"Carrer del Consell de Cent, 352, 08009, Barcelona",0.0,0,15
+Domo Restaurant,MEDITERRÁNEO,"Carrer de Provençals, 19, 08019, Barcelona",0.0,0,20
+La Buena Vida,MEDITERRÁNEO,"Rambla del Poblenou, 59, 08005, Barcelona",0.0,0,15
+La Timpa,ITALIANO,"Carrer Nou de la Rambla, 154, 08004, Barcelona",0.0,0,17
+Samurai Ramen,JAPONÉS,"Carrer de Lleida, 11, 08004, Barcelona",0.0,0,18
+Teppan-Ya,JAPONÉS,"Carrer de Lepant, 347, 08025, Barcelona",0.0,0,20
+Taverna Can Roca,CATALÁN,"C/ Gran de Sant Andreu, 209, 08030, Barcelona",0.0,0,25
+El Gallego,GALLEGO,"C/ María Cubí, 90, 08021, Barcelona",0.0,0,14
+RARE burgers & more,AMERICANO,"Carrer de Casp, 55, 08010, Barcelona",0.0,0,18
+Máncora,PERUANO,"Gran Via de les Corts Catalanes, 479, 08015, Barcelona",0.0,0,15
+Balsàmic,MERCADO,"C/ Milanesat, 34, 08017, Barcelona",0.0,0,22
+Aché pa ti,CUBANO,"C/ Castillejos, 208, 08013, Barcelona",0.0,0,14
+El Ñaño Caminito Guayaquil,LATINO,"Carrer d'Aragó, 54, 08015, Barcelona",0.0,0,15
+Hydrogen - Hotel Barceló Sants,MEDITERRÁNEO,"Pl. Països Catalans, s/n, 08014, Barcelona",0.0,0,45
+Lasarte by Martín Berasategui - Monument Hotel,MEDITERRÁNEO,"C/ Mallorca, 259, 08008, Barcelona",0.0,0,200
+Pudding Pau Claris,MEDITERRÁNEO,"Carrer de Pau Claris, 90, 08010, Barcelona",0.0,0,12
+Urban's,MEDITERRÁNEO,"Carrer del Rosselló, 174, 08036, Barcelona",0.0,0,18
+La Portería,MEDITERRÁNEO,"C/ Laforja, 11 , 08006, Barcelona",0.0,0,31
+Taverna Pervers,MEDITERRÁNEO,"Carrer d'Hercegovina, 24, 08006, Barcelona",0.0,0,25
+Breakfast & Lunch,MEDITERRÁNEO,"Passeig de Joan de Borbó, 6, 08003, Barcelona",0.0,0,15
+Ignició,MEDITERRÁNEO,"Carrer de Còrcega, 244, 08036, Barcelona",0.0,0,25
+El Tianguis Trompo,MEXICANO,"Carrer de Sepúlveda, 151, 08011, Barcelona",0.0,0,17
+Bertso Taberna,VASCO,"Carrer Verdi, 138, Barcelona, Spain, 08012, Barcelona",0.0,0,25
+Café San Telmo,INTERNACIONAL,"C/ Buenos Aires, 60, 08036, Barcelona",0.0,0,21
+Navarra,MEDITERRÁNEO,"Passeig de Gràcia, 4, 08007, Barcelona",0.0,0,28
+La Torrada de Cristòfol,CATALÁN,"C/Plaza María Brossa, 14, 08030, Barcelona",0.0,0,35
+Tast-Ller,MEDITERRÁNEO,"Carrer de Viladomat, 137, 08015, Barcelona",0.0,0,75
+Tonka,MEDITERRÁNEO,"C/ Marqués del Campo Sagrado, 27, 08015, Barcelona",0.0,0,18
+Yummy Veggie,VEGETARIANO,"Carrer de Pere IV, 208, 08005, Barcelona",0.0,0,10
+Shingane,COREANO,"Carrer de Calàbria, 232, 08029, Barcelona",0.0,0,20
+Chamestong,ASIÁTICO,"Ronda de la Universitat, 11, 08007, Barcelona",0.0,0,15
+Nagisa,JAPONÉS,"C/ Alfonso XII 34, 08006, Barcelona",0.0,0,15
+La Biblioteca Gourmande,MEDITERRÁNEO,"Carrer de la Junta de Comerç, 28, Barcelona, Spain, 08001, Barcelona",0.0,0,30
+Tresss i no res,€,"C/ Cera, 53, 08001, Barcelona",0.0,0,17
+Idíl.lic,VEGETARIANO,"Carrer de Muntaner, 32, 08011, Barcelona",0.0,0,17
+Ándele Arenas,MEXICANO,"Gran Via de les Corts Catalanes, 373, 08015, Barcelona",0.0,0,20
+Vesuvius,€,"Carrer Entença, 64, 08015, Barcelona",0.0,0,18
+Mandragora,GALLEGO,"C/ Carmen, 95, 08001, Barcelona",0.0,0,19
+Fishop,MEDITERRÁNEO,"Passeig de Gràcia , 53 - Bulevard Rosa, 08007, Barcelona",0.0,0,50
+Ostras Pedrín,MEDITERRÁNEO,"Carrer de Còrsega, 225, 08036, Barcelona",0.0,0,30
+Jai-Ca,MEDITERRÁNEO,"Carrer de Ginebra, 7-9, 08003, Barcelona",0.0,0,20
+Vicios y virtudes,MEDITERRÁNEO,"Carrer de Blasco de Garay, 10, Barcelona, Spain, 08004, Barcelona",0.0,0,25
+La Mar Salada,MARISQUERÍA,"Passeig Joan de Borbó, 58, 08003, Barcelona",0.0,0,27
+Bismad,INDIO,"Carrer de Villarroel, 23, 08011, Barcelona",0.0,0,12
+Bun Bo Vietnam Raval,VIETNAMITA,"Carrer dels Àngels, 6, 08001, Barcelona",0.0,0,20
+LAB Restaurant,MEDITERRÁNEO,"Carrer de Rossend Arús, 12, 08014, Barcelona",0.0,0,56
+Vilmar Rosselló,BRASILEÑO,"Carrer del Rosselló, 209, 08008, Barcelona",0.0,0,35
+Vilaret,€,"Passatge de Vilaret, 54, 08013, Barcelona",0.0,0,15
+Okinawa Sushi,JAPONÉS,"Av. Diagonal, 40, 08019, Barcelona",0.0,0,25
+La Rueda,LATINO,"C/ Rosselló, 266, 08037, Barcelona",0.0,0,20
+Casa Díaz,MEDITERRÁNEO,"Carrer de los Castillejos, 285, Barcelona, Spain, 08025, Barcelona",0.0,0,10
+L'Empanat,CREATIVO,"Carrer de Monlau, 60, 08027, Barcelona",0.0,0,15
+Piccata,€,"Gran Vía de las Cortes Catalanes, 489, 08015, Barcelona",0.0,0,24
+Cata 1.81,CATALÁN,"C/ València, 181, 08011, Barcelona",0.0,0,15
+La Clara,MEDITERRÁNEO,"Gran via de les corts Catalanes, 442, 08015, Barcelona",0.0,0,22
+Ali doner kebab,€,"Carrer de Còrsega, 629, 08025, Barcelona",0.0,0,15
+Theseo,MEDITERRÁNEO,"Carrer del Comte Borrell, 119, 08015, Barcelona",0.0,0,15
+Meet,JAPONÉS,"Carrer del Consell de Cent, 401, 08009, Barcelona",0.0,0,20
+Paralelo 91,MEDITERRÁNEO,"Avinguda Paral·lel, 91, 08004, Barcelona",0.0,0,19
+Índigo - Hilton Diagonal Mar Barcelona,MEDITERRÁNEO,"Passeig del Taulat, 262 - 264, 08019, Barcelona",0.0,0,35
+Caliu,MEDITERRÁNEO,"C/ Assaonadors, 31Plaza Allada/Vermell 18, 08003, Barcelona",0.0,0,24
+Forno d'Oro,MEDITERRÁNEO,"Gran Via de les Corts Catalanes, 295, 08014, Barcelona",0.0,0,15
+Nubar,MEDITERRÁNEO,"Passeig de Gràcia, 53, 08007, Barcelona",0.0,0,30
+Rincón Persa,IRANÍ,"Carrer de Floridablanca, 85, 08015, Barcelona",0.0,0,25
+Vegetalia Sarrià,VEGETARIANO,"Passatge de Senillosa, 1bis, 08034, Barcelona",0.0,0,15
+Trattoria O’Principe,ITALIANO,"Carrer de Pujades, 209, 08005, Barcelona",0.0,0,17
+Tomax,MEDITERRÁNEO,"Carrer de Loreto, 32, 08029, Barcelona",0.0,0,35
+Mezzé,AMERICANO,"Plaça del rom cremat 08027 Barcelona, 08027, Barcelona",0.0,0,10
+Carmen Carmen,ESPAÑOL,"Carrer de Bailèn, 104, 08009, Barcelona",0.0,0,15
+Feed & Fit,MEDITERRÁNEO,"Av. de Josep Tarradellas, 111, 08029, Barcelona",0.0,0,20
+Roto Barcelona,MEDITERRÁNEO,"Passeig de Joan de Borbó, 74, 08039, Barcelona",0.0,0,25
+Caramba Tapas,MEDITERRÁNEO,"Carrer de la Cera, 57, 08001, Barcelona",0.0,0,17
+Maillard,MEDITERRÁNEO,"Carrer del Equador, 47, 08029, Barcelona",0.0,0,10
+MoMa,MERCADO,"Carrer de Riego, 25, 08014, Barcelona",0.0,0,25
+Burro Chilango,MEXICANO,"C/ Cinca, 86, 08030, Barcelona",0.0,0,20
+Asador de Lugo,ASADOR,"C/ Condes de Belloc, 63-65, 08014, Barcelona",0.0,0,27
+La Orquídea,LATINO,"C/ Llull, 230, 08005, Barcelona",0.0,0,17
+Dorotea,MEDITERRÁNEO,"Carrer de Santes Creus, 18, 08031, Barcelona",0.0,0,25
+Miss Sushi - Diagonal Mar,JAPONÉS,"Avinguda Diagonal, 21, 08019, Barcelona",0.0,0,16
+Parker Restaurante,MEDITERRÁNEO,"Carrer d'Aribau, 3, 08011, Barcelona",0.0,0,15
+Yoma II,JAPONÉS,"Carrer de la Independència, 361, 08026, Barcelona",0.0,0,14
+Almalibre Açaí Bar,VEGETARIANO,"Carrer de Girona, 118, 08009, Barcelona",0.0,0,15
+El Foro,ARGENTINO,"C/Princesa, 53, 08003, Barcelona",0.0,0,25
+Un Bocado,JAPONÉS,"Carrer de Viladomat, 259, 08029, Barcelona",0.0,0,18
+Dumplings,ASIÁTICO,"Carrer de la Creu Coberta, 48, 08014, Barcelona",0.0,0,20
+La Jacaranda del Dos Torres,MEDITERRÁNEO,"Via Augusta, 300, 08017, Barcelona",0.0,0,25
+Happy Day Vegetariano,VEGETARIANO,"Carrer de Pau Claris, 143, 08009, Barcelona",0.0,0,15
+Cantina Mexicana,MEXICANO,"Carrer de l'Encarnació, 51, 08024, Barcelona",0.0,0,20
+Bangkok Café,TAILANDÉS,"Carrer d'Evarist Arnús, 65, 08014, Barcelona",0.0,0,26
+San Shi Rou,JAPONÉS,"Av. de Josep Tarradellas, 118, 08029, Barcelona",0.0,0,20
+Domu,€,"C/ Muntaner, 69, 08011, Barcelona",0.0,0,24
+La Cuina d'en Jordi,MEDITERRÁNEO,"C/ Tajo, 8, 08031, Barcelona",0.0,0,20
+D Divine,INTERNACIONAL,"C/ Balmes, 24, 08011, Barcelona",0.0,0,21
+Dolsotbap,JAPONÉS,"Carrer del Clot, 85, 08018, Barcelona",0.0,0,15
+Pirineu en Boca,CATALÁN,"Passeig del Born, 4, 08003, Barcelona",0.0,0,20
+Siempreviva,MARISQUERÍA,"Passeig de Joan de Borbó, 7, 08003, Barcelona",0.0,0,11
+El Galió,MARISQUERÍA,"C/ de l'Ajuntament, 11, 08030, Barcelona",0.0,0,35
+Shanghai,JAPONÉS,"C/ del Bisbe Sivilla, 48, 08022, Barcelona",0.0,0,63
+Fit Kitchen,INTERNACIONAL,"Carrer de Londres, 91, 08036, Barcelona",0.0,0,13
+La Retama,MEDITERRÁNEO,"C/ Avinyo, 42, 08002, Barcelona",0.0,0,20
+Lima Limón,PERUANO,"C/ Roselló, 361, 08025, Barcelona",0.0,0,24
+El Sortidor 1908,MEDITERRÁNEO,"Plaza del Sortidor, 5, 08004, Barcelona",0.0,0,20
+Nora BCN,MEDITERRÁNEO,"Avinguda Diagonal, 593 (interior), 08014, Barcelona",0.0,0,40
+L'Hostalet,MEDITERRÁNEO,"Carrer de les Borges Blanques, 20, 08016, Barcelona",0.0,0,15
+Pomodoro,€,"Avinguda Diagonal, 423, 08036, Barcelona",0.0,0,20
+Maur - Urgell,€,"Carrer del Comte d'Urgell, 9, 08011, Barcelona",0.0,0,25
+Argento's,ARGENTINO,"Carrer de Bailèn, 74, 08009, Barcelona",0.0,0,15
+The Market Perú,PERUANO,"Carrer Gran de Gràcia, 7, 08012, Barcelona",0.0,0,25
+Telefèric - Born,INTERNACIONAL,"Plaça de Jacint Reventós, s/n, 08003, Barcelona",0.0,0,30
+Inka,PERUANO,"Carrer d' Escòcia, 62, 08016, Barcelona",0.0,0,20
+L'Escale Bistrot,FRANCÉS,"Passatge de Lluís Pellicer, 12, 08036, Barcelona",0.0,0,30
+El Faro,MARISQUERÍA,"Carrer Arago,159, Barcelona, Spain, 08011, Barcelona",0.0,0,30
+Bao Bar by Paco Pérez,AUTOR,"Carrer d'Arimon, 48, 08022, Barcelona",0.0,0,20
+Topik,MEDITERRÁNEO,"Carrer de València, 199, 08011, Barcelona",0.0,0,30
+Bodega La Puntual,MEDITERRÁNEO,"Carrer de Montcada, 22, 08003, Barcelona",0.0,0,25
+La Mar de Bo,MEDITERRÁNEO,"Plaça de Pau Vila, 1, 08039, Barcelona",0.0,0,35
+Yamadori,JAPONÉS,"C/ Aribau, 68, 08011, Barcelona",0.0,0,25
+BOO Restaurant & Beach Club,MEDITERRÁNEO,"C/ Playa Nova de Mar Bella, s/n ( Ronda Litoral esq. Bac de Roda ), 08005, Barcelona",0.0,0,30
